@@ -1,0 +1,3 @@
+Instruction: Identify how this decision guides future litigation involving closure reports and consent disputes.
+Context: The judgment sets procedural expectations.
+Output: {"obligations": ["Present fresh material for reopening", "Frame consent claims with inception-focused evidence"], "risks": ["Dismissal of writ petitions lacking novelty", "Stricter scrutiny of delayed allegations"]}

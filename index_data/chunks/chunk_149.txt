@@ -1,0 +1,3 @@
+Instruction: Analyze how the Constitution balances religious autonomy with social reform.
+Context: Religious freedom coexists with reform-oriented State powers.
+Output: {"answer": "The Constitution permits State intervention in secular aspects of religion to promote social welfare while preserving core religious practices.", "confidence": "high"}

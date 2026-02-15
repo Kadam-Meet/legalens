@@ -1,0 +1,3 @@
+Instruction: Summarize the evidentiary treatment of character in civil and criminal cases.
+Context: Character evidence is treated differently across proceedings.
+Output: {"topic_name": "Character Evidence", "parties_involved": ["Accused persons", "Victims", "Courts"], "acts_and_clause_involved": ["Character Evidence provisions"], "risk_obligations_perks": {"obligations": "Apply stricter safeguards in criminal cases", "risks": "Improper prejudice influencing verdict", "benefits": "Fair evaluation of conduct where permitted"}, "summary": "The Act restricts character evidence to prevent unfair prejudice while allowing limited relevance in defined scenarios."}

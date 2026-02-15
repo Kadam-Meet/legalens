@@ -1,0 +1,3 @@
+Instruction: Analyze the legal impact of retracting a prior affidavit consenting to case closure.
+Context: The complainant later sought reopening after earlier consent.
+Output: {"answer": "Retraction weakens credibility unless accompanied by proof of coercion, fraud, or new evidence explaining the earlier consent.", "confidence": "high"}

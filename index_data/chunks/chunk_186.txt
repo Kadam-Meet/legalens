@@ -1,0 +1,3 @@
+Instruction: Identify obligations imposed on courts while applying general exceptions under criminal law.
+Context: General exceptions qualify criminal liability.
+Output: {"obligations": ["Consider statutory exceptions alongside offence definitions", "Assess intent, knowledge, and circumstances"], "risks": ["Wrongful conviction if exceptions are ignored", "Misapplication of criminal liability"]}

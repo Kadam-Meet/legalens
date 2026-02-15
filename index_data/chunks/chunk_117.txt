@@ -1,0 +1,3 @@
+Instruction: Explain how opinions help establish customs or general rights.
+Context: Community practices influence legal determinations.
+Output: {"answer": "Opinions of knowledgeable persons help courts assess long-standing practices when documentary proof is unavailable.", "confidence": "high"}

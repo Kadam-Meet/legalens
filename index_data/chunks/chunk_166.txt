@@ -1,0 +1,3 @@
+Instruction: Extract duties related to national unity and integrity.
+Context: Fundamental Duties emphasize national cohesion.
+Output: {"clauses_found": ["Uphold sovereignty and integrity", "Promote harmony among citizens"]}

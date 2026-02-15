@@ -1,0 +1,3 @@
+Instruction: Summarize the consent jurisprudence reaffirmed by the Court in this case.
+Context: The Court applied settled principles on sexual consent.
+Output: {"topic_name": "Consent and Misconception in Sexual Offence Law", "parties_involved": ["Accused persons", "Complainants", "Courts"], "acts_and_clause_involved": ["Section 375 IPC", "Judicial precedents on consent"], "risk_obligations_perks": {"obligations": "Assess intent and circumstances holistically", "risks": "Criminalizing consensual relationships retrospectively", "benefits": "Protection against exploitation while preserving autonomy"}, "summary": "The judgment reiterates that consent must be assessed contextually, with false promise requiring proof of dishonest intent at inception."}

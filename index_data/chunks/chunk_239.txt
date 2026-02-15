@@ -1,0 +1,3 @@
+Instruction: Extract elements constituting offences relating to forged or false documents.
+Context: Document integrity is legally protected.
+Output: {"clauses_found": ["Making a false document", "Intent to cause damage or deception", "Use of forged document as genuine"]}

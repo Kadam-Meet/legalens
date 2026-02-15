@@ -1,0 +1,3 @@
+Instruction: Assess the obligations of High Courts when exercising powers under Section 528 of the BNSS.
+Context: Petitions sought intervention under inherent jurisdiction.
+Output: {"obligations": ["Avoid factual adjudication at the threshold", "Respect statutory presumptions and trial process"], "risks": ["Premature termination of legitimate prosecutions", "Substitution of trial with summary assessment"]}

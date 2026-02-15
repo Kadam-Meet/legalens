@@ -1,0 +1,3 @@
+Instruction: Summarize the legal significance of different stages of crime under the Sanhita.
+Context: Criminal conduct evolves through defined stages.
+Output: {"topic_name": "Stages of Crime", "parties_involved": ["Accused persons", "Courts"], "acts_and_clause_involved": ["General Principles"], "risk_obligations_perks": {"obligations": "Identify stage-specific liability", "risks": "Incorrect classification of conduct", "benefits": "Early prevention of serious offences"}, "summary": "The law differentiates between intention, preparation, attempt, and commission to assign proportionate criminal liability."}

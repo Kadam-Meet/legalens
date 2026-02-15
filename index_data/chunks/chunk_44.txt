@@ -1,0 +1,3 @@
+Instruction: Extract principles governing validity of consent in criminal law.
+Context: Consent affects liability only under specific conditions.
+Output: {"clauses_found": ["Consent must be voluntary", "Consent obtained through coercion or deception is invalid", "Capacity of the consenting person matters"]}

@@ -1,0 +1,3 @@
+Instruction: Identify citizen obligations related to environmental protection.
+Context: Environmental responsibility is recognized as a civic duty.
+Output: {"obligations": ["Protect natural resources", "Show compassion toward living creatures"], "risks": ["Environmental degradation", "Long-term ecological damage"]}

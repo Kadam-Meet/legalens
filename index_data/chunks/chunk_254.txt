@@ -1,0 +1,3 @@
+Instruction: Summarize the Magistrate’s role when considering a closure report.
+Context: The Magistrate accepted the B-Summary after hearing parties.
+Output: {"topic_name": "Magistrate’s Discretion on Closure Reports", "parties_involved": ["Metropolitan Magistrate", "Investigating officer", "Complainant"], "acts_and_clause_involved": ["Section 173 CrPC", "Judicial precedents on closure reports"], "risk_obligations_perks": {"obligations": "Apply independent judicial mind", "risks": "Mechanical acceptance of police opinion", "benefits": "Efficient termination of unfounded cases"}, "summary": "The Magistrate may accept a closure report after considering investigative material and the complainant’s response."}

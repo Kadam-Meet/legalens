@@ -1,0 +1,3 @@
+Instruction: Extract evidentiary rules applicable to determining damages and customary rights.
+Context: Certain facts assist courts in quantification and recognition of rights.
+Output: {"clauses_found": ["Facts aiding assessment of damages", "Transactions establishing custom or right", "Instances demonstrating exercise of a right"]}

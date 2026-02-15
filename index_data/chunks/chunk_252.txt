@@ -1,0 +1,3 @@
+Instruction: Analyze how delay in lodging an FIR affects credibility assessment.
+Context: The complaint was lodged long after the alleged incidents.
+Output: {"answer": "Unexplained delay may raise doubts about veracity, though it is not by itself fatal and must be evaluated with surrounding circumstances.", "confidence": "high"}

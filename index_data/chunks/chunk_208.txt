@@ -1,0 +1,3 @@
+Instruction: Identify risks arising from improper framing of homicide-related charges.
+Context: Charge selection affects trial trajectory.
+Output: {"obligations": ["Align charges with evidentiary material", "Reassess charges as evidence evolves"], "risks": ["Acquittal due to mismatch", "Unfair prejudice to accused"]}

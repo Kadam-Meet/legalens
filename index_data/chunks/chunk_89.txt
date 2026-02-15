@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of how conduct influences evidentiary relevance.
+Context: Conduct before or after an event may affect inference-making.
+Output: {"topic_name": "Conduct as Relevant Evidence", "parties_involved": ["Accused persons", "Victims", "Investigating authorities"], "acts_and_clause_involved": ["Chapter II (Relevancy of Facts)"], "risk_obligations_perks": {"obligations": "Assess conduct in context", "risks": "Misreading neutral behavior as incriminating", "benefits": "Strengthening circumstantial chains"}, "summary": "Conduct evidence assists courts in understanding behavioral responses linked to disputed facts, subject to contextual safeguards."}

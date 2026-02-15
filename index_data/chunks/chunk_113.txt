@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of the role of electronic evidence examiners.
+Context: Digital evidence requires specialized evaluation.
+Output: {"topic_name": "Electronic Evidence Examination", "parties_involved": ["Examiner of Electronic Evidence", "Courts", "Investigating agencies"], "acts_and_clause_involved": ["Information Technology Act linkage", "Expert Evidence provisions"], "risk_obligations_perks": {"obligations": "Ensure forensic integrity", "risks": "Technical errors affecting admissibility", "benefits": "Reliable assessment of digital records"}, "summary": "The Act recognizes certified electronic evidence examiners to ensure accurate judicial evaluation of digital material."}

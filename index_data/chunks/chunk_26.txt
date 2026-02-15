@@ -1,0 +1,3 @@
+Instruction: Extract principles governing who may be punished under the Sanhita.
+Context: Criminal liability is defined by territorial and personal scope.
+Output: {"clauses_found": ["Liability for acts committed within India", "Liability for acts committed outside India with statutory nexus", "Exclusion of special and local laws"]}

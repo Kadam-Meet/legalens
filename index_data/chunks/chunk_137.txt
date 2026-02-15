@@ -1,0 +1,3 @@
+Instruction: Summarize constitutional protections related to personal liberty.
+Context: Articles ensure safeguards against arbitrary punishment and detention.
+Output: {"topic_name": "Personal Liberty Protections", "parties_involved": ["Individuals", "State authorities", "Judiciary"], "acts_and_clause_involved": ["Articles 20 to 22"], "risk_obligations_perks": {"obligations": "Follow due process before restricting liberty", "risks": "State action may be invalidated", "benefits": "Protection against abuse of power"}, "summary": "The Constitution guarantees personal liberty by limiting State power through procedural safeguards and judicial oversight."}

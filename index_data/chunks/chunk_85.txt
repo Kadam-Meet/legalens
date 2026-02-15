@@ -1,0 +1,3 @@
+Instruction: Extract categories of facts that courts must recognize without formal proof.
+Context: Judicial notice reduces unnecessary evidentiary burden.
+Output: {"clauses_found": ["Laws in force within India", "Official public acts and offices", "Territorial and temporal facts", "Public symbols and national facts"]}

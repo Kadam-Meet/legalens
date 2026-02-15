@@ -1,0 +1,3 @@
+Instruction: Identify risks faced by litigants if evidence does not satisfy relevancy standards.
+Context: Only facts in issue and relevant facts may be proved.
+Output: {"obligations": ["Ensure evidence directly relates to facts in issue", "Avoid introducing legally irrelevant material"], "risks": ["Exclusion of evidence by the court", "Weakening of the party’s case"]}

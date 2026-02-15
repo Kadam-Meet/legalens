@@ -1,0 +1,3 @@
+Instruction: Summarize the statutory framework governing the right of private defence.
+Context: The Code recognizes defensive use of force.
+Output: {"topic_name": "Right of Private Defence under IPC", "parties_involved": ["Defender", "Aggressor"], "acts_and_clause_involved": ["Sections 96 to 106 IPC"], "risk_obligations_perks": {"obligations": "Ensure proportional and necessary response", "risks": "Excessive force exceeding legal limits", "benefits": "Lawful protection of body and property"}, "summary": "Private defence justifies harm caused to prevent unlawful aggression within clearly defined statutory limits."}

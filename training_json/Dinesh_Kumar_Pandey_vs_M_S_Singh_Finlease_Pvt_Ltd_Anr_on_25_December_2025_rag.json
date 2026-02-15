@@ -1,0 +1,310 @@
+[
+    {
+  "instruction": "Identify the central legal question addressed by the High Court in this decision.",
+  "context": "The petitions seek quashing of cheque dishonour complaints against a former director.",
+  "output": {
+    "answer": "The core issue is whether a director who resigned before cheque dishonour can be held vicariously liable under Section 141 of the Negotiable Instruments Act at the quashing stage.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured legal summary of the dispute decided in this case.",
+  "context": "Multiple petitions challenge summoning orders under the NI Act.",
+  "output": {
+    "topic_name": "Vicarious Liability of Former Directors",
+    "parties_involved": [
+      "Former director (petitioner)",
+      "Non-banking financial company",
+      "Borrower companies"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 138 and 141 of the Negotiable Instruments Act",
+      "Section 528 of the Bharatiya Nagarik Suraksha Sanhita"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Accused must rebut statutory presumptions at trial",
+      "risks": "Continuation of criminal prosecution despite resignation claims",
+      "benefits": "Protection against premature quashing of legitimate complaints"
+    },
+    "summary": "The Court declined to quash proceedings, holding that disputed questions regarding resignation and responsibility must be tested at trial."
+  }
+},
+{
+  "instruction": "Assess legal risks faced by directors who resign before cheque dishonour but are signatories to cheques.",
+  "context": "The petitioner relied on resignation documents to avoid liability.",
+  "output": {
+    "obligations": [
+      "Prove complete disengagement from company affairs",
+      "Rebut statutory presumptions under the NI Act"
+    ],
+    "risks": [
+      "Vicarious liability despite resignation",
+      "Trial on disputed questions of fact"
+    ]
+  }
+},
+{
+  "instruction": "Extract the essential components required to constitute an offence under cheque dishonour law.",
+  "context": "The Court explains when the offence under Section 138 is complete.",
+  "output": {
+    "clauses_found": [
+      "Issuance of a cheque",
+      "Presentation and dishonour of the cheque",
+      "Issuance of statutory demand notice",
+      "Failure to pay within prescribed time"
+    ]
+  }
+},
+{
+  "instruction": "Explain why the High Court exercises restraint while quashing criminal complaints at the threshold.",
+  "context": "The Court discusses limits of inherent jurisdiction.",
+  "output": {
+    "answer": "Because quashing is permissible only when allegations fail even if accepted as true, or when unimpeachable evidence completely negates liability.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify the risks of relying on corporate filings alone to seek quashing of criminal proceedings.",
+  "context": "The petitioner relied on resignation records from statutory portals.",
+  "output": {
+    "obligations": [
+      "Demonstrate that resignation conclusively negates responsibility",
+      "Show absence of continuing control or involvement"
+    ],
+    "risks": [
+      "Courts treating filings as disputed evidence",
+      "Denial of quashing relief"
+    ]
+  }
+},
+{
+  "instruction": "Extract the two legal pathways through which liability of company officers may arise.",
+  "context": "The judgment explains vicarious liability provisions.",
+  "output": {
+    "clauses_found": [
+      "Being in charge of and responsible for company affairs",
+      "Personal involvement through consent, connivance, or negligence"
+    ]
+  }
+},
+{
+  "instruction": "Analyze why cheque signatories occupy a distinct position in liability analysis.",
+  "context": "The petitioner admitted signing the cheques.",
+  "output": {
+    "answer": "Because signing the cheque directly links the individual to the incriminating act that triggers the offence, attracting presumptive liability.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess how statutory presumptions under the NI Act affect an accused at the pre-trial stage.",
+  "context": "Presumptions operate once cheque issuance is shown.",
+  "output": {
+    "obligations": [
+      "Rebut presumptions through credible evidence",
+      "Discharge burden on balance of probabilities"
+    ],
+    "risks": [
+      "Inability to escape trial at threshold",
+      "Adverse inference if rebuttal fails"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the reasoning adopted by the Court in refusing to quash the proceedings.",
+  "context": "The Court evaluates resignation claims, cheque signing, and presumptions.",
+  "output": {
+    "topic_name": "Limits of Quashing in Cheque Dishonour Cases",
+    "parties_involved": [
+      "High Court",
+      "Accused director",
+      "Complainant company"
+    ],
+    "acts_and_clause_involved": [
+      "Section 138 NI Act",
+      "Section 141 NI Act",
+      "Section 528 BNSS"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Leave disputed facts for trial",
+      "risks": "Misuse of quashing jurisdiction",
+      "benefits": "Preservation of evidentiary adjudication"
+    },
+    "summary": "The Court held that contested issues regarding resignation, control, and cheque issuance cannot be resolved without evidence and must proceed to trial."
+  }
+},
+{
+  "instruction": "Explain why cheque dishonour is treated as a composite offence rather than a single act.",
+  "context": "The judgment discusses multiple stages of the offence.",
+  "output": {
+    "answer": "Because liability arises from a sequence of acts including issuance, dishonour, notice, and non-payment, involving responsibility at multiple stages.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Analyze risks when resignation occurs after loan default but before cheque dishonour.",
+  "context": "The Court examines chronology of default, resignation, and dishonour.",
+  "output": {
+    "obligations": [
+      "Explain timing and bona fides of resignation",
+      "Disprove continuing involvement"
+    ],
+    "risks": [
+      "Court inferring strategic resignation",
+      "Exposure to continued prosecution"
+    ]
+  }
+},
+{
+  "instruction": "Explain the evidentiary threshold required for quashing cheque dishonour complaints at the pre-trial stage.",
+  "context": "The Court discusses the narrow scope of interference under inherent jurisdiction.",
+  "output": {
+    "answer": "Quashing is permissible only when allegations fail even if taken at face value, or when incontrovertible material completely negates the accused’s liability.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess the obligations of High Courts when exercising powers under Section 528 of the BNSS.",
+  "context": "Petitions sought intervention under inherent jurisdiction.",
+  "output": {
+    "obligations": [
+      "Avoid factual adjudication at the threshold",
+      "Respect statutory presumptions and trial process"
+    ],
+    "risks": [
+      "Premature termination of legitimate prosecutions",
+      "Substitution of trial with summary assessment"
+    ]
+  }
+},
+{
+  "instruction": "Extract the legal tests used to determine vicarious liability of company officers.",
+  "context": "The judgment explains conditions under Section 141 of the NI Act.",
+  "output": {
+    "clauses_found": [
+      "Responsibility for conduct of business at relevant time",
+      "Personal involvement through consent or neglect",
+      "Distinct liability of cheque signatories"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of how resignation is evaluated as a defence in cheque dishonour cases.",
+  "context": "The petitioner relied on statutory filings to claim cessation of liability.",
+  "output": {
+    "topic_name": "Resignation as a Defence under NI Act",
+    "parties_involved": [
+      "Former directors",
+      "Borrower companies",
+      "Complainant lenders"
+    ],
+    "acts_and_clause_involved": [
+      "Section 141 NI Act",
+      "Section 528 BNSS"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove genuine and complete disengagement",
+      "risks": "Court treating resignation as disputed fact",
+      "benefits": "Potential insulation from vicarious liability if proved"
+    },
+    "summary": "Resignation may negate liability only when timing and effect are undisputed and conclusively show absence of responsibility at all relevant stages."
+  }
+},
+{
+  "instruction": "Analyze why the Court emphasized the chronology of default, resignation, and cheque dishonour.",
+  "context": "The judgment closely examines timelines of events.",
+  "output": {
+    "answer": "Chronology helps assess whether resignation reflects genuine disengagement or a strategic attempt to avoid impending criminal liability.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks faced by directors who participate in loan negotiations and cheque issuance but resign before dishonour.",
+  "context": "The petitioner negotiated loans and signed cheques.",
+  "output": {
+    "obligations": [
+      "Explain role during legally relevant stages",
+      "Rebut inference of continuing responsibility"
+    ],
+    "risks": [
+      "Liability extending beyond resignation",
+      "Exposure due to cheque signatory status"
+    ]
+  }
+},
+{
+  "instruction": "Extract principles governing statutory presumptions in cheque dishonour prosecutions.",
+  "context": "The judgment relies on presumptions under the NI Act.",
+  "output": {
+    "clauses_found": [
+      "Presumption of legally enforceable debt",
+      "Presumption arising upon proof of cheque execution",
+      "Burden shifting to accused for rebuttal"
+    ]
+  }
+},
+{
+  "instruction": "Explain why the Court emphasized that disputed resignation claims must be tested at trial.",
+  "context": "The Court rejected deciding factual disputes in quashing proceedings.",
+  "output": {
+    "answer": "Because credibility, intent, and continued control are fact-intensive issues requiring evidence, cross-examination, and full adjudication.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess the legal risks of resignations executed after loan defaults but before statutory notice.",
+  "context": "The respondent alleged resignations were strategically timed.",
+  "output": {
+    "obligations": [
+      "Demonstrate bona fide cessation of control",
+      "Counter allegations of indirect management"
+    ],
+    "risks": [
+      "Inference of sham resignation",
+      "Denial of quashing relief"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the legal significance of being a cheque signatory in NI Act prosecutions.",
+  "context": "The petitioner admitted signing the cheques.",
+  "output": {
+    "topic_name": "Cheque Signatory Liability",
+    "parties_involved": [
+      "Cheque signatories",
+      "Companies",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 138 and 141 NI Act"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Rebut presumptions through evidence",
+      "risks": "Direct linkage to offence triggering act",
+      "benefits": "Opportunity to establish lack of responsibility at trial"
+    },
+    "summary": "Cheque signatories are presumptively linked to dishonour offences, making resignation defences subject to strict judicial scrutiny."
+  }
+},
+{
+  "instruction": "Analyze how the Court distinguished precedents allowing quashing based on resignation.",
+  "context": "Several Supreme Court decisions were cited by both sides.",
+  "output": {
+    "answer": "The Court distinguished cases where resignation was undisputed and preceded cheque issuance, unlike the present case involving contested facts and cheque signatures.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify limitations of relying solely on corporate registry records to negate criminal liability.",
+  "context": "Form DIR-12 and MCA extracts were produced by the petitioner.",
+  "output": {
+    "obligations": [
+      "Corroborate records with evidence of actual disengagement",
+      "Address allegations of continuing control"
+    ],
+    "risks": [
+      "Courts treating records as insufficient at threshold",
+      "Proceedings continuing to trial"
+    ]
+  }
+}
+]

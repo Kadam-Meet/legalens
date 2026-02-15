@@ -1,0 +1,3 @@
+Instruction: Explain why consent does not excuse acts causing serious harm.
+Context: Consent-based defences are restricted.
+Output: {"answer": "Consent cannot legitimize serious bodily harm or acts against public policy, as individual approval cannot override societal interests.", "confidence": "high"}

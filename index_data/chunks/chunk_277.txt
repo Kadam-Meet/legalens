@@ -1,0 +1,3 @@
+Instruction: Assess strategic risks in choosing writ remedies over statutory criminal procedures.
+Context: The petitioner invoked constitutional jurisdiction.
+Output: {"obligations": ["Demonstrate exceptional circumstances", "Exhaust appropriate statutory remedies"], "risks": ["Dismissal for alternative remedy", "Higher threshold for relief"]}

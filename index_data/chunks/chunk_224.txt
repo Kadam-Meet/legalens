@@ -1,0 +1,3 @@
+Instruction: Extract elements that characterize offences against public tranquillity.
+Context: Public order offences involve collective disturbance.
+Output: {"clauses_found": ["Assembly of multiple persons", "Common object to disturb peace", "Use or threat of force or violence"]}

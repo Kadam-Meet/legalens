@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of offences relating to abuse of public office.
+Context: The IPC penalizes misconduct by officials.
+Output: {"topic_name": "Offences Relating to Public Servants", "parties_involved": ["Public servants", "Affected citizens", "State authorities"], "acts_and_clause_involved": ["Sections 166–171 IPC"], "risk_obligations_perks": {"obligations": "Act within legal authority and good faith", "risks": "Criminal liability for misuse of office", "benefits": "Protection of public trust and rule of law"}, "summary": "The IPC criminalizes abuse of public authority to ensure accountability and lawful governance."}

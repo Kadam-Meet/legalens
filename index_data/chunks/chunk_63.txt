@@ -1,0 +1,3 @@
+Instruction: Identify risks involved in prosecuting offences related to national security.
+Context: Security-related offences often involve sensitive information.
+Output: {"obligations": ["Balance security concerns with fair trial rights", "Protect classified information during proceedings"], "risks": ["Overbroad application affecting civil liberties", "Procedural challenges due to secrecy"]}

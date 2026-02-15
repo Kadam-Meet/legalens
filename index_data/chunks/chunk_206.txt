@@ -1,0 +1,3 @@
+Instruction: Summarize the legal framework governing hurt and grievous hurt.
+Context: The IPC differentiates levels of bodily harm.
+Output: {"topic_name": "Hurt and Grievous Hurt Offences", "parties_involved": ["Accused persons", "Victims"], "acts_and_clause_involved": ["Sections 319–326 IPC"], "risk_obligations_perks": {"obligations": "Prove nature and severity of injury", "risks": "Charge dilution due to weak evidence", "benefits": "Proportionate punishment for harm caused"}, "summary": "The IPC classifies bodily harm to ensure penalties reflect seriousness and long-term impact."}

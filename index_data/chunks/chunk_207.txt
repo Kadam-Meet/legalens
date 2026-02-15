@@ -1,0 +1,3 @@
+Instruction: Explain how attempt to murder is established without actual death.
+Context: Attempts penalize dangerous conduct.
+Output: {"answer": "Attempt to murder is established through intent and overt acts demonstrating proximity to causing death, even if death does not occur.", "confidence": "high"}

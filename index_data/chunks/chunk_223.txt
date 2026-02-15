@@ -1,0 +1,3 @@
+Instruction: Assess risks when public tranquility provisions are applied to assemblies and protests.
+Context: Group conduct may trigger public order offences.
+Output: {"obligations": ["Establish unlawful common object", "Differentiate peaceful assembly from disorder"], "risks": ["Criminalization of lawful dissent", "Collective liability without individual intent"]}

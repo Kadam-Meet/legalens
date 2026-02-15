@@ -1,0 +1,3 @@
+Instruction: Summarize how common intention affects criminal liability.
+Context: Joint participation alters individual responsibility.
+Output: {"topic_name": "Liability for Acts Done in Common Intention", "parties_involved": ["Co-accused persons", "Courts"], "acts_and_clause_involved": ["General Explanations"], "risk_obligations_perks": {"obligations": "Prove conscious cooperation", "risks": "Overextension of vicarious liability", "benefits": "Effective prosecution of group offences"}, "summary": "Common intention principles ensure that coordinated criminal conduct is addressed without fragmenting responsibility."}

@@ -1,0 +1,799 @@
+[
+  {
+  "instruction": "Explain the constitutional purpose behind declaring India a secular republic.",
+  "context": "The Preamble outlines the foundational values of the Indian Constitution, including secularism.",
+  "output": {
+    "answer": "The Constitution establishes secularism to ensure that the State does not favor or discriminate against any religion, allowing citizens freedom of belief while maintaining neutrality in governance.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify provisions that empower Parliament to alter the territorial structure of India.",
+  "context": "Articles in Part I describe Parliament’s authority over state formation and territorial changes.",
+  "output": {
+    "clauses_found": [
+      "Parliament may admit new States into the Union",
+      "Parliament can alter boundaries or names of existing States",
+      "Territorial changes require Presidential recommendation"
+    ]
+  }
+},
+{
+  "instruction": "Analyze the obligations imposed on the State concerning equality before law.",
+  "context": "Fundamental Rights guarantee equality and prohibit discrimination by the State.",
+  "output": {
+    "obligations": [
+      "Ensure equal protection of laws to all persons",
+      "Avoid discriminatory legislation or executive action"
+    ],
+    "risks": [
+      "Unconstitutional laws may be declared void",
+      "State actions may be struck down by courts"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the constitutional framework governing citizenship at the commencement of the Constitution.",
+  "context": "Part II defines who qualified as citizens when the Constitution came into force.",
+  "output": {
+    "topic_name": "Citizenship at Commencement",
+    "parties_involved": [
+      "Residents of India",
+      "Migrants from Pakistan",
+      "Persons of Indian origin abroad"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 5 to 11"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Parliament may regulate acquisition and termination of citizenship",
+      "risks": "Voluntary acquisition of foreign citizenship leads to loss of Indian citizenship",
+      "benefits": "Legal recognition and protection as an Indian citizen"
+    },
+    "summary": "The Constitution establishes clear criteria for citizenship based on domicile, migration history, and registration, while granting Parliament authority to legislate on citizenship matters."
+  }
+},
+{
+  "instruction": "What legal safeguards exist against arbitrary arrest under constitutional law?",
+  "context": "Articles dealing with personal liberty and preventive detention define arrest safeguards.",
+  "output": {
+    "answer": "Safeguards include mandatory disclosure of arrest grounds, access to legal counsel, production before a magistrate within 24 hours, and limits on preventive detention without review.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Determine the risks and duties arising from the prohibition of forced labor.",
+  "context": "The Constitution bans human trafficking and forced labor practices.",
+  "output": {
+    "obligations": [
+      "The State must criminalize forced labor",
+      "Authorities must enforce labor protections"
+    ],
+    "risks": [
+      "Violators face criminal prosecution",
+      "Failure to enforce may result in constitutional violations"
+    ]
+  }
+},
+{
+  "instruction": "Interpret the constitutional intent behind establishing justice as a foundational value.",
+  "context": "The Preamble lists justice as a core constitutional objective.",
+  "output": {
+    "answer": "Justice is emphasized to ensure fairness in social, economic, and political life, guiding State actions toward equitable governance and protection of rights.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract constitutional provisions related to the admission of new States.",
+  "context": "Part I outlines the structure of the Union and Parliament’s powers.",
+  "output": {
+    "clauses_found": [
+      "Parliament may admit new States into the Union",
+      "Parliament may establish States on specified conditions"
+    ]
+  }
+},
+{
+  "instruction": "Assess constitutional risks if the State enacts laws violating equality principles.",
+  "context": "Fundamental Rights impose limits on legislative power.",
+  "output": {
+    "obligations": [
+      "Legislative actions must respect equality before law",
+      "Discriminatory practices must be avoided"
+    ],
+    "risks": [
+      "Judicial invalidation of unconstitutional laws",
+      "Erosion of public trust in governance"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured overview of Parliament’s authority over State boundaries.",
+  "context": "Articles in Part I describe territorial reorganization powers.",
+  "output": {
+    "topic_name": "Territorial Reorganization",
+    "parties_involved": [
+      "Parliament",
+      "President",
+      "State Legislatures"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 2 to 4"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Consultation with affected State legislatures",
+      "risks": "Political and administrative instability",
+      "benefits": "Flexible federal restructuring"
+    },
+    "summary": "The Constitution grants Parliament authority to reorganize States while balancing federal consultation and administrative continuity."
+  }
+},
+{
+  "instruction": "Explain how domicile influences citizenship at the commencement of the Constitution.",
+  "context": "Citizenship rules were defined for residents at the time of constitutional adoption.",
+  "output": {
+    "answer": "Domicile determined citizenship eligibility by linking individuals permanently to Indian territory through birth, descent, or long-term residence.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal consequences of voluntarily acquiring foreign citizenship.",
+  "context": "Citizenship provisions address dual nationality concerns.",
+  "output": {
+    "obligations": [
+      "Citizens must maintain exclusive allegiance to India"
+    ],
+    "risks": [
+      "Automatic loss of Indian citizenship",
+      "Loss of constitutional protections reserved for citizens"
+    ]
+  }
+},
+{
+  "instruction": "List provisions that restrict the State from violating fundamental rights.",
+  "context": "Constitutional articles limit State authority over individual freedoms.",
+  "output": {
+    "clauses_found": [
+      "Pre-Constitution laws inconsistent with fundamental rights are void",
+      "Future laws cannot abridge fundamental rights"
+    ]
+  }
+},
+{
+  "instruction": "Analyze the constitutional meaning of equal protection of laws.",
+  "context": "Equality before law is guaranteed under Fundamental Rights.",
+  "output": {
+    "answer": "Equal protection ensures that laws apply uniformly while permitting reasonable classification based on legitimate objectives.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Evaluate State responsibilities arising from the abolition of untouchability.",
+  "context": "Social equality provisions prohibit discriminatory practices.",
+  "output": {
+    "obligations": [
+      "Criminalize untouchability practices",
+      "Ensure social inclusion through enforcement"
+    ],
+    "risks": [
+      "Criminal liability for enforcement failures",
+      "Perpetuation of social injustice"
+    ]
+  }
+},
+{
+  "instruction": "Summarize constitutional protections related to personal liberty.",
+  "context": "Articles ensure safeguards against arbitrary punishment and detention.",
+  "output": {
+    "topic_name": "Personal Liberty Protections",
+    "parties_involved": [
+      "Individuals",
+      "State authorities",
+      "Judiciary"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 20 to 22"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Follow due process before restricting liberty",
+      "risks": "State action may be invalidated",
+      "benefits": "Protection against abuse of power"
+    },
+    "summary": "The Constitution guarantees personal liberty by limiting State power through procedural safeguards and judicial oversight."
+  }
+},
+{
+  "instruction": "Explain the constitutional rationale for free and compulsory education.",
+  "context": "Education is recognized as a fundamental entitlement.",
+  "output": {
+    "answer": "Free and compulsory education aims to promote equality, social mobility, and informed citizenship among children.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Analyze the implications of banning child labor in hazardous industries.",
+  "context": "Child protection provisions prohibit exploitative employment.",
+  "output": {
+    "obligations": [
+      "Prevent employment of children in hazardous work",
+      "Enforce child protection laws"
+    ],
+    "risks": [
+      "Criminal sanctions for violations",
+      "Long-term societal harm if ignored"
+    ]
+  }
+},
+{
+  "instruction": "Extract rights granted to religious denominations.",
+  "context": "Religious freedom provisions define institutional autonomy.",
+  "output": {
+    "clauses_found": [
+      "Right to manage religious affairs",
+      "Right to own and administer property"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of cultural and educational rights.",
+  "context": "Minority rights are protected under Fundamental Rights.",
+  "output": {
+    "topic_name": "Minority Cultural and Educational Rights",
+    "parties_involved": [
+      "Minority communities",
+      "Educational institutions",
+      "State authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 29 and 30"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "State must avoid discriminatory aid policies",
+      "risks": "Violation may trigger constitutional litigation",
+      "benefits": "Preservation of linguistic and cultural identity"
+    },
+    "summary": "The Constitution safeguards minority autonomy in education to ensure pluralism and cultural continuity."
+  }
+},
+{
+  "instruction": "Clarify how freedom of speech is constitutionally limited without negating the right itself.",
+  "context": "Freedom of speech is guaranteed subject to reasonable restrictions.",
+  "output": {
+    "answer": "The Constitution permits reasonable restrictions to balance free expression with public order, security, morality, and other collective interests.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify State duties and potential risks related to freedom of assembly.",
+  "context": "Fundamental Rights protect peaceful assembly with limitations.",
+  "output": {
+    "obligations": [
+      "Allow peaceful gatherings",
+      "Impose restrictions only for legitimate public interests"
+    ],
+    "risks": [
+      "Excessive restrictions may be struck down by courts",
+      "Public disorder if regulations are absent"
+    ]
+  }
+},
+{
+  "instruction": "Extract constitutional safeguards against double punishment.",
+  "context": "Criminal justice protections are embedded in personal liberty provisions.",
+  "output": {
+    "clauses_found": [
+      "No person shall be punished twice for the same offence",
+      "Penalties cannot exceed those prescribed at the time of offence"
+    ]
+  }
+},
+{
+  "instruction": "Summarize constitutional protections related to preventive detention.",
+  "context": "Certain articles regulate detention without trial.",
+  "output": {
+    "topic_name": "Preventive Detention Safeguards",
+    "parties_involved": [
+      "Detained individuals",
+      "Detaining authorities",
+      "Advisory Boards"
+    ],
+    "acts_and_clause_involved": [
+      "Article 22"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Communicate grounds of detention promptly",
+      "risks": "Detention orders may lapse without review",
+      "benefits": "Balancing national security with individual liberty"
+    },
+    "summary": "The Constitution allows preventive detention under strict procedural safeguards to prevent abuse of executive power."
+  }
+},
+{
+  "instruction": "Explain why the Constitution prohibits trafficking and forced labor.",
+  "context": "Right against exploitation protects human dignity.",
+  "output": {
+    "answer": "The prohibition exists to preserve human dignity, prevent exploitation, and ensure voluntary and fair labor practices.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess legal responsibilities arising from compulsory public service exceptions.",
+  "context": "Forced labor bans allow limited compulsory service for public purposes.",
+  "output": {
+    "obligations": [
+      "Ensure compulsory service is non-discriminatory",
+      "Limit compulsory service to public purposes"
+    ],
+    "risks": [
+      "Misuse may amount to forced labor",
+      "Constitutional challenges against discriminatory enforcement"
+    ]
+  }
+},
+{
+  "instruction": "List constitutional protections related to religious freedom of individuals.",
+  "context": "Religious liberty is subject to public order and morality.",
+  "output": {
+    "clauses_found": [
+      "Freedom of conscience",
+      "Right to profess, practice, and propagate religion"
+    ]
+  }
+},
+{
+  "instruction": "Analyze how the Constitution balances religious autonomy with social reform.",
+  "context": "Religious freedom coexists with reform-oriented State powers.",
+  "output": {
+    "answer": "The Constitution permits State intervention in secular aspects of religion to promote social welfare while preserving core religious practices.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Determine risks associated with State-funded promotion of religion.",
+  "context": "Fiscal neutrality toward religion is constitutionally mandated.",
+  "output": {
+    "obligations": [
+      "Avoid allocating tax revenue for religious promotion"
+    ],
+    "risks": [
+      "Violation of secular principles",
+      "Judicial invalidation of funding schemes"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured overview of minority control over educational institutions.",
+  "context": "Minority rights include educational autonomy.",
+  "output": {
+    "topic_name": "Minority Educational Autonomy",
+    "parties_involved": [
+      "Minority communities",
+      "Educational institutions",
+      "Government authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Article 30"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "State must ensure fair compensation during acquisition",
+      "risks": "Regulatory overreach may dilute autonomy",
+      "benefits": "Protection of minority identity through education"
+    },
+    "summary": "The Constitution grants minorities the right to manage educational institutions while permitting limited State regulation."
+  }
+},
+{
+  "instruction": "Explain why certain property-related laws are shielded from fundamental rights challenges.",
+  "context": "Saving clauses protect specific categories of legislation.",
+  "output": {
+    "answer": "These protections exist to enable land reforms and economic restructuring without constant constitutional litigation.",
+    "confidence": "medium"
+  }
+},
+{
+  "instruction": "Extract provisions that validate laws listed in the Ninth Schedule.",
+  "context": "Certain laws are immunized from judicial review.",
+  "output": {
+    "clauses_found": [
+      "Acts listed in the Ninth Schedule remain valid",
+      "Judicial decisions cannot invalidate protected laws"
+    ]
+  }
+},
+{
+  "instruction": "Analyze State risks when invoking policy-based immunity from fundamental rights.",
+  "context": "Directive Principles interact with Fundamental Rights.",
+  "output": {
+    "obligations": [
+      "Ensure laws genuinely pursue directive principles"
+    ],
+    "risks": [
+      "Misclassification may lead to judicial scrutiny",
+      "Potential violation of basic structure doctrine"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the constitutional right to approach courts for enforcement of rights.",
+  "context": "Judicial remedies form a core constitutional guarantee.",
+  "output": {
+    "topic_name": "Constitutional Remedies",
+    "parties_involved": [
+      "Citizens",
+      "Supreme Court",
+      "Subordinate courts"
+    ],
+    "acts_and_clause_involved": [
+      "Article 32"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Courts must provide effective remedies",
+      "risks": "Suspension only as constitutionally permitted",
+      "benefits": "Direct access to justice"
+    },
+    "summary": "The Constitution guarantees judicial remedies to ensure enforceability of fundamental rights."
+  }
+},
+{
+  "instruction": "Explain why Directive Principles are considered fundamental despite being non-enforceable.",
+  "context": "Directive Principles guide State policy but cannot be enforced in courts.",
+  "output": {
+    "answer": "They provide moral and political guidance to the State, shaping legislation and governance even though courts cannot directly enforce them.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify State obligations arising from the duty to promote social and economic justice.",
+  "context": "The Constitution emphasizes justice as a guiding principle of governance.",
+  "output": {
+    "obligations": [
+      "Promote equitable social structures",
+      "Reduce economic and social inequalities"
+    ],
+    "risks": [
+      "Policy failure may deepen inequality",
+      "Public dissatisfaction with governance outcomes"
+    ]
+  }
+},
+{
+  "instruction": "Extract policy goals related to distribution of material resources.",
+  "context": "Directive Principles address economic justice and resource allocation.",
+  "output": {
+    "clauses_found": [
+      "Equitable distribution of material resources",
+      "Prevention of wealth concentration"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of constitutional commitments toward workers’ welfare.",
+  "context": "Directive Principles outline labor protections and fair working conditions.",
+  "output": {
+    "topic_name": "Workers’ Welfare",
+    "parties_involved": [
+      "Workers",
+      "Employers",
+      "State authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 39 to 43"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure fair wages and humane working conditions",
+      "risks": "Labor unrest if protections are ignored",
+      "benefits": "Improved productivity and social stability"
+    },
+    "summary": "The Constitution directs the State to protect labor interests by promoting fair wages, safe conditions, and worker participation."
+  }
+},
+{
+  "instruction": "Analyze the constitutional objective behind establishing village panchayats.",
+  "context": "Local self-government is promoted under Directive Principles.",
+  "output": {
+    "answer": "Village panchayats decentralize power, encourage democratic participation, and improve local governance efficiency.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess State responsibilities related to public health improvement.",
+  "context": "Public health is listed among the primary duties of the State.",
+  "output": {
+    "obligations": [
+      "Improve nutrition standards",
+      "Promote public health initiatives"
+    ],
+    "risks": [
+      "Public health crises due to neglect",
+      "Increased healthcare inequality"
+    ]
+  }
+},
+{
+  "instruction": "Identify constitutional goals related to environmental protection.",
+  "context": "Environmental safeguards are included in State policy directives.",
+  "output": {
+    "clauses_found": [
+      "Protection of the natural environment",
+      "Safeguarding forests and wildlife"
+    ]
+  }
+},
+{
+  "instruction": "Summarize constitutional principles guiding India’s international relations.",
+  "context": "The Constitution outlines foreign policy objectives.",
+  "output": {
+    "topic_name": "International Peace and Cooperation",
+    "parties_involved": [
+      "Government of India",
+      "Foreign States",
+      "International organizations"
+    ],
+    "acts_and_clause_involved": [
+      "Article 51"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Respect international law and treaty commitments",
+      "risks": "Diplomatic disputes if obligations are ignored",
+      "benefits": "Global cooperation and peace"
+    },
+    "summary": "The Constitution encourages peaceful international engagement through respect for law, diplomacy, and arbitration."
+  }
+},
+{
+  "instruction": "Explain the constitutional purpose of imposing Fundamental Duties on citizens.",
+  "context": "Citizens are assigned duties to complement fundamental rights.",
+  "output": {
+    "answer": "Fundamental Duties promote civic responsibility and reinforce national unity alongside individual rights.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify citizen obligations related to environmental protection.",
+  "context": "Environmental responsibility is recognized as a civic duty.",
+  "output": {
+    "obligations": [
+      "Protect natural resources",
+      "Show compassion toward living creatures"
+    ],
+    "risks": [
+      "Environmental degradation",
+      "Long-term ecological damage"
+    ]
+  }
+},
+{
+  "instruction": "Extract duties related to national unity and integrity.",
+  "context": "Fundamental Duties emphasize national cohesion.",
+  "output": {
+    "clauses_found": [
+      "Uphold sovereignty and integrity",
+      "Promote harmony among citizens"
+    ]
+  }
+},
+{
+  "instruction": "Analyze why executive power is constitutionally vested in the President.",
+  "context": "The Constitution establishes the President as the executive head.",
+  "output": {
+    "answer": "Vesting executive power in the President ensures centralized authority exercised through constitutional procedures and responsible governance.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of the President’s election process.",
+  "context": "The Constitution defines the electoral mechanism for the President.",
+  "output": {
+    "topic_name": "Election of the President",
+    "parties_involved": [
+      "Members of Parliament",
+      "State Legislative Assemblies",
+      "Election authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 54 and 55"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure proportional representation",
+      "risks": "Electoral imbalance if population data is outdated",
+      "benefits": "Federal balance in presidential elections"
+    },
+    "summary": "The President is elected through an indirect system designed to balance representation between the Union and States."
+  }
+},
+{
+  "instruction": "Assess constitutional risks associated with impeachment of the President.",
+  "context": "The Constitution provides a procedure for presidential removal.",
+  "output": {
+    "obligations": [
+      "Follow strict procedural requirements",
+      "Ensure bipartisan legislative support"
+    ],
+    "risks": [
+      "Political instability",
+      "Constitutional crisis if misused"
+    ]
+  }
+},
+{
+  "instruction": "Explain the constitutional rationale for establishing a bicameral Parliament.",
+  "context": "The Constitution provides for two Houses of Parliament.",
+  "output": {
+    "answer": "A bicameral legislature promotes balanced law-making by combining popular representation with deliberative review.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess the obligations of Parliament while exercising legislative powers.",
+  "context": "Legislative authority is subject to constitutional limits.",
+  "output": {
+    "obligations": [
+      "Enact laws within constitutional competence",
+      "Respect fundamental rights and federal boundaries"
+    ],
+    "risks": [
+      "Judicial invalidation of unconstitutional statutes",
+      "Federal conflicts with States"
+    ]
+  }
+},
+{
+  "instruction": "Extract constitutional provisions relating to money bills.",
+  "context": "Special legislative procedures apply to financial legislation.",
+  "output": {
+    "clauses_found": [
+      "Money Bills originate in the lower House",
+      "Upper House has limited advisory authority",
+      "Presidential assent is mandatory"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of legislative privileges granted to Members of Parliament.",
+  "context": "The Constitution protects legislative independence.",
+  "output": {
+    "topic_name": "Legislative Privileges",
+    "parties_involved": [
+      "Members of Parliament",
+      "Legislative Houses",
+      "Judiciary"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 105 and 122"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Privileges must not override constitutional morality",
+      "risks": "Misuse may invite judicial scrutiny",
+      "benefits": "Freedom of speech within legislative proceedings"
+    },
+    "summary": "Legislative privileges ensure uninhibited debate while remaining subject to constitutional boundaries."
+  }
+},
+{
+  "instruction": "Analyze why judicial independence is essential to constitutional governance.",
+  "context": "Judicial structure ensures checks on legislative and executive power.",
+  "output": {
+    "answer": "Judicial independence safeguards constitutional supremacy by allowing courts to decide disputes without external influence.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks arising from executive interference in judicial functioning.",
+  "context": "Separation of powers is a constitutional principle.",
+  "output": {
+    "obligations": [
+      "Respect judicial autonomy",
+      "Avoid undue influence over courts"
+    ],
+    "risks": [
+      "Erosion of public confidence",
+      "Violation of basic structure doctrine"
+    ]
+  }
+},
+{
+  "instruction": "Extract constitutional safeguards ensuring security of tenure for judges.",
+  "context": "Judicial independence is protected through appointment and removal processes.",
+  "output": {
+    "clauses_found": [
+      "Removal only through parliamentary impeachment",
+      "Fixed service conditions protected from arbitrary change"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the constitutional role of the Supreme Court as a guardian of the Constitution.",
+  "context": "Judicial review is central to constitutional enforcement.",
+  "output": {
+    "topic_name": "Role of the Supreme Court",
+    "parties_involved": [
+      "Supreme Court",
+      "Citizens",
+      "State authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 32 and 136"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure effective constitutional remedies",
+      "risks": "Overreach may raise separation of powers concerns",
+      "benefits": "Protection of fundamental rights"
+    },
+    "summary": "The Supreme Court functions as the ultimate interpreter and enforcer of constitutional provisions."
+  }
+},
+{
+  "instruction": "Explain how judicial review preserves constitutional supremacy.",
+  "context": "Courts examine validity of legislative and executive actions.",
+  "output": {
+    "answer": "Judicial review allows courts to invalidate actions inconsistent with the Constitution, maintaining its supremacy.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess constitutional risks associated with misuse of ordinance-making power.",
+  "context": "Temporary law-making authority is vested in the executive.",
+  "output": {
+    "obligations": [
+      "Use ordinance power only in genuine emergencies",
+      "Ensure legislative approval within prescribed time"
+    ],
+    "risks": [
+      "Democratic bypass of Parliament",
+      "Judicial invalidation for mala fide use"
+    ]
+  }
+},
+{
+  "instruction": "Identify constitutional checks on emergency legislative powers.",
+  "context": "Extraordinary powers are regulated by constitutional safeguards.",
+  "output": {
+    "clauses_found": [
+      "Time-bound operation of ordinances",
+      "Mandatory legislative approval"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of constitutional mechanisms ensuring executive accountability.",
+  "context": "The Constitution establishes checks on executive authority.",
+  "output": {
+    "topic_name": "Executive Accountability",
+    "parties_involved": [
+      "Council of Ministers",
+      "Parliament",
+      "Judiciary"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 74 and 75"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Maintain collective responsibility",
+      "risks": "Loss of legislative confidence",
+      "benefits": "Democratic oversight of executive actions"
+    },
+    "summary": "Executive accountability is ensured through parliamentary oversight and judicial review."
+  }
+},
+{
+  "instruction": "Analyze how the Constitution balances power between the Union and the States.",
+  "context": "Federal distribution of powers is constitutionally defined.",
+  "output": {
+    "answer": "The Constitution balances authority by allocating subjects across Union, State, and Concurrent domains while preserving national unity.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks arising from legislative encroachment into State subjects.",
+  "context": "Federal boundaries limit legislative competence.",
+  "output": {
+    "obligations": [
+      "Respect distribution of legislative powers"
+    ],
+    "risks": [
+      "Federal disputes",
+      "Invalidation by constitutional courts"
+    ]
+  }
+}
+]

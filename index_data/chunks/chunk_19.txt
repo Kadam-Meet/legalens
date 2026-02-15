@@ -1,0 +1,3 @@
+Instruction: Explain why the Court emphasized that disputed resignation claims must be tested at trial.
+Context: The Court rejected deciding factual disputes in quashing proceedings.
+Output: {"answer": "Because credibility, intent, and continued control are fact-intensive issues requiring evidence, cross-examination, and full adjudication.", "confidence": "high"}

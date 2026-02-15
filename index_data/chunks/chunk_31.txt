@@ -1,0 +1,3 @@
+Instruction: Explain how omissions can give rise to criminal liability.
+Context: Failure to act can constitute an offence in certain cases.
+Output: {"answer": "Omissions attract liability when a person is legally bound to act and intentionally or knowingly fails to do so.", "confidence": "high"}

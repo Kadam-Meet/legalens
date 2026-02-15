@@ -1,0 +1,3 @@
+Instruction: Explain the constitutional rationale for establishing a bicameral Parliament.
+Context: The Constitution provides for two Houses of Parliament.
+Output: {"answer": "A bicameral legislature promotes balanced law-making by combining popular representation with deliberative review.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Analyze risks when resignation occurs after loan default but before cheque dishonour.
+Context: The Court examines chronology of default, resignation, and dishonour.
+Output: {"obligations": ["Explain timing and bona fides of resignation", "Disprove continuing involvement"], "risks": ["Court inferring strategic resignation", "Exposure to continued prosecution"]}

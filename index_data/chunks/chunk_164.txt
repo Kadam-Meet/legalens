@@ -1,0 +1,3 @@
+Instruction: Explain the constitutional purpose of imposing Fundamental Duties on citizens.
+Context: Citizens are assigned duties to complement fundamental rights.
+Output: {"answer": "Fundamental Duties promote civic responsibility and reinforce national unity alongside individual rights.", "confidence": "high"}

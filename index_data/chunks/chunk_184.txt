@@ -1,0 +1,3 @@
+Instruction: Explain how the Penal Code applies to offences committed outside India.
+Context: The Code extends criminal liability beyond territorial boundaries under specified conditions.
+Output: {"answer": "The Code applies to Indian citizens, Indian-registered ships or aircraft, and certain extraterritorial acts that have legal nexus with India, treating them as if committed within India.", "confidence": "high"}

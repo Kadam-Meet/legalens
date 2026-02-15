@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of the homicide framework under criminal law.
+Context: The Code classifies unlawful killing into graded offences.
+Output: {"topic_name": "Homicide Classification under IPC", "parties_involved": ["Accused persons", "Victims", "Courts"], "acts_and_clause_involved": ["Sections 299 to 304 IPC"], "risk_obligations_perks": {"obligations": "Assess intention and surrounding circumstances", "risks": "Misclassification leading to disproportionate punishment", "benefits": "Graded liability reflecting moral blameworthiness"}, "summary": "The IPC creates a graduated framework distinguishing culpable homicide and murder to align punishment with mental culpability."}

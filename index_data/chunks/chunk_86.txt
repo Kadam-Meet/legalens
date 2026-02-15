@@ -1,0 +1,3 @@
+Instruction: Explain how courts determine whether a fact is sufficiently connected to a matter under inquiry.
+Context: Relevancy is assessed through logical and legal connections with facts in issue.
+Output: {"answer": "Courts examine whether the fact logically influences the probability of a fact in issue, considering statutory relevance categories and contextual linkage.", "confidence": "high"}

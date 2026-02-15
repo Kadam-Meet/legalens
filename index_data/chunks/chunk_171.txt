@@ -1,0 +1,3 @@
+Instruction: Assess the obligations of Parliament while exercising legislative powers.
+Context: Legislative authority is subject to constitutional limits.
+Output: {"obligations": ["Enact laws within constitutional competence", "Respect fundamental rights and federal boundaries"], "risks": ["Judicial invalidation of unconstitutional statutes", "Federal conflicts with States"]}

@@ -1,0 +1,3 @@
+Instruction: Explain why cheque dishonour is treated as a composite offence rather than a single act.
+Context: The judgment discusses multiple stages of the offence.
+Output: {"answer": "Because liability arises from a sequence of acts including issuance, dishonour, notice, and non-payment, involving responsibility at multiple stages.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Identify evidentiary risks associated with producing electronic communications without original devices.
+Context: Chats and photographs were produced without primary devices.
+Output: {"obligations": ["Establish authenticity and source of electronic records", "Comply with procedural requirements for digital evidence"], "risks": ["Exclusion due to lack of reliability", "Adverse inference regarding manipulation"]}

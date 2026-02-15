@@ -1,0 +1,3 @@
+Instruction: Analyze why criminal punishments are categorized into multiple forms.
+Context: The Sanhita prescribes varied punishments.
+Output: {"answer": "Multiple punishment forms allow proportional sentencing based on severity, culpability, and societal impact of offences.", "confidence": "high"}

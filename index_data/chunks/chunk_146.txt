@@ -1,0 +1,3 @@
+Instruction: Explain why the Constitution prohibits trafficking and forced labor.
+Context: Right against exploitation protects human dignity.
+Output: {"answer": "The prohibition exists to preserve human dignity, prevent exploitation, and ensure voluntary and fair labor practices.", "confidence": "high"}

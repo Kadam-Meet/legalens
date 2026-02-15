@@ -1,0 +1,3 @@
+Instruction: Summarize the reasoning adopted by the Court in refusing to quash the proceedings.
+Context: The Court evaluates resignation claims, cheque signing, and presumptions.
+Output: {"topic_name": "Limits of Quashing in Cheque Dishonour Cases", "parties_involved": ["High Court", "Accused director", "Complainant company"], "acts_and_clause_involved": ["Section 138 NI Act", "Section 141 NI Act", "Section 528 BNSS"], "risk_obligations_perks": {"obligations": "Leave disputed facts for trial", "risks": "Misuse of quashing jurisdiction", "benefits": "Preservation of evidentiary adjudication"}, "summary": "The Court held that contested issues regarding resignation, control, and cheque issuance cannot be resolved without evidence and must proceed to trial."}

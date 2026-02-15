@@ -1,0 +1,3 @@
+Instruction: Analyze the role of mens rea in property-related offences.
+Context: Mental elements determine criminal liability.
+Output: {"answer": "Property offences require proof of dishonest or fraudulent intent, distinguishing criminal wrongdoing from civil disputes.", "confidence": "high"}

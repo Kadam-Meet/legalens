@@ -1,0 +1,3 @@
+Instruction: Extract categories of conduct treated as threats to the State.
+Context: The Sanhita identifies actions endangering national stability.
+Output: {"clauses_found": ["Acts endangering sovereignty or unity", "Support to hostile or unlawful organizations", "Armed rebellion or violent subversion"]}

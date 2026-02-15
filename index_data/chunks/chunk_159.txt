@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of constitutional commitments toward workers’ welfare.
+Context: Directive Principles outline labor protections and fair working conditions.
+Output: {"topic_name": "Workers’ Welfare", "parties_involved": ["Workers", "Employers", "State authorities"], "acts_and_clause_involved": ["Articles 39 to 43"], "risk_obligations_perks": {"obligations": "Ensure fair wages and humane working conditions", "risks": "Labor unrest if protections are ignored", "benefits": "Improved productivity and social stability"}, "summary": "The Constitution directs the State to protect labor interests by promoting fair wages, safe conditions, and worker participation."}

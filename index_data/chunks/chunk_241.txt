@@ -1,0 +1,3 @@
+Instruction: Assess risks when individuals rely on documents later found to be forged.
+Context: Liability depends on knowledge and intent.
+Output: {"obligations": ["Verify authenticity when legally required", "Demonstrate absence of knowledge of forgery"], "risks": ["Criminal liability for use as genuine", "Adverse inference in civil and criminal proceedings"]}

@@ -1,0 +1,775 @@
+[
+    {
+  "instruction": "Explain how the Penal Code applies to offences committed outside India.",
+  "context": "The Code extends criminal liability beyond territorial boundaries under specified conditions.",
+  "output": {
+    "answer": "The Code applies to Indian citizens, Indian-registered ships or aircraft, and certain extraterritorial acts that have legal nexus with India, treating them as if committed within India.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured overview of the organizational scheme of the Penal Code.",
+  "context": "The Code is divided into chapters dealing with definitions, offences, and punishments.",
+  "output": {
+    "topic_name": "Structural Framework of the Indian Penal Code",
+    "parties_involved": [
+      "Accused persons",
+      "Victims",
+      "State authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Chapters I to XXIII IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Adhere to statutory definitions and exceptions",
+      "risks": "Criminal liability for prohibited conduct",
+      "benefits": "Clarity and uniformity in criminal justice"
+    },
+    "summary": "The Code systematically defines crimes, exceptions, and punishments, forming the backbone of substantive criminal law in India."
+  }
+},
+{
+  "instruction": "Identify obligations imposed on courts while applying general exceptions under criminal law.",
+  "context": "General exceptions qualify criminal liability.",
+  "output": {
+    "obligations": [
+      "Consider statutory exceptions alongside offence definitions",
+      "Assess intent, knowledge, and circumstances"
+    ],
+    "risks": [
+      "Wrongful conviction if exceptions are ignored",
+      "Misapplication of criminal liability"
+    ]
+  }
+},
+{
+  "instruction": "Extract key legal concepts defined to ensure consistent interpretation of offences.",
+  "context": "The Code provides interpretative definitions.",
+  "output": {
+    "clauses_found": [
+      "Person includes companies and associations",
+      "Dishonesty relates to wrongful gain or loss",
+      "Fraud requires intent to deceive"
+    ]
+  }
+},
+{
+  "instruction": "Explain the principle governing liability for acts done by multiple persons with shared intent.",
+  "context": "The Code addresses collective criminal conduct.",
+  "output": {
+    "answer": "When individuals act in furtherance of a shared intention, each is liable as if they individually committed the act, regardless of the specific role played.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks associated with imposing punishment without statutory authorization.",
+  "context": "Punishments must be grounded in the Code.",
+  "output": {
+    "obligations": [
+      "Impose punishment strictly as prescribed",
+      "Observe proportionality limits"
+    ],
+    "risks": [
+      "Illegal sentencing",
+      "Violation of personal liberty"
+    ]
+  }
+},
+{
+  "instruction": "Extract legally recognized forms of punishment under criminal law.",
+  "context": "The Code enumerates permissible punishments.",
+  "output": {
+    "clauses_found": [
+      "Imprisonment",
+      "Fine",
+      "Forfeiture of property",
+      "Capital punishment"
+    ]
+  }
+},
+{
+  "instruction": "Analyze when consent fails to protect an act from criminal liability.",
+  "context": "Consent is subject to statutory limitations.",
+  "output": {
+    "answer": "Consent does not protect acts done under fear, misconception, incapacity, or where the act is independently criminal regardless of harm.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal risks when criminal responsibility is attributed to minors.",
+  "context": "The Code creates age-based exceptions.",
+  "output": {
+    "obligations": [
+      "Assess age and mental capacity",
+      "Apply statutory presumptions correctly"
+    ],
+    "risks": [
+      "Criminalizing legally exempt conduct",
+      "Violation of child protection principles"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the statutory framework governing the right of private defence.",
+  "context": "The Code recognizes defensive use of force.",
+  "output": {
+    "topic_name": "Right of Private Defence under IPC",
+    "parties_involved": [
+      "Defender",
+      "Aggressor"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 96 to 106 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure proportional and necessary response",
+      "risks": "Excessive force exceeding legal limits",
+      "benefits": "Lawful protection of body and property"
+    },
+    "summary": "Private defence justifies harm caused to prevent unlawful aggression within clearly defined statutory limits."
+  }
+},
+{
+  "instruction": "Explain how criminal liability arises through abetment even without direct participation.",
+  "context": "The Code penalizes indirect facilitation of crime.",
+  "output": {
+    "answer": "Liability arises when a person instigates, conspires, or intentionally aids an offence, even if the principal offence is carried out by another.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks associated with criminalizing agreements prior to execution of an offence.",
+  "context": "Criminal conspiracy penalizes collective intent.",
+  "output": {
+    "obligations": [
+      "Establish agreement and unlawful objective",
+      "Distinguish preparation from conspiracy"
+    ],
+    "risks": [
+      "Over-criminalization of preliminary conduct",
+      "Reliance on circumstantial inference"
+    ]
+  }
+},
+{
+  "instruction": "Explain how courts distinguish culpable homicide from murder.",
+  "context": "The Code differentiates homicide offences based on intent and knowledge.",
+  "output": {
+    "answer": "The distinction depends on the degree of intention, knowledge of likely consequences, and the presence of statutory exceptions that reduce culpability.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of the homicide framework under criminal law.",
+  "context": "The Code classifies unlawful killing into graded offences.",
+  "output": {
+    "topic_name": "Homicide Classification under IPC",
+    "parties_involved": [
+      "Accused persons",
+      "Victims",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 299 to 304 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Assess intention and surrounding circumstances",
+      "risks": "Misclassification leading to disproportionate punishment",
+      "benefits": "Graded liability reflecting moral blameworthiness"
+    },
+    "summary": "The IPC creates a graduated framework distinguishing culpable homicide and murder to align punishment with mental culpability."
+  }
+},
+{
+  "instruction": "Assess risks when courts overlook statutory exceptions reducing murder to culpable homicide.",
+  "context": "Exceptions mitigate otherwise serious offences.",
+  "output": {
+    "obligations": [
+      "Evaluate provocation and sudden fight exceptions",
+      "Consider absence of premeditation"
+    ],
+    "risks": [
+      "Excessive punishment",
+      "Failure to individualize culpability"
+    ]
+  }
+},
+{
+  "instruction": "Assess risks when courts overlook statutory exceptions reducing murder to culpable homicide.",
+  "context": "Exceptions mitigate otherwise serious offences.",
+  "output": {
+    "obligations": [
+      "Evaluate provocation and sudden fight exceptions",
+      "Consider absence of premeditation"
+    ],
+    "risks": [
+      "Excessive punishment",
+      "Failure to individualize culpability"
+    ]
+  }
+},
+{
+  "instruction": "Extract mental elements used to classify homicide offences.",
+  "context": "Mental state determines severity of liability.",
+  "output": {
+    "clauses_found": [
+      "Intention to cause death",
+      "Intention to cause bodily injury likely to cause death",
+      "Knowledge that the act is likely to cause death"
+    ]
+  }
+},
+{
+  "instruction": "Explain how grievous hurt is distinguished from simple hurt.",
+  "context": "The Code lists specific injuries as grievous.",
+  "output": {
+    "answer": "Grievous hurt involves serious bodily injuries explicitly enumerated by law, reflecting long-term or severe harm beyond temporary pain.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify evidentiary risks when medical evidence is inconsistent with injury allegations.",
+  "context": "Medical testimony supports classification of injuries.",
+  "output": {
+    "obligations": [
+      "Correlate medical findings with witness accounts",
+      "Clarify nature and extent of injuries"
+    ],
+    "risks": [
+      "Downgrading of charges",
+      "Acquittal due to evidentiary gaps"
+    ]
+  }
+},
+{
+  "instruction": "Extract categories of injuries legally classified as grievous hurt.",
+  "context": "The IPC enumerates serious bodily harms.",
+  "output": {
+    "clauses_found": [
+      "Permanent loss of sight or hearing",
+      "Fracture or dislocation of bone",
+      "Permanent disfigurement",
+      "Endangerment of life"
+    ]
+  }
+},
+{
+  "instruction": "Analyze how sudden provocation affects criminal liability in homicide cases.",
+  "context": "Provocation operates as a mitigating factor.",
+  "output": {
+    "answer": "Sudden and grave provocation may reduce culpability by negating premeditated intent, subject to strict statutory conditions.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks when dangerous weapons are used in interpersonal conflicts.",
+  "context": "Weapon choice influences offence severity.",
+  "output": {
+    "obligations": [
+      "Assess lethality of weapon used",
+      "Evaluate manner of use"
+    ],
+    "risks": [
+      "Inference of intent to cause death",
+      "Escalation to higher offence category"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the legal framework governing hurt and grievous hurt.",
+  "context": "The IPC differentiates levels of bodily harm.",
+  "output": {
+    "topic_name": "Hurt and Grievous Hurt Offences",
+    "parties_involved": [
+      "Accused persons",
+      "Victims"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 319–326 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove nature and severity of injury",
+      "risks": "Charge dilution due to weak evidence",
+      "benefits": "Proportionate punishment for harm caused"
+    },
+    "summary": "The IPC classifies bodily harm to ensure penalties reflect seriousness and long-term impact."
+  }
+},
+{
+  "instruction": "Explain how attempt to murder is established without actual death.",
+  "context": "Attempts penalize dangerous conduct.",
+  "output": {
+    "answer": "Attempt to murder is established through intent and overt acts demonstrating proximity to causing death, even if death does not occur.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks arising from improper framing of homicide-related charges.",
+  "context": "Charge selection affects trial trajectory.",
+  "output": {
+    "obligations": [
+      "Align charges with evidentiary material",
+      "Reassess charges as evidence evolves"
+    ],
+    "risks": [
+      "Acquittal due to mismatch",
+      "Unfair prejudice to accused"
+    ]
+  }
+},
+{
+  "instruction": "Explain how the concept of consent is evaluated in sexual offence prosecutions.",
+  "context": "Consent under criminal law must meet statutory conditions.",
+  "output": {
+    "answer": "Consent is evaluated based on voluntariness, capacity, and absence of coercion or misconception, with emphasis on circumstances at the time of the act.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of how the Penal Code addresses sexual offences.",
+  "context": "The IPC criminalizes sexual acts violating autonomy and dignity.",
+  "output": {
+    "topic_name": "Sexual Offences under IPC",
+    "parties_involved": [
+      "Accused persons",
+      "Victims",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 354, 375–376 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Assess consent and statutory presumptions carefully",
+      "risks": "Misapplication of consent standards",
+      "benefits": "Protection of bodily autonomy"
+    },
+    "summary": "The IPC defines sexual offences by focusing on absence of valid consent and misuse of power or deception."
+  }
+},
+{
+  "instruction": "Assess legal risks when allegations of sexual offences arise from deteriorated personal relationships.",
+  "context": "Courts often examine surrounding circumstances.",
+  "output": {
+    "obligations": [
+      "Examine consistency of allegations",
+      "Evaluate contemporaneous conduct"
+    ],
+    "risks": [
+      "Afterthought allegations",
+      "Credibility challenges at trial"
+    ]
+  }
+},
+{
+  "instruction": "Extract core elements that constitute sexual assault offences.",
+  "context": "The IPC specifies essential ingredients.",
+  "output": {
+    "clauses_found": [
+      "Physical act of sexual nature",
+      "Absence of valid consent",
+      "Presence of coercive or deceptive factors"
+    ]
+  }
+},
+{
+  "instruction": "Explain how criminal breach of trust differs from mere breach of contract.",
+  "context": "Property offences require dishonest intent.",
+  "output": {
+    "answer": "Criminal breach of trust involves dishonest misappropriation of entrusted property, whereas breach of contract involves civil liability without criminal intent.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify evidentiary risks in proving entrustment in breach of trust cases.",
+  "context": "Entrustment is a foundational element.",
+  "output": {
+    "obligations": [
+      "Demonstrate existence and scope of entrustment",
+      "Link misappropriation to entrusted property"
+    ],
+    "risks": [
+      "Conversion of civil disputes into criminal cases",
+      "Failure to establish criminal intent"
+    ]
+  }
+},
+{
+  "instruction": "Extract elements required to establish the offence of cheating.",
+  "context": "Cheating involves deception at inception.",
+  "output": {
+    "clauses_found": [
+      "Deception of a person",
+      "Inducement to deliver property or consent",
+      "Dishonest intent at the time of inducement"
+    ]
+  }
+},
+{
+  "instruction": "Analyze the role of mens rea in property-related offences.",
+  "context": "Mental elements determine criminal liability.",
+  "output": {
+    "answer": "Property offences require proof of dishonest or fraudulent intent, distinguishing criminal wrongdoing from civil disputes.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks when courts misclassify misappropriation as theft.",
+  "context": "Different offences require different mental elements.",
+  "output": {
+    "obligations": [
+      "Identify possession status at the time of act",
+      "Assess intention to permanently deprive"
+    ],
+    "risks": [
+      "Incorrect charge framing",
+      "Acquittal due to legal mismatch"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the IPC framework governing property offences.",
+  "context": "The Code categorizes offences against property.",
+  "output": {
+    "topic_name": "Property Offences under IPC",
+    "parties_involved": [
+      "Accused persons",
+      "Property owners"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 378–420 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove dishonest intention and actus reus",
+      "risks": "Criminalizing civil disputes",
+      "benefits": "Protection of proprietary rights"
+    },
+    "summary": "Property offences under IPC focus on dishonest deprivation and abuse of trust."
+  }
+},
+{
+  "instruction": "Explain how extortion differs from robbery under criminal law.",
+  "context": "Both involve coercive acquisition of property.",
+  "output": {
+    "answer": "Extortion involves obtaining property through threats, whereas robbery involves immediate force or fear during the taking of property.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks arising from escalating property offence charges without factual basis.",
+  "context": "Charge severity impacts trial outcomes.",
+  "output": {
+    "obligations": [
+      "Align charges with factual matrix",
+      "Avoid over-criminalization"
+    ],
+    "risks": [
+      "Judicial dilution of charges",
+      "Loss of prosecutorial credibility"
+    ]
+  }
+},
+{
+  "instruction": "Explain why offences against the State are treated differently from ordinary crimes.",
+  "context": "Certain IPC provisions protect sovereignty and constitutional order.",
+  "output": {
+    "answer": "Because such offences threaten collective security and governance structures, the law imposes stricter standards and penalties to deter systemic harm.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of offences affecting State security under criminal law.",
+  "context": "The IPC addresses acts undermining governmental authority.",
+  "output": {
+    "topic_name": "Offences Against the State under IPC",
+    "parties_involved": [
+      "Accused persons",
+      "Government authorities",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 121–130 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove intent to destabilize State authority",
+      "risks": "Overbroad application affecting civil liberties",
+      "benefits": "Protection of national sovereignty"
+    },
+    "summary": "The IPC criminalizes acts threatening the State while requiring careful balancing with constitutional freedoms."
+  }
+},
+{
+  "instruction": "Assess risks when public tranquility provisions are applied to assemblies and protests.",
+  "context": "Group conduct may trigger public order offences.",
+  "output": {
+    "obligations": [
+      "Establish unlawful common object",
+      "Differentiate peaceful assembly from disorder"
+    ],
+    "risks": [
+      "Criminalization of lawful dissent",
+      "Collective liability without individual intent"
+    ]
+  }
+},
+{
+  "instruction": "Extract elements that characterize offences against public tranquillity.",
+  "context": "Public order offences involve collective disturbance.",
+  "output": {
+    "clauses_found": [
+      "Assembly of multiple persons",
+      "Common object to disturb peace",
+      "Use or threat of force or violence"
+    ]
+  }
+},
+{
+  "instruction": "Explain how liability arises for members of an unlawful assembly.",
+  "context": "Group liability operates under public order provisions.",
+  "output": {
+    "answer": "Liability arises when individuals knowingly join an assembly with a common unlawful object, even if each does not commit an overt act.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks associated with attributing criminal liability based on group membership.",
+  "context": "Collective offences expand liability.",
+  "output": {
+    "obligations": [
+      "Prove knowledge of common object",
+      "Distinguish passive presence from participation"
+    ],
+    "risks": [
+      "Overextension of criminal liability",
+      "Miscarriage of justice"
+    ]
+  }
+},
+{
+  "instruction": "Extract elements required to establish criminal defamation.",
+  "context": "Defamation protects individual reputation.",
+  "output": {
+    "clauses_found": [
+      "Imputation concerning a person",
+      "Intention or knowledge of reputational harm",
+      "Communication to third parties"
+    ]
+  }
+},
+{
+  "instruction": "Analyze why truth alone does not always exempt liability for defamation.",
+  "context": "Defamation law balances speech and reputation.",
+  "output": {
+    "answer": "Truth must also serve public good; private truths shared without justification may still attract liability.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess legal risks when threats are communicated during personal or business disputes.",
+  "context": "Threats may escalate disputes into criminal cases.",
+  "output": {
+    "obligations": [
+      "Assess intention to cause alarm",
+      "Distinguish negotiation from coercion"
+    ],
+    "risks": [
+      "Criminalization of aggressive bargaining",
+      "Evidentiary disputes over intent"
+    ]
+  }
+},
+{
+  "instruction": "Summarize how the IPC protects reputation and personal security through criminal sanctions.",
+  "context": "Defamation and intimidation safeguard social order.",
+  "output": {
+    "topic_name": "Reputation and Coercion Offences",
+    "parties_involved": [
+      "Accused persons",
+      "Affected individuals"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 499–507 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Balance free speech with reputational rights",
+      "risks": "Misuse for silencing criticism",
+      "benefits": "Protection against harassment and threats"
+    },
+    "summary": "The IPC criminalizes reputational harm and coercive threats while embedding safeguards against misuse."
+  }
+},
+{
+  "instruction": "Explain how courts differentiate criminal attempt from mere preparation.",
+  "context": "Attempt provisions penalize near-completion conduct.",
+  "output": {
+    "answer": "An attempt involves a direct act toward commission after preparation, demonstrating clear proximity and intent.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks when residual or catch-all provisions are used to frame charges.",
+  "context": "General attempt and abetment provisions are broad.",
+  "output": {
+    "obligations": [
+      "Ensure clear linkage to a specific offence",
+      "Avoid vague or duplicative charging"
+    ],
+    "risks": [
+      "Judicial rejection for vagueness",
+      "Overlapping or inconsistent charges"
+    ]
+  }
+},
+{
+  "instruction": "Explain why criminal law imposes enhanced duties on public servants.",
+  "context": "The Code prescribes offences specific to misuse of public office.",
+  "output": {
+    "answer": "Because public servants exercise delegated authority and public trust, misuse of power warrants stricter accountability to preserve institutional integrity.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of offences relating to abuse of public office.",
+  "context": "The IPC penalizes misconduct by officials.",
+  "output": {
+    "topic_name": "Offences Relating to Public Servants",
+    "parties_involved": [
+      "Public servants",
+      "Affected citizens",
+      "State authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 166–171 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Act within legal authority and good faith",
+      "risks": "Criminal liability for misuse of office",
+      "benefits": "Protection of public trust and rule of law"
+    },
+    "summary": "The IPC criminalizes abuse of public authority to ensure accountability and lawful governance."
+  }
+},
+{
+  "instruction": "Assess legal risks when public servants knowingly disobey statutory directions.",
+  "context": "Disobedience can cause public harm.",
+  "output": {
+    "obligations": [
+      "Follow binding legal directions",
+      "Avoid arbitrary exercise of discretion"
+    ],
+    "risks": [
+      "Criminal prosecution",
+      "Loss of service protections"
+    ]
+  }
+},
+{
+  "instruction": "Extract categories of conduct that undermine administration of justice.",
+  "context": "The Code protects judicial processes.",
+  "output": {
+    "clauses_found": [
+      "False evidence and perjury",
+      "Intentional insult or interruption of judicial proceedings",
+      "Disappearance or fabrication of evidence"
+    ]
+  }
+},
+{
+  "instruction": "Explain why giving false evidence is treated as a serious criminal offence.",
+  "context": "Truthful testimony underpins justice delivery.",
+  "output": {
+    "answer": "False evidence corrupts judicial decision-making, risks wrongful convictions or acquittals, and undermines confidence in the justice system.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks involved in prosecuting witnesses for perjury.",
+  "context": "Perjury prosecutions involve judicial discretion.",
+  "output": {
+    "obligations": [
+      "Establish intentional falsehood",
+      "Demonstrate material impact on proceedings"
+    ],
+    "risks": [
+      "Deterrence of truthful testimony",
+      "Selective or retaliatory prosecution"
+    ]
+  }
+},
+{
+  "instruction": "Extract elements constituting offences relating to forged or false documents.",
+  "context": "Document integrity is legally protected.",
+  "output": {
+    "clauses_found": [
+      "Making a false document",
+      "Intent to cause damage or deception",
+      "Use of forged document as genuine"
+    ]
+  }
+},
+{
+  "instruction": "Analyze the mental element required to establish forgery.",
+  "context": "Forgery depends on intent rather than mere error.",
+  "output": {
+    "answer": "Forgery requires intentional creation or alteration of a document with the purpose of deception or causing legal harm.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks when individuals rely on documents later found to be forged.",
+  "context": "Liability depends on knowledge and intent.",
+  "output": {
+    "obligations": [
+      "Verify authenticity when legally required",
+      "Demonstrate absence of knowledge of forgery"
+    ],
+    "risks": [
+      "Criminal liability for use as genuine",
+      "Adverse inference in civil and criminal proceedings"
+    ]
+  }
+},
+{
+  "instruction": "Summarize how the IPC safeguards documentary and evidentiary integrity.",
+  "context": "Document-related offences protect legal certainty.",
+  "output": {
+    "topic_name": "Documentary and Evidentiary Offences",
+    "parties_involved": [
+      "Document creators",
+      "Users of documents",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 191–229 IPC",
+      "Sections 463–477 IPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Maintain truthfulness and authenticity",
+      "risks": "Severe penalties for deception",
+      "benefits": "Reliability of legal processes"
+    },
+    "summary": "The IPC criminalizes falsification of evidence and documents to preserve justice system credibility."
+  }
+},
+{
+  "instruction": "Explain the role of miscellaneous offences in a comprehensive criminal code.",
+  "context": "Residual provisions address diverse misconduct.",
+  "output": {
+    "answer": "Miscellaneous offences ensure that harmful conduct not fitting narrow categories can still be addressed within a structured legal framework.",
+    "confidence": "medium"
+  }
+},
+{
+  "instruction": "Identify risks associated with over-reliance on broad or residual criminal provisions.",
+  "context": "General provisions may overlap with specific offences.",
+  "output": {
+    "obligations": [
+      "Prefer specific offences over general ones",
+      "Ensure clarity in charge framing"
+    ],
+    "risks": [
+      "Vagueness challenges",
+      "Judicial dilution or dismissal"
+    ]
+  }
+}
+]

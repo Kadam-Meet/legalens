@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of the Sanhita’s territorial jurisdiction framework.
+Context: Jurisdiction extends beyond physical boundaries in defined cases.
+Output: {"topic_name": "Territorial Applicability of Criminal Law", "parties_involved": ["Indian citizens", "Foreign nationals", "Investigating authorities"], "acts_and_clause_involved": ["Chapter I (Preliminary)"], "risk_obligations_perks": {"obligations": "Establish statutory jurisdictional links", "risks": "Diplomatic and enforcement conflicts", "benefits": "Protection against cross-border offences"}, "summary": "The Sanhita adopts an expanded jurisdiction model to address transnational criminal conduct affecting Indian interests."}

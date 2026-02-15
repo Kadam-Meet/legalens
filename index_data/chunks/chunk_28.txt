@@ -1,0 +1,3 @@
+Instruction: Analyze why precise statutory definitions are critical in criminal law.
+Context: The Sanhita defines key legal terms exhaustively.
+Output: {"answer": "Precise definitions prevent ambiguity, ensure fair notice to individuals, and promote consistent judicial interpretation of offences.", "confidence": "high"}

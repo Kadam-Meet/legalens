@@ -1,0 +1,3 @@
+Instruction: Assess the legal risks of resignations executed after loan defaults but before statutory notice.
+Context: The respondent alleged resignations were strategically timed.
+Output: {"obligations": ["Demonstrate bona fide cessation of control", "Counter allegations of indirect management"], "risks": ["Inference of sham resignation", "Denial of quashing relief"]}

@@ -1,0 +1,3 @@
+Instruction: Extract categories of facts that reduce evidentiary burden through judicial notice.
+Context: Courts recognize specific public facts automatically.
+Output: {"clauses_found": ["Public laws and official acts", "Geographical and territorial facts", "Public offices and symbols", "International agreements recognized by India"]}

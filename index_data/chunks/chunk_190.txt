@@ -1,0 +1,3 @@
+Instruction: Extract legally recognized forms of punishment under criminal law.
+Context: The Code enumerates permissible punishments.
+Output: {"clauses_found": ["Imprisonment", "Fine", "Forfeiture of property", "Capital punishment"]}

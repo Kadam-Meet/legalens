@@ -1,0 +1,3 @@
+Instruction: Extract core legal concepts that define criminal responsibility.
+Context: The Sanhita clarifies foundational criminal law terms.
+Output: {"clauses_found": ["Act and omission equivalence", "Voluntary conduct", "Wrongful gain and wrongful loss", "Good faith requirement"]}

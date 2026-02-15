@@ -1,0 +1,3 @@
+Instruction: Interpret the constitutional intent behind establishing justice as a foundational value.
+Context: The Preamble lists justice as a core constitutional objective.
+Output: {"answer": "Justice is emphasized to ensure fairness in social, economic, and political life, guiding State actions toward equitable governance and protection of rights.", "confidence": "high"}

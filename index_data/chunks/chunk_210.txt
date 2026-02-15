@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of how the Penal Code addresses sexual offences.
+Context: The IPC criminalizes sexual acts violating autonomy and dignity.
+Output: {"topic_name": "Sexual Offences under IPC", "parties_involved": ["Accused persons", "Victims", "Courts"], "acts_and_clause_involved": ["Sections 354, 375–376 IPC"], "risk_obligations_perks": {"obligations": "Assess consent and statutory presumptions carefully", "risks": "Misapplication of consent standards", "benefits": "Protection of bodily autonomy"}, "summary": "The IPC defines sexual offences by focusing on absence of valid consent and misuse of power or deception."}

@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of the abetment framework under criminal law.
+Context: The Sanhita codifies indirect criminal participation.
+Output: {"topic_name": "Abetment and Indirect Liability", "parties_involved": ["Abettors", "Principal offenders", "Courts"], "acts_and_clause_involved": ["Abetment Provisions"], "risk_obligations_perks": {"obligations": "Prove intentional encouragement or assistance", "risks": "Overextension of indirect liability", "benefits": "Accountability for orchestrated crimes"}, "summary": "Abetment provisions ensure that those who facilitate or encourage crimes are held accountable alongside direct perpetrators."}

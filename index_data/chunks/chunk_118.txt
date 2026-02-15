@@ -1,0 +1,3 @@
+Instruction: Assess risks of relying on character evidence in criminal proceedings.
+Context: Character relevance is carefully restricted.
+Output: {"obligations": ["Limit character evidence to permitted circumstances", "Avoid prejudice-based reasoning"], "risks": ["Unfair bias against the accused", "Miscarriage of justice"]}

@@ -1,0 +1,3 @@
+Instruction: Assess legal risks faced by directors who resign before cheque dishonour but are signatories to cheques.
+Context: The petitioner relied on resignation documents to avoid liability.
+Output: {"obligations": ["Prove complete disengagement from company affairs", "Rebut statutory presumptions under the NI Act"], "risks": ["Vicarious liability despite resignation", "Trial on disputed questions of fact"]}

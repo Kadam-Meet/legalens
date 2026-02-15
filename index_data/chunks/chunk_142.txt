@@ -1,0 +1,3 @@
+Instruction: Clarify how freedom of speech is constitutionally limited without negating the right itself.
+Context: Freedom of speech is guaranteed subject to reasonable restrictions.
+Output: {"answer": "The Constitution permits reasonable restrictions to balance free expression with public order, security, morality, and other collective interests.", "confidence": "high"}

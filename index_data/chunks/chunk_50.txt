@@ -1,0 +1,3 @@
+Instruction: Explain how criminal liability arises through abetment even without direct commission of an offence.
+Context: The Sanhita recognizes indirect participation in crimes.
+Output: {"answer": "Abetment creates liability when a person intentionally instigates, assists, or conspires in the commission of an offence, even if they do not execute it themselves.", "confidence": "high"}

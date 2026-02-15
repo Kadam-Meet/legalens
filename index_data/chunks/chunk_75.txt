@@ -1,0 +1,3 @@
+Instruction: Extract the core legal definitions that shape evidentiary interpretation under the Act.
+Context: Chapter I provides foundational definitions for evidentiary analysis.
+Output: {"clauses_found": ["Definition of court and judicial authority", "Meaning of documentary and electronic records", "Classification of oral and documentary evidence", "Concept of facts in issue and relevant facts"]}

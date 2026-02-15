@@ -1,0 +1,3 @@
+Instruction: Explain the constitutional purpose behind declaring India a secular republic.
+Context: The Preamble outlines the foundational values of the Indian Constitution, including secularism.
+Output: {"answer": "The Constitution establishes secularism to ensure that the State does not favor or discriminate against any religion, allowing citizens freedom of belief while maintaining neutrality in governance.", "confidence": "high"}

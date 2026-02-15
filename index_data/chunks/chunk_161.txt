@@ -1,0 +1,3 @@
+Instruction: Assess State responsibilities related to public health improvement.
+Context: Public health is listed among the primary duties of the State.
+Output: {"obligations": ["Improve nutrition standards", "Promote public health initiatives"], "risks": ["Public health crises due to neglect", "Increased healthcare inequality"]}

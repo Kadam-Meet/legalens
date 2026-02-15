@@ -1,0 +1,3 @@
+Instruction: Identify legal risks associated with coerced confessions in criminal proceedings.
+Context: Confessions influenced by inducement or coercion are restricted.
+Output: {"obligations": ["Ensure confessions are voluntary", "Exclude evidence obtained through coercion"], "risks": ["Inadmissibility of confession", "Violation of fair trial principles"]}

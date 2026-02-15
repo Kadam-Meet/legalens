@@ -1,0 +1,3 @@
+Instruction: Extract policy goals related to distribution of material resources.
+Context: Directive Principles address economic justice and resource allocation.
+Output: {"clauses_found": ["Equitable distribution of material resources", "Prevention of wealth concentration"]}

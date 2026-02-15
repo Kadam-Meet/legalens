@@ -1,0 +1,3 @@
+Instruction: Extract constitutional provisions relating to money bills.
+Context: Special legislative procedures apply to financial legislation.
+Output: {"clauses_found": ["Money Bills originate in the lower House", "Upper House has limited advisory authority", "Presidential assent is mandatory"]}

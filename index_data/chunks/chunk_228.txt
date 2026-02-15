@@ -1,0 +1,3 @@
+Instruction: Analyze why truth alone does not always exempt liability for defamation.
+Context: Defamation law balances speech and reputation.
+Output: {"answer": "Truth must also serve public good; private truths shared without justification may still attract liability.", "confidence": "high"}

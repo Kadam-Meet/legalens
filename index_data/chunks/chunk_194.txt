@@ -1,0 +1,3 @@
+Instruction: Explain how criminal liability arises through abetment even without direct participation.
+Context: The Code penalizes indirect facilitation of crime.
+Output: {"answer": "Liability arises when a person instigates, conspires, or intentionally aids an offence, even if the principal offence is carried out by another.", "confidence": "high"}

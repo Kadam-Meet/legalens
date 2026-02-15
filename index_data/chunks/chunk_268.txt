@@ -1,0 +1,3 @@
+Instruction: Identify additional scrutiny risks when allegations involve influential or corporate entities.
+Context: The accused was linked to a prominent organization.
+Output: {"obligations": ["Demonstrate procedural neutrality", "Ensure independent verification of evidence"], "risks": ["Perception of institutional bias", "Heightened judicial and public scrutiny"]}

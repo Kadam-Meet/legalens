@@ -1,0 +1,3 @@
+Instruction: Assess risks when courts overlook statutory exceptions reducing murder to culpable homicide.
+Context: Exceptions mitigate otherwise serious offences.
+Output: {"obligations": ["Evaluate provocation and sudden fight exceptions", "Consider absence of premeditation"], "risks": ["Excessive punishment", "Failure to individualize culpability"]}

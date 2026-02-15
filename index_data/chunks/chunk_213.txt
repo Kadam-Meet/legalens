@@ -1,0 +1,3 @@
+Instruction: Explain how criminal breach of trust differs from mere breach of contract.
+Context: Property offences require dishonest intent.
+Output: {"answer": "Criminal breach of trust involves dishonest misappropriation of entrusted property, whereas breach of contract involves civil liability without criminal intent.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Analyze whether voluntary withdrawal can negate liability for conspiracy or attempt.
+Context: Abandonment may affect culpability.
+Output: {"answer": "Voluntary withdrawal may mitigate or negate liability if it is complete and occurs before the offence or attempt reaches punishable proximity.", "confidence": "medium"}

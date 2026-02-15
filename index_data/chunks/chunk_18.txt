@@ -1,0 +1,3 @@
+Instruction: Extract principles governing statutory presumptions in cheque dishonour prosecutions.
+Context: The judgment relies on presumptions under the NI Act.
+Output: {"clauses_found": ["Presumption of legally enforceable debt", "Presumption arising upon proof of cheque execution", "Burden shifting to accused for rebuttal"]}

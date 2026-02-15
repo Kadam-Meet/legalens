@@ -1,0 +1,3 @@
+Instruction: Identify risks associated with relying on indirect or hearsay testimony.
+Context: Oral evidence rules restrict indirect narration of facts.
+Output: {"obligations": ["Ensure witnesses testify from personal knowledge", "Exclude statements lacking perceptual basis"], "risks": ["Inadmissibility of testimony", "Distortion of factual accuracy"]}

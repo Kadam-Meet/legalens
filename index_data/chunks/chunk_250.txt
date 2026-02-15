@@ -1,0 +1,3 @@
+Instruction: Identify legal constraints on directing further investigation after submission of a police report.
+Context: The petitioner sought reopening of investigation.
+Output: {"obligations": ["Show compelling reasons for further investigation", "Establish inadequacy or illegality in the initial probe"], "risks": ["Judicial rejection due to lack of fresh material", "Finality attaching to closure reports"]}

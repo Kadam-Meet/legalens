@@ -1,0 +1,3 @@
+Instruction: Extract core elements that constitute sexual assault offences.
+Context: The IPC specifies essential ingredients.
+Output: {"clauses_found": ["Physical act of sexual nature", "Absence of valid consent", "Presence of coercive or deceptive factors"]}

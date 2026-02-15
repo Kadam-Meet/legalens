@@ -1,0 +1,3 @@
+Instruction: Extract circumstances that weigh against exercise of writ powers to reopen investigations.
+Context: The Court identified factors discouraging intervention.
+Output: {"clauses_found": ["Completion of comprehensive investigation", "Judicial application of mind by Magistrate", "Absence of fresh or compelling material"]}

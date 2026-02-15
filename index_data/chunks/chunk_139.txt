@@ -1,0 +1,3 @@
+Instruction: Analyze the implications of banning child labor in hazardous industries.
+Context: Child protection provisions prohibit exploitative employment.
+Output: {"obligations": ["Prevent employment of children in hazardous work", "Enforce child protection laws"], "risks": ["Criminal sanctions for violations", "Long-term societal harm if ignored"]}

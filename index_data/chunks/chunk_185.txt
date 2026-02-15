@@ -1,0 +1,3 @@
+Instruction: Provide a structured overview of the organizational scheme of the Penal Code.
+Context: The Code is divided into chapters dealing with definitions, offences, and punishments.
+Output: {"topic_name": "Structural Framework of the Indian Penal Code", "parties_involved": ["Accused persons", "Victims", "State authorities"], "acts_and_clause_involved": ["Chapters I to XXIII IPC"], "risk_obligations_perks": {"obligations": "Adhere to statutory definitions and exceptions", "risks": "Criminal liability for prohibited conduct", "benefits": "Clarity and uniformity in criminal justice"}, "summary": "The Code systematically defines crimes, exceptions, and punishments, forming the backbone of substantive criminal law in India."}

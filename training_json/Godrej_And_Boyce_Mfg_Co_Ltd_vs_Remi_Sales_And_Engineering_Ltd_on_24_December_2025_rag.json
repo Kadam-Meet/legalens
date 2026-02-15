@@ -1,0 +1,465 @@
+[
+   {
+  "instruction": "Identify the principal legal issue examined by the High Court in this writ petition.",
+  "context": "The petitioner challenged acceptance of a B-Summary report in a sexual offence FIR.",
+  "output": {
+    "answer": "The central issue was whether the Magistrate erred in accepting a B-Summary report and closing the FIR despite allegations of serious sexual offences.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured legal summary of the dispute resolved by the Court.",
+  "context": "The writ petition sought reopening of investigation and transfer to an independent agency.",
+  "output": {
+    "topic_name": "Judicial Review of B-Summary Acceptance",
+    "parties_involved": [
+      "Complainant (prosecutrix)",
+      "Accused individual",
+      "State investigating authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Sections 354, 376, 506 IPC",
+      "Articles 226 and 227 of the Constitution",
+      "Section 173 CrPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Courts must respect investigative autonomy unless illegality is shown",
+      "risks": "Judicial overreach into fact-finding",
+      "benefits": "Finality where investigation reveals no offence"
+    },
+    "summary": "The Court upheld closure of the FIR, holding that the investigation and Magistrate’s acceptance of the B-Summary were legally sustainable."
+  }
+},
+{
+  "instruction": "Assess the procedural risks faced by a complainant when consenting to closure of an investigation.",
+  "context": "The prosecutrix filed an affidavit expressing inability to pursue the case.",
+  "output": {
+    "obligations": [
+      "Understand legal consequences of consenting to closure",
+      "Demonstrate coercion if consent is later withdrawn"
+    ],
+    "risks": [
+      "Loss of opportunity for further investigation",
+      "High threshold for reopening closed cases"
+    ]
+  }
+},
+{
+  "instruction": "Extract grounds commonly relied upon for filing a B-Summary report.",
+  "context": "The investigating officer concluded that the allegations were false.",
+  "output": {
+    "clauses_found": [
+      "Absence of accused at alleged locations",
+      "Contradictory or delayed complaint",
+      "Lack of corroborative evidence"
+    ]
+  }
+},
+{
+  "instruction": "Explain why constitutional courts exercise restraint while interfering with police investigations.",
+  "context": "The Court emphasized limits of writ jurisdiction.",
+  "output": {
+    "answer": "Because investigation involves factual assessment best left to statutory authorities unless mala fides or legal violations are clearly demonstrated.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal constraints on directing further investigation after submission of a police report.",
+  "context": "The petitioner sought reopening of investigation.",
+  "output": {
+    "obligations": [
+      "Show compelling reasons for further investigation",
+      "Establish inadequacy or illegality in the initial probe"
+    ],
+    "risks": [
+      "Judicial rejection due to lack of fresh material",
+      "Finality attaching to closure reports"
+    ]
+  }
+},
+{
+  "instruction": "Extract principles governing consent in sexual offence adjudication.",
+  "context": "The Court relied on Supreme Court precedents on consent.",
+  "output": {
+    "clauses_found": [
+      "Consent must be voluntary and informed",
+      "Promise to marry does not automatically vitiate consent",
+      "Each case depends on its factual context"
+    ]
+  }
+},
+{
+  "instruction": "Analyze how delay in lodging an FIR affects credibility assessment.",
+  "context": "The complaint was lodged long after the alleged incidents.",
+  "output": {
+    "answer": "Unexplained delay may raise doubts about veracity, though it is not by itself fatal and must be evaluated with surrounding circumstances.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks faced by investigating agencies in high-profile allegations.",
+  "context": "Allegations of political influence and conspiracy were raised.",
+  "output": {
+    "obligations": [
+      "Maintain transparency and objectivity",
+      "Document investigative steps thoroughly"
+    ],
+    "risks": [
+      "Judicial scrutiny of investigation quality",
+      "Allegations of bias or mala fides"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the Magistrate’s role when considering a closure report.",
+  "context": "The Magistrate accepted the B-Summary after hearing parties.",
+  "output": {
+    "topic_name": "Magistrate’s Discretion on Closure Reports",
+    "parties_involved": [
+      "Metropolitan Magistrate",
+      "Investigating officer",
+      "Complainant"
+    ],
+    "acts_and_clause_involved": [
+      "Section 173 CrPC",
+      "Judicial precedents on closure reports"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Apply independent judicial mind",
+      "risks": "Mechanical acceptance of police opinion",
+      "benefits": "Efficient termination of unfounded cases"
+    },
+    "summary": "The Magistrate may accept a closure report after considering investigative material and the complainant’s response."
+  }
+},
+{
+  "instruction": "Explain how courts distinguish false promises from emotional assurances in sexual offence cases.",
+  "context": "The petitioner alleged inducement based on future relationship assurances.",
+  "output": {
+    "answer": "Courts examine intent at the time of the promise, surrounding conduct, and whether the promise was inherently false or merely unfulfilled.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify evidentiary risks associated with producing electronic communications without original devices.",
+  "context": "Chats and photographs were produced without primary devices.",
+  "output": {
+    "obligations": [
+      "Establish authenticity and source of electronic records",
+      "Comply with procedural requirements for digital evidence"
+    ],
+    "risks": [
+      "Exclusion due to lack of reliability",
+      "Adverse inference regarding manipulation"
+    ]
+  }
+},
+{
+  "instruction": "Explain the limits of writ jurisdiction when challenging acceptance of a police closure report.",
+  "context": "The petitioner invoked constitutional remedies against acceptance of a B-Summary.",
+  "output": {
+    "answer": "Writ courts intervene only when the investigation or judicial acceptance suffers from illegality, perversity, or mala fides, not merely because an alternative view is possible.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of the standard applied by constitutional courts while reviewing investigative conclusions.",
+  "context": "The Court assessed whether interference with police findings was warranted.",
+  "output": {
+    "topic_name": "Standard of Judicial Review of Investigations",
+    "parties_involved": [
+      "High Courts",
+      "Investigating agencies",
+      "Complainants"
+    ],
+    "acts_and_clause_involved": [
+      "Articles 226 and 227 of the Constitution",
+      "Section 173 CrPC"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure legality and fairness, not factual re-evaluation",
+      "risks": "Transforming writ review into appellate scrutiny",
+      "benefits": "Preservation of investigative autonomy"
+    },
+    "summary": "Judicial review of investigations is confined to correcting legal errors and does not extend to reassessing evidence on merits."
+  }
+},
+{
+  "instruction": "Assess the evidentiary risks associated with unexplained delay in reporting serious offences.",
+  "context": "The complaint was lodged long after the alleged incidents.",
+  "output": {
+    "obligations": [
+      "Provide a credible explanation for delay",
+      "Demonstrate continuity of grievance"
+    ],
+    "risks": [
+      "Credibility concerns",
+      "Inference of afterthought or embellishment"
+    ]
+  }
+},
+{
+  "instruction": "Extract indicators that discourage judicial interference with investigative findings.",
+  "context": "The Court noted factors supporting non-interference.",
+  "output": {
+    "clauses_found": [
+      "Detailed investigation addressing allegations",
+      "Opportunity of hearing to complainant",
+      "Reasoned judicial acceptance of closure"
+    ]
+  }
+},
+{
+  "instruction": "Analyze how a complainant’s affidavit impacts consideration of a closure report.",
+  "context": "The prosecutrix filed an affidavit expressing inability to pursue allegations.",
+  "output": {
+    "answer": "Such an affidavit may reinforce the investigative conclusion but does not, by itself, absolve the court from examining the legality of the closure.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal hurdles in seeking reopening of a criminal case after acceptance of a closure report.",
+  "context": "The petitioner sought further investigation.",
+  "output": {
+    "obligations": [
+      "Present fresh or compelling material",
+      "Establish investigative inadequacy or illegality"
+    ],
+    "risks": [
+      "Finality attaching to judicial orders",
+      "Dismissal due to absence of new evidence"
+    ]
+  }
+},
+{
+  "instruction": "Extract judicial factors relevant to evaluating consent in intimate relationship allegations.",
+  "context": "The Court assessed whether consent was vitiated.",
+  "output": {
+    "clauses_found": [
+      "Voluntariness of participation",
+      "Contemporaneous conduct of parties",
+      "Intent at the time of alleged inducement"
+    ]
+  }
+},
+{
+  "instruction": "Explain how courts differentiate breach of promise from consent obtained under misconception.",
+  "context": "The allegations involved assurances related to future relationship.",
+  "output": {
+    "answer": "Courts assess whether the promise was dishonest from inception; mere non-fulfilment does not automatically imply misconception of fact.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess evidentiary risks when electronic communications are selectively produced.",
+  "context": "Digital chats were relied upon during investigation.",
+  "output": {
+    "obligations": [
+      "Ensure completeness and authenticity",
+      "Avoid selective or edited production"
+    ],
+    "risks": [
+      "Allegations of manipulation",
+      "Reduced evidentiary weight"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the consent jurisprudence reaffirmed by the Court in this case.",
+  "context": "The Court applied settled principles on sexual consent.",
+  "output": {
+    "topic_name": "Consent and Misconception in Sexual Offence Law",
+    "parties_involved": [
+      "Accused persons",
+      "Complainants",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Section 375 IPC",
+      "Judicial precedents on consent"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Assess intent and circumstances holistically",
+      "risks": "Criminalizing consensual relationships retrospectively",
+      "benefits": "Protection against exploitation while preserving autonomy"
+    },
+    "summary": "The judgment reiterates that consent must be assessed contextually, with false promise requiring proof of dishonest intent at inception."
+  }
+},
+{
+  "instruction": "Analyze why investigative fairness is critical before courts uphold closure of serious allegations.",
+  "context": "Allegations of bias and influence were raised.",
+  "output": {
+    "answer": "Fair investigation ensures legitimacy of closure decisions and maintains public confidence, particularly in sensitive offences.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify additional scrutiny risks when allegations involve influential or corporate entities.",
+  "context": "The accused was linked to a prominent organization.",
+  "output": {
+    "obligations": [
+      "Demonstrate procedural neutrality",
+      "Ensure independent verification of evidence"
+    ],
+    "risks": [
+      "Perception of institutional bias",
+      "Heightened judicial and public scrutiny"
+    ]
+  }
+},
+{
+  "instruction": "Analyze how the Court reconciled competing precedents on consent obtained through promises.",
+  "context": "The judgment references Supreme Court guidance on consent and misconception.",
+  "output": {
+    "answer": "The Court harmonized precedents by focusing on intent at inception, holding that only a dishonest promise made from the outset can vitiate consent, not subsequent non-fulfilment.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Provide a structured summary of the doctrine governing false promise and sexual consent.",
+  "context": "The allegations involved assurances related to a future relationship.",
+  "output": {
+    "topic_name": "False Promise and Consent Doctrine",
+    "parties_involved": [
+      "Complainant",
+      "Accused",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Section 375 IPC",
+      "Judicial precedents on consent"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove dishonest intent at inception",
+      "risks": "Criminalization of consensual relationships",
+      "benefits": "Protection against exploitative inducement"
+    },
+    "summary": "The doctrine distinguishes deceptive inducement from failed expectations by examining intent at the time consent was given."
+  }
+},
+{
+  "instruction": "Assess risks when allegations are reframed after an initial consensual relationship deteriorates.",
+  "context": "The Court evaluated evolving narratives over time.",
+  "output": {
+    "obligations": [
+      "Maintain consistency in allegations",
+      "Provide corroboration for later claims"
+    ],
+    "risks": [
+      "Perception of afterthought",
+      "Reduced evidentiary credibility"
+    ]
+  }
+},
+{
+  "instruction": "Extract indicators courts use to differentiate consensual intimacy from sexual exploitation.",
+  "context": "The judgment assessed conduct, timing, and communications.",
+  "output": {
+    "clauses_found": [
+      "Duration and nature of relationship",
+      "Contemporaneous communications",
+      "Behavior immediately after alleged incidents"
+    ]
+  }
+},
+{
+  "instruction": "Explain why courts defer to investigative findings in absence of procedural illegality.",
+  "context": "The Court declined to substitute its view for that of investigators.",
+  "output": {
+    "answer": "Deference preserves institutional roles and prevents writ jurisdiction from becoming a forum for re-evaluating evidence.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks to fair investigation arising from public or media pressure in sensitive cases.",
+  "context": "Allegations included claims of influence and public scrutiny.",
+  "output": {
+    "obligations": [
+      "Insulate investigation from external pressure",
+      "Document decision-making transparently"
+    ],
+    "risks": [
+      "Claims of bias",
+      "Erosion of public confidence"
+    ]
+  }
+},
+{
+  "instruction": "Extract circumstances that weigh against exercise of writ powers to reopen investigations.",
+  "context": "The Court identified factors discouraging intervention.",
+  "output": {
+    "clauses_found": [
+      "Completion of comprehensive investigation",
+      "Judicial application of mind by Magistrate",
+      "Absence of fresh or compelling material"
+    ]
+  }
+},
+{
+  "instruction": "Analyze the legal impact of retracting a prior affidavit consenting to case closure.",
+  "context": "The complainant later sought reopening after earlier consent.",
+  "output": {
+    "answer": "Retraction weakens credibility unless accompanied by proof of coercion, fraud, or new evidence explaining the earlier consent.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess strategic risks in choosing writ remedies over statutory criminal procedures.",
+  "context": "The petitioner invoked constitutional jurisdiction.",
+  "output": {
+    "obligations": [
+      "Demonstrate exceptional circumstances",
+      "Exhaust appropriate statutory remedies"
+    ],
+    "risks": [
+      "Dismissal for alternative remedy",
+      "Higher threshold for relief"
+    ]
+  }
+},
+{
+  "instruction": "Summarize how the judgment balances investigative autonomy with judicial oversight.",
+  "context": "The Court addressed separation of functions.",
+  "output": {
+    "topic_name": "Institutional Balance in Criminal Justice",
+    "parties_involved": [
+      "Investigating agencies",
+      "Magistracy",
+      "High Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Section 173 CrPC",
+      "Articles 226 and 227 of the Constitution"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Correct illegality without fact substitution",
+      "risks": "Overreach undermining investigations",
+      "benefits": "Legitimacy and finality of outcomes"
+    },
+    "summary": "The judgment reinforces calibrated oversight, intervening only to correct legal error while respecting investigative conclusions."
+  }
+},
+{
+  "instruction": "Explain how courts weigh testimonial assertions against electronic communications in such cases.",
+  "context": "Chats and messages were examined during investigation.",
+  "output": {
+    "answer": "Courts assess consistency, completeness, and authenticity, avoiding selective reliance that could distort context.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify how this decision guides future litigation involving closure reports and consent disputes.",
+  "context": "The judgment sets procedural expectations.",
+  "output": {
+    "obligations": [
+      "Present fresh material for reopening",
+      "Frame consent claims with inception-focused evidence"
+    ],
+    "risks": [
+      "Dismissal of writ petitions lacking novelty",
+      "Stricter scrutiny of delayed allegations"
+    ]
+  }
+}
+]

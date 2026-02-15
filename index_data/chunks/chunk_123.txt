@@ -1,0 +1,3 @@
+Instruction: Identify provisions that empower Parliament to alter the territorial structure of India.
+Context: Articles in Part I describe Parliament’s authority over state formation and territorial changes.
+Output: {"clauses_found": ["Parliament may admit new States into the Union", "Parliament can alter boundaries or names of existing States", "Territorial changes require Presidential recommendation"]}

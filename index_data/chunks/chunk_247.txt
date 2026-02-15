@@ -1,0 +1,3 @@
+Instruction: Assess the procedural risks faced by a complainant when consenting to closure of an investigation.
+Context: The prosecutrix filed an affidavit expressing inability to pursue the case.
+Output: {"obligations": ["Understand legal consequences of consenting to closure", "Demonstrate coercion if consent is later withdrawn"], "risks": ["Loss of opportunity for further investigation", "High threshold for reopening closed cases"]}

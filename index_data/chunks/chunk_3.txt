@@ -1,0 +1,3 @@
+Instruction: Extract the essential components required to constitute an offence under cheque dishonour law.
+Context: The Court explains when the offence under Section 138 is complete.
+Output: {"clauses_found": ["Issuance of a cheque", "Presentation and dishonour of the cheque", "Issuance of statutory demand notice", "Failure to pay within prescribed time"]}

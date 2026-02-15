@@ -1,0 +1,3 @@
+Instruction: Analyze why inconsistent facts may still be admissible in evidentiary assessment.
+Context: Certain facts gain relevance by contradicting or undermining other facts.
+Output: {"answer": "Inconsistent facts help test credibility and probability by challenging competing narratives before the court.", "confidence": "high"}

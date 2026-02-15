@@ -1,0 +1,3 @@
+Instruction: Summarize how the IPC protects reputation and personal security through criminal sanctions.
+Context: Defamation and intimidation safeguard social order.
+Output: {"topic_name": "Reputation and Coercion Offences", "parties_involved": ["Accused persons", "Affected individuals"], "acts_and_clause_involved": ["Sections 499–507 IPC"], "risk_obligations_perks": {"obligations": "Balance free speech with reputational rights", "risks": "Misuse for silencing criticism", "benefits": "Protection against harassment and threats"}, "summary": "The IPC criminalizes reputational harm and coercive threats while embedding safeguards against misuse."}

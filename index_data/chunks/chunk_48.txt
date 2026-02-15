@@ -1,0 +1,3 @@
+Instruction: Analyze how mental incapacity affects criminal responsibility.
+Context: Mental state at the time of the act determines culpability.
+Output: {"answer": "Mental incapacity negates liability when it prevents understanding the nature or wrongfulness of conduct at the time of the act.", "confidence": "high"}

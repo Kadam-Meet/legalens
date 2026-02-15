@@ -1,0 +1,3 @@
+Instruction: Assess legal risks when allegations of sexual offences arise from deteriorated personal relationships.
+Context: Courts often examine surrounding circumstances.
+Output: {"obligations": ["Examine consistency of allegations", "Evaluate contemporaneous conduct"], "risks": ["Afterthought allegations", "Credibility challenges at trial"]}

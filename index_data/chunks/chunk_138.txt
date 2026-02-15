@@ -1,0 +1,3 @@
+Instruction: Explain the constitutional rationale for free and compulsory education.
+Context: Education is recognized as a fundamental entitlement.
+Output: {"answer": "Free and compulsory education aims to promote equality, social mobility, and informed citizenship among children.", "confidence": "high"}

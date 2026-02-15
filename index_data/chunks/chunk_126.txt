@@ -1,0 +1,3 @@
+Instruction: What legal safeguards exist against arbitrary arrest under constitutional law?
+Context: Articles dealing with personal liberty and preventive detention define arrest safeguards.
+Output: {"answer": "Safeguards include mandatory disclosure of arrest grounds, access to legal counsel, production before a magistrate within 24 hours, and limits on preventive detention without review.", "confidence": "high"}

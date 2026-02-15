@@ -1,0 +1,3 @@
+Instruction: Extract categories of punishments recognized under the Sanhita.
+Context: The law specifies permissible sentencing options.
+Output: {"clauses_found": ["Capital punishment", "Imprisonment for life", "Rigorous and simple imprisonment", "Fine and forfeiture", "Community service"]}

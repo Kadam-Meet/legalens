@@ -1,0 +1,3 @@
+Instruction: Assess evidentiary risks associated with post-offence conduct of an accused.
+Context: Conduct before and after an event may influence evidentiary evaluation.
+Output: {"obligations": ["Courts must assess conduct objectively", "Parties must contextualize conduct evidence carefully"], "risks": ["Misinterpretation of innocent behavior", "Over-reliance on circumstantial conduct"]}

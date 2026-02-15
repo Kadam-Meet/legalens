@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of the doctrine governing false promise and sexual consent.
+Context: The allegations involved assurances related to a future relationship.
+Output: {"topic_name": "False Promise and Consent Doctrine", "parties_involved": ["Complainant", "Accused", "Courts"], "acts_and_clause_involved": ["Section 375 IPC", "Judicial precedents on consent"], "risk_obligations_perks": {"obligations": "Prove dishonest intent at inception", "risks": "Criminalization of consensual relationships", "benefits": "Protection against exploitative inducement"}, "summary": "The doctrine distinguishes deceptive inducement from failed expectations by examining intent at the time consent was given."}

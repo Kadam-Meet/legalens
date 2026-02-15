@@ -1,0 +1,3 @@
+Instruction: Assess evidentiary risks when electronic communications are selectively produced.
+Context: Digital chats were relied upon during investigation.
+Output: {"obligations": ["Ensure completeness and authenticity", "Avoid selective or edited production"], "risks": ["Allegations of manipulation", "Reduced evidentiary weight"]}

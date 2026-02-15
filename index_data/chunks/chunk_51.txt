@@ -1,0 +1,3 @@
+Instruction: Identify risks faced by individuals accused of abetment without physical participation.
+Context: Indirect involvement can still attract punishment.
+Output: {"obligations": ["Establish absence of intentional encouragement or assistance", "Disprove causal connection with the offence"], "risks": ["Liability equal to principal offender", "Inference of intent from communications or conduct"]}

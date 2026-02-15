@@ -1,0 +1,3 @@
+Instruction: Analyze State risks when invoking policy-based immunity from fundamental rights.
+Context: Directive Principles interact with Fundamental Rights.
+Output: {"obligations": ["Ensure laws genuinely pursue directive principles"], "risks": ["Misclassification may lead to judicial scrutiny", "Potential violation of basic structure doctrine"]}

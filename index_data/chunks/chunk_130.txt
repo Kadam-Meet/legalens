@@ -1,0 +1,3 @@
+Instruction: Assess constitutional risks if the State enacts laws violating equality principles.
+Context: Fundamental Rights impose limits on legislative power.
+Output: {"obligations": ["Legislative actions must respect equality before law", "Discriminatory practices must be avoided"], "risks": ["Judicial invalidation of unconstitutional laws", "Erosion of public trust in governance"]}

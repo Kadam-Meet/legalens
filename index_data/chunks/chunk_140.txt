@@ -1,0 +1,3 @@
+Instruction: Extract rights granted to religious denominations.
+Context: Religious freedom provisions define institutional autonomy.
+Output: {"clauses_found": ["Right to manage religious affairs", "Right to own and administer property"]}

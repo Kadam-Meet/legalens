@@ -1,0 +1,3 @@
+Instruction: Explain how courts weigh testimonial assertions against electronic communications in such cases.
+Context: Chats and messages were examined during investigation.
+Output: {"answer": "Courts assess consistency, completeness, and authenticity, avoiding selective reliance that could distort context.", "confidence": "high"}

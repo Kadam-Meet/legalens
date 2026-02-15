@@ -1,0 +1,3 @@
+Instruction: Analyze the constitutional objective behind establishing village panchayats.
+Context: Local self-government is promoted under Directive Principles.
+Output: {"answer": "Village panchayats decentralize power, encourage democratic participation, and improve local governance efficiency.", "confidence": "high"}

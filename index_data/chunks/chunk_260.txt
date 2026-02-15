@@ -1,0 +1,3 @@
+Instruction: Extract indicators that discourage judicial interference with investigative findings.
+Context: The Court noted factors supporting non-interference.
+Output: {"clauses_found": ["Detailed investigation addressing allegations", "Opportunity of hearing to complainant", "Reasoned judicial acceptance of closure"]}

@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of how the law addresses threats to national integrity.
+Context: Special provisions deal with collective security offences.
+Output: {"topic_name": "Offences Against the State", "parties_involved": ["Accused persons", "State authorities", "Courts"], "acts_and_clause_involved": ["National Security Provisions"], "risk_obligations_perks": {"obligations": "Ensure precise application of security laws", "risks": "Misuse affecting dissent", "benefits": "Protection of constitutional order"}, "summary": "The Sanhita criminalizes acts threatening national integrity while requiring careful application to preserve democratic freedoms."}

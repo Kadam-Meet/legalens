@@ -1,0 +1,3 @@
+Instruction: Extract constitutional safeguards ensuring security of tenure for judges.
+Context: Judicial independence is protected through appointment and removal processes.
+Output: {"clauses_found": ["Removal only through parliamentary impeachment", "Fixed service conditions protected from arbitrary change"]}

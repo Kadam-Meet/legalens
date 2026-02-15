@@ -1,0 +1,3 @@
+Instruction: Summarize constitutional protections related to preventive detention.
+Context: Certain articles regulate detention without trial.
+Output: {"topic_name": "Preventive Detention Safeguards", "parties_involved": ["Detained individuals", "Detaining authorities", "Advisory Boards"], "acts_and_clause_involved": ["Article 22"], "risk_obligations_perks": {"obligations": "Communicate grounds of detention promptly", "risks": "Detention orders may lapse without review", "benefits": "Balancing national security with individual liberty"}, "summary": "The Constitution allows preventive detention under strict procedural safeguards to prevent abuse of executive power."}

@@ -1,0 +1,3 @@
+Instruction: Identify constitutional checks on emergency legislative powers.
+Context: Extraordinary powers are regulated by constitutional safeguards.
+Output: {"clauses_found": ["Time-bound operation of ordinances", "Mandatory legislative approval"]}

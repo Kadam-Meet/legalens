@@ -1,0 +1,3 @@
+Instruction: Explain why criminal law recognizes general exceptions to liability.
+Context: The Sanhita outlines circumstances where conduct does not attract punishment.
+Output: {"answer": "General exceptions prevent unjust punishment by excluding liability where intent, voluntariness, or legal blameworthiness is absent.", "confidence": "high"}

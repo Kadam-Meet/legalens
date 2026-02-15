@@ -1,0 +1,3 @@
+Instruction: Explain how courts distinguish culpable homicide from murder.
+Context: The Code differentiates homicide offences based on intent and knowledge.
+Output: {"answer": "The distinction depends on the degree of intention, knowledge of likely consequences, and the presence of statutory exceptions that reduce culpability.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Analyze why the Court emphasized the chronology of default, resignation, and cheque dishonour.
+Context: The judgment closely examines timelines of events.
+Output: {"answer": "Chronology helps assess whether resignation reflects genuine disengagement or a strategic attempt to avoid impending criminal liability.", "confidence": "high"}

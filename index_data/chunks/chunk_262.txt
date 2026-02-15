@@ -1,0 +1,3 @@
+Instruction: Identify legal hurdles in seeking reopening of a criminal case after acceptance of a closure report.
+Context: The petitioner sought further investigation.
+Output: {"obligations": ["Present fresh or compelling material", "Establish investigative inadequacy or illegality"], "risks": ["Finality attaching to judicial orders", "Dismissal due to absence of new evidence"]}

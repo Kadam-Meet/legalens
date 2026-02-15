@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of the President’s election process.
+Context: The Constitution defines the electoral mechanism for the President.
+Output: {"topic_name": "Election of the President", "parties_involved": ["Members of Parliament", "State Legislative Assemblies", "Election authorities"], "acts_and_clause_involved": ["Articles 54 and 55"], "risk_obligations_perks": {"obligations": "Ensure proportional representation", "risks": "Electoral imbalance if population data is outdated", "benefits": "Federal balance in presidential elections"}, "summary": "The President is elected through an indirect system designed to balance representation between the Union and States."}

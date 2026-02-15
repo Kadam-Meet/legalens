@@ -1,0 +1,3 @@
+Instruction: Explain why certain property-related laws are shielded from fundamental rights challenges.
+Context: Saving clauses protect specific categories of legislation.
+Output: {"answer": "These protections exist to enable land reforms and economic restructuring without constant constitutional litigation.", "confidence": "medium"}

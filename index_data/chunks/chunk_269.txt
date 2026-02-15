@@ -1,0 +1,3 @@
+Instruction: Analyze how the Court reconciled competing precedents on consent obtained through promises.
+Context: The judgment references Supreme Court guidance on consent and misconception.
+Output: {"answer": "The Court harmonized precedents by focusing on intent at inception, holding that only a dishonest promise made from the outset can vitiate consent, not subsequent non-fulfilment.", "confidence": "high"}

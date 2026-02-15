@@ -1,0 +1,3 @@
+Instruction: Identify risks associated with attributing criminal liability based on group membership.
+Context: Collective offences expand liability.
+Output: {"obligations": ["Prove knowledge of common object", "Distinguish passive presence from participation"], "risks": ["Overextension of criminal liability", "Miscarriage of justice"]}

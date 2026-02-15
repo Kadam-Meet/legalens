@@ -1,0 +1,3 @@
+Instruction: Analyze the efficiency rationale behind judicial notice of certain facts.
+Context: Some facts are accepted without formal proof.
+Output: {"answer": "Judicial notice streamlines proceedings by avoiding proof of universally accepted or officially recorded facts.", "confidence": "high"}

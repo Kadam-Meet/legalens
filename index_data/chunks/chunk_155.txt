@@ -1,0 +1,3 @@
+Instruction: Summarize the constitutional right to approach courts for enforcement of rights.
+Context: Judicial remedies form a core constitutional guarantee.
+Output: {"topic_name": "Constitutional Remedies", "parties_involved": ["Citizens", "Supreme Court", "Subordinate courts"], "acts_and_clause_involved": ["Article 32"], "risk_obligations_perks": {"obligations": "Courts must provide effective remedies", "risks": "Suspension only as constitutionally permitted", "benefits": "Direct access to justice"}, "summary": "The Constitution guarantees judicial remedies to ensure enforceability of fundamental rights."}

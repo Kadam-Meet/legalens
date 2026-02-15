@@ -1,0 +1,3 @@
+Instruction: Analyze how electronic records are treated as primary evidence.
+Context: Digital storage and duplication affect evidentiary classification.
+Output: {"answer": "Electronic records are treated as primary evidence when created or stored through reliable systems, even if they exist in multiple identical copies.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of judicial discretion in sentencing.
+Context: Courts determine the nature and extent of punishment.
+Output: {"topic_name": "Judicial Sentencing Discretion", "parties_involved": ["Courts", "Convicted persons"], "acts_and_clause_involved": ["Chapter II (Punishments)"], "risk_obligations_perks": {"obligations": "Apply sentencing principles consistently", "risks": "Sentencing disparity", "benefits": "Individualized justice"}, "summary": "Judicial discretion in sentencing balances statutory boundaries with individualized assessment of criminal conduct."}

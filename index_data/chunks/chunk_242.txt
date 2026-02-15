@@ -1,0 +1,3 @@
+Instruction: Summarize how the IPC safeguards documentary and evidentiary integrity.
+Context: Document-related offences protect legal certainty.
+Output: {"topic_name": "Documentary and Evidentiary Offences", "parties_involved": ["Document creators", "Users of documents", "Courts"], "acts_and_clause_involved": ["Sections 191–229 IPC", "Sections 463–477 IPC"], "risk_obligations_perks": {"obligations": "Maintain truthfulness and authenticity", "risks": "Severe penalties for deception", "benefits": "Reliability of legal processes"}, "summary": "The IPC criminalizes falsification of evidence and documents to preserve justice system credibility."}

@@ -1,0 +1,3 @@
+Instruction: Explain why admissions are relevant but not treated as conclusive proof.
+Context: Admissions influence but do not determine judicial findings.
+Output: {"answer": "Admissions assist courts in drawing inferences but may be rebutted, ensuring decisions are not based solely on self-incriminating or informal statements.", "confidence": "high"}

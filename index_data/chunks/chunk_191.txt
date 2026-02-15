@@ -1,0 +1,3 @@
+Instruction: Analyze when consent fails to protect an act from criminal liability.
+Context: Consent is subject to statutory limitations.
+Output: {"answer": "Consent does not protect acts done under fear, misconception, incapacity, or where the act is independently criminal regardless of harm.", "confidence": "high"}

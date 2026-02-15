@@ -1,0 +1,3 @@
+Instruction: Explain why Directive Principles are considered fundamental despite being non-enforceable.
+Context: Directive Principles guide State policy but cannot be enforced in courts.
+Output: {"answer": "They provide moral and political guidance to the State, shaping legislation and governance even though courts cannot directly enforce them.", "confidence": "high"}

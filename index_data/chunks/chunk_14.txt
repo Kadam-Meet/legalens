@@ -1,0 +1,3 @@
+Instruction: Extract the legal tests used to determine vicarious liability of company officers.
+Context: The judgment explains conditions under Section 141 of the NI Act.
+Output: {"clauses_found": ["Responsibility for conduct of business at relevant time", "Personal involvement through consent or neglect", "Distinct liability of cheque signatories"]}

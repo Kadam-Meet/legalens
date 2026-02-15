@@ -1,0 +1,3 @@
+Instruction: Analyze why executive power is constitutionally vested in the President.
+Context: The Constitution establishes the President as the executive head.
+Output: {"answer": "Vesting executive power in the President ensures centralized authority exercised through constitutional procedures and responsible governance.", "confidence": "high"}

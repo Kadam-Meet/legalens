@@ -1,0 +1,3 @@
+Instruction: Assess risks when dangerous weapons are used in interpersonal conflicts.
+Context: Weapon choice influences offence severity.
+Output: {"obligations": ["Assess lethality of weapon used", "Evaluate manner of use"], "risks": ["Inference of intent to cause death", "Escalation to higher offence category"]}

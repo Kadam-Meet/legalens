@@ -1,0 +1,3 @@
+Instruction: List provisions that restrict the State from violating fundamental rights.
+Context: Constitutional articles limit State authority over individual freedoms.
+Output: {"clauses_found": ["Pre-Constitution laws inconsistent with fundamental rights are void", "Future laws cannot abridge fundamental rights"]}

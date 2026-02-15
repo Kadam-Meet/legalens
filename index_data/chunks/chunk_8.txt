@@ -1,0 +1,3 @@
+Instruction: Assess how statutory presumptions under the NI Act affect an accused at the pre-trial stage.
+Context: Presumptions operate once cheque issuance is shown.
+Output: {"obligations": ["Rebut presumptions through credible evidence", "Discharge burden on balance of probabilities"], "risks": ["Inability to escape trial at threshold", "Adverse inference if rebuttal fails"]}

@@ -1,0 +1,3 @@
+Instruction: Analyze why disruption of public order is treated separately from ordinary criminal conduct.
+Context: Public order offences affect collective peace.
+Output: {"answer": "Public order offences threaten societal stability and require preventive intervention beyond individual victim-based crimes.", "confidence": "high"}

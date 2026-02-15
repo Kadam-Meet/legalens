@@ -1,0 +1,3 @@
+Instruction: Analyze the obligations imposed on the State concerning equality before law.
+Context: Fundamental Rights guarantee equality and prohibit discrimination by the State.
+Output: {"obligations": ["Ensure equal protection of laws to all persons", "Avoid discriminatory legislation or executive action"], "risks": ["Unconstitutional laws may be declared void", "State actions may be struck down by courts"]}

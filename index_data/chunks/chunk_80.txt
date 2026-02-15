@@ -1,0 +1,3 @@
+Instruction: Extract principles governing admissibility of acts and statements of co-conspirators.
+Context: Conspiracy-related evidence expands admissibility beyond direct actors.
+Output: {"clauses_found": ["Acts and statements made in furtherance of common intention", "Temporal connection with conspiracy objective", "Applicability even without direct participation"]}

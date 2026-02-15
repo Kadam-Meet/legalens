@@ -1,0 +1,3 @@
+Instruction: Explain how judicial review preserves constitutional supremacy.
+Context: Courts examine validity of legislative and executive actions.
+Output: {"answer": "Judicial review allows courts to invalidate actions inconsistent with the Constitution, maintaining its supremacy.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Extract conditions under which mental incapacity excludes criminal liability.
+Context: Insanity-based defences are narrowly defined.
+Output: {"clauses_found": ["Inability to understand nature of the act", "Inability to distinguish right from wrong", "Existence of mental disorder at the time of offence"]}

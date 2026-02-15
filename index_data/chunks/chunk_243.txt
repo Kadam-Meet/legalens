@@ -1,0 +1,3 @@
+Instruction: Explain the role of miscellaneous offences in a comprehensive criminal code.
+Context: Residual provisions address diverse misconduct.
+Output: {"answer": "Miscellaneous offences ensure that harmful conduct not fitting narrow categories can still be addressed within a structured legal framework.", "confidence": "medium"}

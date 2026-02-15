@@ -1,0 +1,3 @@
+Instruction: Extract principles guiding punishment for abetment, conspiracy, and attempt.
+Context: Punishment often mirrors the intended offence.
+Output: {"clauses_found": ["Punishment proportional to principal offence", "Enhanced punishment for serious crimes", "Mitigation where offence is not completed"]}

@@ -1,0 +1,3 @@
+Instruction: Extract constitutional safeguards against double punishment.
+Context: Criminal justice protections are embedded in personal liberty provisions.
+Output: {"clauses_found": ["No person shall be punished twice for the same offence", "Penalties cannot exceed those prescribed at the time of offence"]}

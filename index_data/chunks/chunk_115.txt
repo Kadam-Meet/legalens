@@ -1,0 +1,3 @@
+Instruction: Identify evidentiary risks in proving handwriting or electronic signatures.
+Context: Identity verification relies on opinion-based evidence.
+Output: {"obligations": ["Establish familiarity or certification authority linkage", "Demonstrate authenticity through reliable comparison"], "risks": ["Forgery allegations", "Inconclusive identification"]}

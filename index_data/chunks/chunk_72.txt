@@ -1,0 +1,3 @@
+Instruction: Analyze why criminal law adopts a preventive approach for security-related offences.
+Context: Certain offences are criminalized at early stages.
+Output: {"answer": "Preventive criminalization reduces the likelihood of catastrophic harm by intervening before violence or instability materializes.", "confidence": "high"}

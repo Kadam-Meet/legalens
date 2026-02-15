@@ -1,0 +1,3 @@
+Instruction: Assess risks arising from legislative encroachment into State subjects.
+Context: Federal boundaries limit legislative competence.
+Output: {"obligations": ["Respect distribution of legislative powers"], "risks": ["Federal disputes", "Invalidation by constitutional courts"]}

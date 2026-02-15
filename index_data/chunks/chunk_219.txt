@@ -1,0 +1,3 @@
+Instruction: Explain how extortion differs from robbery under criminal law.
+Context: Both involve coercive acquisition of property.
+Output: {"answer": "Extortion involves obtaining property through threats, whereas robbery involves immediate force or fear during the taking of property.", "confidence": "high"}

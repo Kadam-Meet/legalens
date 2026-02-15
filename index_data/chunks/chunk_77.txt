@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of how the Act conceptualizes evidence and facts.
+Context: The Act defines evidence, facts, and relevancy principles.
+Output: {"topic_name": "Concept of Evidence", "parties_involved": ["Courts", "Witnesses", "Litigating parties"], "acts_and_clause_involved": ["Chapter I", "Chapter II"], "risk_obligations_perks": {"obligations": "Present legally admissible evidence", "risks": "Improper classification may invalidate proof", "benefits": "Clear evidentiary framework for fair trial"}, "summary": "The Act establishes a structured framework distinguishing facts, relevance, and admissible forms of evidence to support judicial decision-making."}

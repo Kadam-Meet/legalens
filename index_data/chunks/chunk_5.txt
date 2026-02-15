@@ -1,0 +1,3 @@
+Instruction: Identify the risks of relying on corporate filings alone to seek quashing of criminal proceedings.
+Context: The petitioner relied on resignation records from statutory portals.
+Output: {"obligations": ["Demonstrate that resignation conclusively negates responsibility", "Show absence of continuing control or involvement"], "risks": ["Courts treating filings as disputed evidence", "Denial of quashing relief"]}

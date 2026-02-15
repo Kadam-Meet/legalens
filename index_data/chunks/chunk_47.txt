@@ -1,0 +1,3 @@
+Instruction: Summarize the legal framework governing the right of private defence.
+Context: The Sanhita codifies defensive rights.
+Output: {"topic_name": "Right of Private Defence", "parties_involved": ["Defenders", "Aggressors", "Courts"], "acts_and_clause_involved": ["General Exceptions Chapter"], "risk_obligations_perks": {"obligations": "Establish necessity and proportionality", "risks": "Exceeding defensive limits", "benefits": "Protection of life and property"}, "summary": "Private defence allows necessary force to prevent imminent harm while prohibiting retaliatory or excessive action."}

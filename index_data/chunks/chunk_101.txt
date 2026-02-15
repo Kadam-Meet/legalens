@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of what qualifies as primary evidence under the Act.
+Context: Primary evidence establishes authenticity through direct production.
+Output: {"topic_name": "Primary Evidence", "parties_involved": ["Courts", "Document custodians", "Litigants"], "acts_and_clause_involved": ["Chapter V (Documentary Evidence)"], "risk_obligations_perks": {"obligations": "Produce original or authentic digital records", "risks": "Challenges to authenticity if custody is disputed", "benefits": "Highest evidentiary reliability"}, "summary": "Primary evidence relies on direct production of documents or electronic records, ensuring maximum credibility in judicial evaluation."}

@@ -1,0 +1,3 @@
+Instruction: Analyze why investigative fairness is critical before courts uphold closure of serious allegations.
+Context: Allegations of bias and influence were raised.
+Output: {"answer": "Fair investigation ensures legitimacy of closure decisions and maintains public confidence, particularly in sensitive offences.", "confidence": "high"}

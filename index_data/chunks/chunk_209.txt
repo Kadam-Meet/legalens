@@ -1,0 +1,3 @@
+Instruction: Explain how the concept of consent is evaluated in sexual offence prosecutions.
+Context: Consent under criminal law must meet statutory conditions.
+Output: {"answer": "Consent is evaluated based on voluntariness, capacity, and absence of coercion or misconception, with emphasis on circumstances at the time of the act.", "confidence": "high"}

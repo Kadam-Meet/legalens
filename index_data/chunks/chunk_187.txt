@@ -1,0 +1,3 @@
+Instruction: Extract key legal concepts defined to ensure consistent interpretation of offences.
+Context: The Code provides interpretative definitions.
+Output: {"clauses_found": ["Person includes companies and associations", "Dishonesty relates to wrongful gain or loss", "Fraud requires intent to deceive"]}

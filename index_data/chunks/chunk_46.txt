@@ -1,0 +1,3 @@
+Instruction: Identify risks involved in exceeding the right of private defence.
+Context: Private defence is subject to proportionality limits.
+Output: {"obligations": ["Use force proportionate to threat", "Act only during imminent danger"], "risks": ["Criminal liability for excess force", "Loss of defensive protection"]}

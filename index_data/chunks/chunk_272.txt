@@ -1,0 +1,3 @@
+Instruction: Extract indicators courts use to differentiate consensual intimacy from sexual exploitation.
+Context: The judgment assessed conduct, timing, and communications.
+Output: {"clauses_found": ["Duration and nature of relationship", "Contemporaneous communications", "Behavior immediately after alleged incidents"]}

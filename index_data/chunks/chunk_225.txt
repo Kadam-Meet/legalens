@@ -1,0 +1,3 @@
+Instruction: Explain how liability arises for members of an unlawful assembly.
+Context: Group liability operates under public order provisions.
+Output: {"answer": "Liability arises when individuals knowingly join an assembly with a common unlawful object, even if each does not commit an overt act.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Assess evidentiary risks linked to electronic and digital records.
+Context: Digital evidence introduces technical reliability concerns.
+Output: {"obligations": ["Maintain proper custody and integrity of digital records", "Demonstrate system reliability when challenged"], "risks": ["Tampering or manipulation allegations", "Exclusion due to authenticity disputes"]}

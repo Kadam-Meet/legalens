@@ -1,0 +1,3 @@
+Instruction: Extract core elements required to establish criminal conspiracy.
+Context: Liability flows from collective agreement.
+Output: {"clauses_found": ["Agreement between two or more persons", "Intent to commit an unlawful act", "Participation linked to the common design"]}

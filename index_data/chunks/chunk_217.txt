@@ -1,0 +1,3 @@
+Instruction: Assess risks when courts misclassify misappropriation as theft.
+Context: Different offences require different mental elements.
+Output: {"obligations": ["Identify possession status at the time of act", "Assess intention to permanently deprive"], "risks": ["Incorrect charge framing", "Acquittal due to legal mismatch"]}

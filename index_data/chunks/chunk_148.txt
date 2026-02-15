@@ -1,0 +1,3 @@
+Instruction: List constitutional protections related to religious freedom of individuals.
+Context: Religious liberty is subject to public order and morality.
+Output: {"clauses_found": ["Freedom of conscience", "Right to profess, practice, and propagate religion"]}

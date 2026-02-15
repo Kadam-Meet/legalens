@@ -1,0 +1,3 @@
+Instruction: Explain how courts differentiate breach of promise from consent obtained under misconception.
+Context: The allegations involved assurances related to future relationship.
+Output: {"answer": "Courts assess whether the promise was dishonest from inception; mere non-fulfilment does not automatically imply misconception of fact.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Explain how evidence of mental state becomes legally relevant under the Act.
+Context: Intent, knowledge, and good faith influence liability.
+Output: {"answer": "Mental states are relevant when they directly relate to the disputed conduct, requiring fact-specific linkage rather than general disposition.", "confidence": "high"}

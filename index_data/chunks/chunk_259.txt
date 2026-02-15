@@ -1,0 +1,3 @@
+Instruction: Assess the evidentiary risks associated with unexplained delay in reporting serious offences.
+Context: The complaint was lodged long after the alleged incidents.
+Output: {"obligations": ["Provide a credible explanation for delay", "Demonstrate continuity of grievance"], "risks": ["Credibility concerns", "Inference of afterthought or embellishment"]}

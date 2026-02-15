@@ -1,0 +1,3 @@
+Instruction: Explain why criminal law imposes enhanced duties on public servants.
+Context: The Code prescribes offences specific to misuse of public office.
+Output: {"answer": "Because public servants exercise delegated authority and public trust, misuse of power warrants stricter accountability to preserve institutional integrity.", "confidence": "high"}

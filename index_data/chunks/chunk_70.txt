@@ -1,0 +1,3 @@
+Instruction: Identify risks when regulating speech linked to public disorder or State security.
+Context: Speech-related offences intersect with constitutional freedoms.
+Output: {"obligations": ["Demonstrate clear connection to imminent harm", "Apply proportional restrictions"], "risks": ["Chilling effect on free expression", "Overcriminalization of dissent"]}

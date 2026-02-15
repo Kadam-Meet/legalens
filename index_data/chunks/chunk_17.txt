@@ -1,0 +1,3 @@
+Instruction: Identify risks faced by directors who participate in loan negotiations and cheque issuance but resign before dishonour.
+Context: The petitioner negotiated loans and signed cheques.
+Output: {"obligations": ["Explain role during legally relevant stages", "Rebut inference of continuing responsibility"], "risks": ["Liability extending beyond resignation", "Exposure due to cheque signatory status"]}

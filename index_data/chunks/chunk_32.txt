@@ -1,0 +1,3 @@
+Instruction: Identify risks arising from joint criminal conduct involving multiple actors.
+Context: Criminal acts may be committed in furtherance of common intention.
+Output: {"obligations": ["Establish shared intention or knowledge", "Link individual participation to the collective act"], "risks": ["Unfair attribution of liability", "Dilution of individual culpability assessment"]}

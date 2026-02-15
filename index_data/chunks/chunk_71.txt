@@ -1,0 +1,3 @@
+Instruction: Summarize the legal framework governing maintenance of public order.
+Context: Public order provisions address collective threats.
+Output: {"topic_name": "Public Order and Collective Security", "parties_involved": ["Public authorities", "Participants in assemblies", "Courts"], "acts_and_clause_involved": ["Public Order Provisions"], "risk_obligations_perks": {"obligations": "Prevent escalation while respecting rights", "risks": "Misuse against lawful protest", "benefits": "Preservation of peace and safety"}, "summary": "Public order laws empower the State to manage collective risks while demanding careful constitutional balancing."}

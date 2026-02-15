@@ -1,0 +1,3 @@
+Instruction: Assess legal risks when public servants knowingly disobey statutory directions.
+Context: Disobedience can cause public harm.
+Output: {"obligations": ["Follow binding legal directions", "Avoid arbitrary exercise of discretion"], "risks": ["Criminal prosecution", "Loss of service protections"]}

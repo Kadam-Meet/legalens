@@ -1,0 +1,3 @@
+Instruction: Extract the legally recognized methods for proving the contents of documents.
+Context: The Act differentiates between primary and secondary evidence.
+Output: {"clauses_found": ["Production of the original document", "Use of certified or mechanically accurate copies", "Oral accounts when secondary evidence is permitted"]}

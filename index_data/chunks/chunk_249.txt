@@ -1,0 +1,3 @@
+Instruction: Explain why constitutional courts exercise restraint while interfering with police investigations.
+Context: The Court emphasized limits of writ jurisdiction.
+Output: {"answer": "Because investigation involves factual assessment best left to statutory authorities unless mala fides or legal violations are clearly demonstrated.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Explain how grievous hurt is distinguished from simple hurt.
+Context: The Code lists specific injuries as grievous.
+Output: {"answer": "Grievous hurt involves serious bodily injuries explicitly enumerated by law, reflecting long-term or severe harm beyond temporary pain.", "confidence": "high"}

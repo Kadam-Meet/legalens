@@ -1,0 +1,3 @@
+Instruction: Assess evidentiary risks when relying on motive or preparation to prove guilt.
+Context: Motive and preparation can support inferences about conduct.
+Output: {"obligations": ["Correlate motive evidence with facts in issue", "Avoid speculative inference without linkage"], "risks": ["Overemphasis on motive without direct proof", "Prejudicial impact outweighing probative value"]}

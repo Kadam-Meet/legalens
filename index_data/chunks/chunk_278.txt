@@ -1,0 +1,3 @@
+Instruction: Summarize how the judgment balances investigative autonomy with judicial oversight.
+Context: The Court addressed separation of functions.
+Output: {"topic_name": "Institutional Balance in Criminal Justice", "parties_involved": ["Investigating agencies", "Magistracy", "High Courts"], "acts_and_clause_involved": ["Section 173 CrPC", "Articles 226 and 227 of the Constitution"], "risk_obligations_perks": {"obligations": "Correct illegality without fact substitution", "risks": "Overreach undermining investigations", "benefits": "Legitimacy and finality of outcomes"}, "summary": "The judgment reinforces calibrated oversight, intervening only to correct legal error while respecting investigative conclusions."}

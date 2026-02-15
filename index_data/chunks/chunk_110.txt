@@ -1,0 +1,3 @@
+Instruction: Explain why courts rely on expert opinion in technically complex disputes.
+Context: The Act permits opinions of specially skilled persons.
+Output: {"answer": "Expert opinions assist courts in understanding specialized subjects beyond common knowledge, enabling informed judicial conclusions.", "confidence": "high"}

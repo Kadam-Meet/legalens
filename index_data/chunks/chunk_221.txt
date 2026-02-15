@@ -1,0 +1,3 @@
+Instruction: Explain why offences against the State are treated differently from ordinary crimes.
+Context: Certain IPC provisions protect sovereignty and constitutional order.
+Output: {"answer": "Because such offences threaten collective security and governance structures, the law imposes stricter standards and penalties to deter systemic harm.", "confidence": "high"}

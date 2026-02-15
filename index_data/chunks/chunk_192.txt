@@ -1,0 +1,3 @@
+Instruction: Identify legal risks when criminal responsibility is attributed to minors.
+Context: The Code creates age-based exceptions.
+Output: {"obligations": ["Assess age and mental capacity", "Apply statutory presumptions correctly"], "risks": ["Criminalizing legally exempt conduct", "Violation of child protection principles"]}

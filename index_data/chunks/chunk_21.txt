@@ -1,0 +1,3 @@
+Instruction: Summarize the legal significance of being a cheque signatory in NI Act prosecutions.
+Context: The petitioner admitted signing the cheques.
+Output: {"topic_name": "Cheque Signatory Liability", "parties_involved": ["Cheque signatories", "Companies", "Courts"], "acts_and_clause_involved": ["Sections 138 and 141 NI Act"], "risk_obligations_perks": {"obligations": "Rebut presumptions through evidence", "risks": "Direct linkage to offence triggering act", "benefits": "Opportunity to establish lack of responsibility at trial"}, "summary": "Cheque signatories are presumptively linked to dishonour offences, making resignation defences subject to strict judicial scrutiny."}

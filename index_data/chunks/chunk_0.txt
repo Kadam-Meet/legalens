@@ -1,0 +1,3 @@
+Instruction: Identify the central legal question addressed by the High Court in this decision.
+Context: The petitions seek quashing of cheque dishonour complaints against a former director.
+Output: {"answer": "The core issue is whether a director who resigned before cheque dishonour can be held vicariously liable under Section 141 of the Negotiable Instruments Act at the quashing stage.", "confidence": "high"}

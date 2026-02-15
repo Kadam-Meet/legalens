@@ -1,0 +1,3 @@
+Instruction: Summarize the IPC framework governing property offences.
+Context: The Code categorizes offences against property.
+Output: {"topic_name": "Property Offences under IPC", "parties_involved": ["Accused persons", "Property owners"], "acts_and_clause_involved": ["Sections 378–420 IPC"], "risk_obligations_perks": {"obligations": "Prove dishonest intention and actus reus", "risks": "Criminalizing civil disputes", "benefits": "Protection of proprietary rights"}, "summary": "Property offences under IPC focus on dishonest deprivation and abuse of trust."}

@@ -1,0 +1,3 @@
+Instruction: Explain the limits of writ jurisdiction when challenging acceptance of a police closure report.
+Context: The petitioner invoked constitutional remedies against acceptance of a B-Summary.
+Output: {"answer": "Writ courts intervene only when the investigation or judicial acceptance suffers from illegality, perversity, or mala fides, not merely because an alternative view is possible.", "confidence": "high"}

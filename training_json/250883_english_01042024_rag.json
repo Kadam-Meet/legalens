@@ -1,0 +1,632 @@
+[
+  {
+  "instruction": "Explain how criminal liability under the Sanhita applies to acts committed outside India.",
+  "context": "The Sanhita extends to offences with extraterritorial connections.",
+  "output": {
+    "answer": "Criminal liability applies when acts committed outside India involve Indian citizens, Indian-registered conveyances, or target computer resources located in India.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal risks arising from the extraterritorial application of criminal law.",
+  "context": "Certain offences committed beyond India fall within domestic jurisdiction.",
+  "output": {
+    "obligations": [
+      "Ensure jurisdictional nexus with India",
+      "Apply domestic criminal procedure safeguards"
+    ],
+    "risks": [
+      "Conflict with foreign sovereignty",
+      "Enforcement challenges across borders"
+    ]
+  }
+},
+{
+  "instruction": "Extract principles governing who may be punished under the Sanhita.",
+  "context": "Criminal liability is defined by territorial and personal scope.",
+  "output": {
+    "clauses_found": [
+      "Liability for acts committed within India",
+      "Liability for acts committed outside India with statutory nexus",
+      "Exclusion of special and local laws"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of the Sanhita’s territorial jurisdiction framework.",
+  "context": "Jurisdiction extends beyond physical boundaries in defined cases.",
+  "output": {
+    "topic_name": "Territorial Applicability of Criminal Law",
+    "parties_involved": [
+      "Indian citizens",
+      "Foreign nationals",
+      "Investigating authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter I (Preliminary)"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Establish statutory jurisdictional links",
+      "risks": "Diplomatic and enforcement conflicts",
+      "benefits": "Protection against cross-border offences"
+    },
+    "summary": "The Sanhita adopts an expanded jurisdiction model to address transnational criminal conduct affecting Indian interests."
+  }
+},
+{
+  "instruction": "Analyze why precise statutory definitions are critical in criminal law.",
+  "context": "The Sanhita defines key legal terms exhaustively.",
+  "output": {
+    "answer": "Precise definitions prevent ambiguity, ensure fair notice to individuals, and promote consistent judicial interpretation of offences.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks associated with misinterpreting intent-based definitions such as dishonesty or fraud.",
+  "context": "Mental elements influence criminal liability.",
+  "output": {
+    "obligations": [
+      "Prove intention or knowledge where required",
+      "Differentiate negligence from intentional conduct"
+    ],
+    "risks": [
+      "Over-criminalization",
+      "Misapplication of mens rea standards"
+    ]
+  }
+},
+{
+  "instruction": "Extract core legal concepts that define criminal responsibility.",
+  "context": "The Sanhita clarifies foundational criminal law terms.",
+  "output": {
+    "clauses_found": [
+      "Act and omission equivalence",
+      "Voluntary conduct",
+      "Wrongful gain and wrongful loss",
+      "Good faith requirement"
+    ]
+  }
+},
+{
+  "instruction": "Explain how omissions can give rise to criminal liability.",
+  "context": "Failure to act can constitute an offence in certain cases.",
+  "output": {
+    "answer": "Omissions attract liability when a person is legally bound to act and intentionally or knowingly fails to do so.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks arising from joint criminal conduct involving multiple actors.",
+  "context": "Criminal acts may be committed in furtherance of common intention.",
+  "output": {
+    "obligations": [
+      "Establish shared intention or knowledge",
+      "Link individual participation to the collective act"
+    ],
+    "risks": [
+      "Unfair attribution of liability",
+      "Dilution of individual culpability assessment"
+    ]
+  }
+},
+{
+  "instruction": "Summarize how common intention affects criminal liability.",
+  "context": "Joint participation alters individual responsibility.",
+  "output": {
+    "topic_name": "Liability for Acts Done in Common Intention",
+    "parties_involved": [
+      "Co-accused persons",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "General Explanations"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove conscious cooperation",
+      "risks": "Overextension of vicarious liability",
+      "benefits": "Effective prosecution of group offences"
+    },
+    "summary": "Common intention principles ensure that coordinated criminal conduct is addressed without fragmenting responsibility."
+  }
+},
+{
+  "instruction": "Analyze why criminal punishments are categorized into multiple forms.",
+  "context": "The Sanhita prescribes varied punishments.",
+  "output": {
+    "answer": "Multiple punishment forms allow proportional sentencing based on severity, culpability, and societal impact of offences.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract categories of punishments recognized under the Sanhita.",
+  "context": "The law specifies permissible sentencing options.",
+  "output": {
+    "clauses_found": [
+      "Capital punishment",
+      "Imprisonment for life",
+      "Rigorous and simple imprisonment",
+      "Fine and forfeiture",
+      "Community service"
+    ]
+  }
+},
+{
+  "instruction": "Assess risks associated with disproportionate sentencing.",
+  "context": "Sentencing discretion must align with statutory limits.",
+  "output": {
+    "obligations": [
+      "Ensure proportionality",
+      "Consider statutory sentencing frameworks"
+    ],
+    "risks": [
+      "Arbitrary punishment",
+      "Violation of constitutional safeguards"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of judicial discretion in sentencing.",
+  "context": "Courts determine the nature and extent of punishment.",
+  "output": {
+    "topic_name": "Judicial Sentencing Discretion",
+    "parties_involved": [
+      "Courts",
+      "Convicted persons"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter II (Punishments)"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Apply sentencing principles consistently",
+      "risks": "Sentencing disparity",
+      "benefits": "Individualized justice"
+    },
+    "summary": "Judicial discretion in sentencing balances statutory boundaries with individualized assessment of criminal conduct."
+  }
+},
+{
+  "instruction": "Explain why criminal law recognizes general exceptions to liability.",
+  "context": "The Sanhita outlines circumstances where conduct does not attract punishment.",
+  "output": {
+    "answer": "General exceptions prevent unjust punishment by excluding liability where intent, voluntariness, or legal blameworthiness is absent.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify obligations placed on an accused when invoking a general exception.",
+  "context": "Exceptions operate subject to evidentiary standards.",
+  "output": {
+    "obligations": [
+      "Demonstrate applicability of the exception",
+      "Provide credible supporting evidence"
+    ],
+    "risks": [
+      "Failure to discharge burden",
+      "Rejection of the defence claim"
+    ]
+  }
+},
+{
+  "instruction": "Extract principles governing acts done without criminal intent.",
+  "context": "Mental elements influence criminal responsibility.",
+  "output": {
+    "clauses_found": [
+      "Absence of intention or knowledge",
+      "Conduct performed under lawful authority",
+      "Acts done in good faith"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of how good faith affects criminal liability.",
+  "context": "Good faith modifies culpability under the Sanhita.",
+  "output": {
+    "topic_name": "Good Faith as a Defence",
+    "parties_involved": [
+      "Accused persons",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "General Exceptions Chapter"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Demonstrate due care and attention",
+      "risks": "Negligence negates good faith",
+      "benefits": "Protection against honest mistakes"
+    },
+    "summary": "Good faith shields individuals from liability when actions are taken honestly with reasonable care, even if harm results."
+  }
+},
+{
+  "instruction": "Analyze why accidental acts performed lawfully may not attract criminal liability.",
+  "context": "Accidental conduct is treated distinctly under criminal law.",
+  "output": {
+    "answer": "Accidental acts done without intent, knowledge, or negligence during lawful activity lack culpability and therefore escape punishment.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks when claiming accident as a defence in criminal proceedings.",
+  "context": "Accidental defences require strict factual scrutiny.",
+  "output": {
+    "obligations": [
+      "Show absence of negligence",
+      "Establish lawful conduct at the time"
+    ],
+    "risks": [
+      "Reclassification as negligent offence",
+      "Denial of exception due to carelessness"
+    ]
+  }
+},
+{
+  "instruction": "Extract principles governing validity of consent in criminal law.",
+  "context": "Consent affects liability only under specific conditions.",
+  "output": {
+    "clauses_found": [
+      "Consent must be voluntary",
+      "Consent obtained through coercion or deception is invalid",
+      "Capacity of the consenting person matters"
+    ]
+  }
+},
+{
+  "instruction": "Explain why consent does not excuse acts causing serious harm.",
+  "context": "Consent-based defences are restricted.",
+  "output": {
+    "answer": "Consent cannot legitimize serious bodily harm or acts against public policy, as individual approval cannot override societal interests.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks involved in exceeding the right of private defence.",
+  "context": "Private defence is subject to proportionality limits.",
+  "output": {
+    "obligations": [
+      "Use force proportionate to threat",
+      "Act only during imminent danger"
+    ],
+    "risks": [
+      "Criminal liability for excess force",
+      "Loss of defensive protection"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the legal framework governing the right of private defence.",
+  "context": "The Sanhita codifies defensive rights.",
+  "output": {
+    "topic_name": "Right of Private Defence",
+    "parties_involved": [
+      "Defenders",
+      "Aggressors",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "General Exceptions Chapter"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Establish necessity and proportionality",
+      "risks": "Exceeding defensive limits",
+      "benefits": "Protection of life and property"
+    },
+    "summary": "Private defence allows necessary force to prevent imminent harm while prohibiting retaliatory or excessive action."
+  }
+},
+{
+  "instruction": "Analyze how mental incapacity affects criminal responsibility.",
+  "context": "Mental state at the time of the act determines culpability.",
+  "output": {
+    "answer": "Mental incapacity negates liability when it prevents understanding the nature or wrongfulness of conduct at the time of the act.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract conditions under which mental incapacity excludes criminal liability.",
+  "context": "Insanity-based defences are narrowly defined.",
+  "output": {
+    "clauses_found": [
+      "Inability to understand nature of the act",
+      "Inability to distinguish right from wrong",
+      "Existence of mental disorder at the time of offence"
+    ]
+  }
+},
+{
+  "instruction": "Explain how criminal liability arises through abetment even without direct commission of an offence.",
+  "context": "The Sanhita recognizes indirect participation in crimes.",
+  "output": {
+    "answer": "Abetment creates liability when a person intentionally instigates, assists, or conspires in the commission of an offence, even if they do not execute it themselves.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks faced by individuals accused of abetment without physical participation.",
+  "context": "Indirect involvement can still attract punishment.",
+  "output": {
+    "obligations": [
+      "Establish absence of intentional encouragement or assistance",
+      "Disprove causal connection with the offence"
+    ],
+    "risks": [
+      "Liability equal to principal offender",
+      "Inference of intent from communications or conduct"
+    ]
+  }
+},
+{
+  "instruction": "Extract the legally recognized modes through which abetment may occur.",
+  "context": "Abetment extends beyond direct acts.",
+  "output": {
+    "clauses_found": [
+      "Instigation of an offence",
+      "Engagement in conspiracy",
+      "Intentional aiding through acts or omissions"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of the abetment framework under criminal law.",
+  "context": "The Sanhita codifies indirect criminal participation.",
+  "output": {
+    "topic_name": "Abetment and Indirect Liability",
+    "parties_involved": [
+      "Abettors",
+      "Principal offenders",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Abetment Provisions"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prove intentional encouragement or assistance",
+      "risks": "Overextension of indirect liability",
+      "benefits": "Accountability for orchestrated crimes"
+    },
+    "summary": "Abetment provisions ensure that those who facilitate or encourage crimes are held accountable alongside direct perpetrators."
+  }
+},
+{
+  "instruction": "Analyze why criminal conspiracy is punishable even before the offence is completed.",
+  "context": "Agreements to commit offences attract liability.",
+  "output": {
+    "answer": "Criminal conspiracy is punished to prevent harm at the planning stage, recognizing the danger posed by coordinated criminal intent.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess evidentiary risks in proving existence of a criminal conspiracy.",
+  "context": "Conspiracy often relies on circumstantial proof.",
+  "output": {
+    "obligations": [
+      "Demonstrate agreement between parties",
+      "Link overt acts to the conspiratorial objective"
+    ],
+    "risks": [
+      "Reliance on weak circumstantial evidence",
+      "Misinterpretation of lawful association"
+    ]
+  }
+},
+{
+  "instruction": "Extract core elements required to establish criminal conspiracy.",
+  "context": "Liability flows from collective agreement.",
+  "output": {
+    "clauses_found": [
+      "Agreement between two or more persons",
+      "Intent to commit an unlawful act",
+      "Participation linked to the common design"
+    ]
+  }
+},
+{
+  "instruction": "Explain how criminal attempt is distinguished from mere preparation.",
+  "context": "The law penalizes conduct proximate to offence commission.",
+  "output": {
+    "answer": "An attempt involves direct movement toward committing the offence after preparation, demonstrating clear intent and proximity to completion.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal risks when conduct crosses from preparation into attempt.",
+  "context": "Attempt attracts penal consequences.",
+  "output": {
+    "obligations": [
+      "Assess proximity to the intended offence",
+      "Evaluate unequivocal intent"
+    ],
+    "risks": [
+      "Criminal liability despite non-completion",
+      "Severe penalties for near-completed offences"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the legal significance of different stages of crime under the Sanhita.",
+  "context": "Criminal conduct evolves through defined stages.",
+  "output": {
+    "topic_name": "Stages of Crime",
+    "parties_involved": [
+      "Accused persons",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "General Principles"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Identify stage-specific liability",
+      "risks": "Incorrect classification of conduct",
+      "benefits": "Early prevention of serious offences"
+    },
+    "summary": "The law differentiates between intention, preparation, attempt, and commission to assign proportionate criminal liability."
+  }
+},
+{
+  "instruction": "Analyze whether voluntary withdrawal can negate liability for conspiracy or attempt.",
+  "context": "Abandonment may affect culpability.",
+  "output": {
+    "answer": "Voluntary withdrawal may mitigate or negate liability if it is complete and occurs before the offence or attempt reaches punishable proximity.",
+    "confidence": "medium"
+  }
+},
+{
+  "instruction": "Extract principles guiding punishment for abetment, conspiracy, and attempt.",
+  "context": "Punishment often mirrors the intended offence.",
+  "output": {
+    "clauses_found": [
+      "Punishment proportional to principal offence",
+      "Enhanced punishment for serious crimes",
+      "Mitigation where offence is not completed"
+    ]
+  }
+},
+{
+  "instruction": "Explain why crimes threatening the sovereignty of the State attract enhanced criminal liability.",
+  "context": "Certain offences are classified as threats to national integrity.",
+  "output": {
+    "answer": "Such offences undermine the constitutional order and collective security, justifying stricter punishment to deter large-scale harm.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks involved in prosecuting offences related to national security.",
+  "context": "Security-related offences often involve sensitive information.",
+  "output": {
+    "obligations": [
+      "Balance security concerns with fair trial rights",
+      "Protect classified information during proceedings"
+    ],
+    "risks": [
+      "Overbroad application affecting civil liberties",
+      "Procedural challenges due to secrecy"
+    ]
+  }
+},
+{
+  "instruction": "Extract categories of conduct treated as threats to the State.",
+  "context": "The Sanhita identifies actions endangering national stability.",
+  "output": {
+    "clauses_found": [
+      "Acts endangering sovereignty or unity",
+      "Support to hostile or unlawful organizations",
+      "Armed rebellion or violent subversion"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of how the law addresses threats to national integrity.",
+  "context": "Special provisions deal with collective security offences.",
+  "output": {
+    "topic_name": "Offences Against the State",
+    "parties_involved": [
+      "Accused persons",
+      "State authorities",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "National Security Provisions"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure precise application of security laws",
+      "risks": "Misuse affecting dissent",
+      "benefits": "Protection of constitutional order"
+    },
+    "summary": "The Sanhita criminalizes acts threatening national integrity while requiring careful application to preserve democratic freedoms."
+  }
+},
+{
+  "instruction": "Analyze why disruption of public order is treated separately from ordinary criminal conduct.",
+  "context": "Public order offences affect collective peace.",
+  "output": {
+    "answer": "Public order offences threaten societal stability and require preventive intervention beyond individual victim-based crimes.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess legal risks associated with unlawful assembly charges.",
+  "context": "Group actions may escalate into public disorder.",
+  "output": {
+    "obligations": [
+      "Establish common object of the assembly",
+      "Prove participation with knowledge"
+    ],
+    "risks": [
+      "Criminalization of peaceful association",
+      "Collective liability without individual intent"
+    ]
+  }
+},
+{
+  "instruction": "Extract elements required to establish offences involving unlawful assemblies.",
+  "context": "Group offences require specific components.",
+  "output": {
+    "clauses_found": [
+      "Assembly of multiple persons",
+      "Common object to commit unlawful acts",
+      "Use or threat of force"
+    ]
+  }
+},
+{
+  "instruction": "Explain how collective violence increases criminal culpability under public order laws.",
+  "context": "Group violence magnifies harm.",
+  "output": {
+    "answer": "Collective violence amplifies risk, scale, and unpredictability, warranting enhanced responsibility for participants.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks when regulating speech linked to public disorder or State security.",
+  "context": "Speech-related offences intersect with constitutional freedoms.",
+  "output": {
+    "obligations": [
+      "Demonstrate clear connection to imminent harm",
+      "Apply proportional restrictions"
+    ],
+    "risks": [
+      "Chilling effect on free expression",
+      "Overcriminalization of dissent"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the legal framework governing maintenance of public order.",
+  "context": "Public order provisions address collective threats.",
+  "output": {
+    "topic_name": "Public Order and Collective Security",
+    "parties_involved": [
+      "Public authorities",
+      "Participants in assemblies",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Public Order Provisions"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Prevent escalation while respecting rights",
+      "risks": "Misuse against lawful protest",
+      "benefits": "Preservation of peace and safety"
+    },
+    "summary": "Public order laws empower the State to manage collective risks while demanding careful constitutional balancing."
+  }
+},
+{
+  "instruction": "Analyze why criminal law adopts a preventive approach for security-related offences.",
+  "context": "Certain offences are criminalized at early stages.",
+  "output": {
+    "answer": "Preventive criminalization reduces the likelihood of catastrophic harm by intervening before violence or instability materializes.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract principles supporting preventive criminal liability.",
+  "context": "Early intervention mechanisms exist in security laws.",
+  "output": {
+    "clauses_found": [
+      "Criminalization of preparatory acts",
+      "Liability for support and facilitation",
+      "Punishment for attempts and conspiracies"
+    ]
+  }
+}
+]

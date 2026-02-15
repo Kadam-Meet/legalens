@@ -1,0 +1,3 @@
+Instruction: Assess risks faced by investigating agencies in high-profile allegations.
+Context: Allegations of political influence and conspiracy were raised.
+Output: {"obligations": ["Maintain transparency and objectivity", "Document investigative steps thoroughly"], "risks": ["Judicial scrutiny of investigation quality", "Allegations of bias or mala fides"]}

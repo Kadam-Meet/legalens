@@ -1,0 +1,3 @@
+Instruction: Identify the principal legal issue examined by the High Court in this writ petition.
+Context: The petitioner challenged acceptance of a B-Summary report in a sexual offence FIR.
+Output: {"answer": "The central issue was whether the Magistrate erred in accepting a B-Summary report and closing the FIR despite allegations of serious sexual offences.", "confidence": "high"}

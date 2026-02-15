@@ -1,0 +1,3 @@
+Instruction: Explain why the High Court exercises restraint while quashing criminal complaints at the threshold.
+Context: The Court discusses limits of inherent jurisdiction.
+Output: {"answer": "Because quashing is permissible only when allegations fail even if accepted as true, or when unimpeachable evidence completely negates liability.", "confidence": "high"}

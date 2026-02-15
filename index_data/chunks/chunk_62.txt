@@ -1,0 +1,3 @@
+Instruction: Explain why crimes threatening the sovereignty of the State attract enhanced criminal liability.
+Context: Certain offences are classified as threats to national integrity.
+Output: {"answer": "Such offences undermine the constitutional order and collective security, justifying stricter punishment to deter large-scale harm.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Identify State duties and potential risks related to freedom of assembly.
+Context: Fundamental Rights protect peaceful assembly with limitations.
+Output: {"obligations": ["Allow peaceful gatherings", "Impose restrictions only for legitimate public interests"], "risks": ["Excessive restrictions may be struck down by courts", "Public disorder if regulations are absent"]}

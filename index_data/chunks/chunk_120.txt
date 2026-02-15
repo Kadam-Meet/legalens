@@ -1,0 +1,3 @@
+Instruction: Analyze the legal effect of statutory presumptions on burden of proof.
+Context: Presumptions influence evidentiary evaluation.
+Output: {"answer": "Presumptions shift or ease the burden of proof, requiring the opposing party to rebut assumed facts with credible evidence.", "confidence": "high"}

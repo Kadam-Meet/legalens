@@ -1,0 +1,3 @@
+Instruction: Assess risks when claiming accident as a defence in criminal proceedings.
+Context: Accidental defences require strict factual scrutiny.
+Output: {"obligations": ["Show absence of negligence", "Establish lawful conduct at the time"], "risks": ["Reclassification as negligent offence", "Denial of exception due to carelessness"]}

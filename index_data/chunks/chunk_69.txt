@@ -1,0 +1,3 @@
+Instruction: Explain how collective violence increases criminal culpability under public order laws.
+Context: Group violence magnifies harm.
+Output: {"answer": "Collective violence amplifies risk, scale, and unpredictability, warranting enhanced responsibility for participants.", "confidence": "high"}

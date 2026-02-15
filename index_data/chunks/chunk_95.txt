@@ -1,0 +1,3 @@
+Instruction: Summarize the evidentiary role of admissions under the Act.
+Context: Admissions influence proof without being determinative.
+Output: {"topic_name": "Admissions in Evidence Law", "parties_involved": ["Litigants", "Authorized agents", "Courts"], "acts_and_clause_involved": ["Chapter II (Admissions)"], "risk_obligations_perks": {"obligations": "Ensure voluntariness and relevance", "risks": "Misinterpretation of informal statements", "benefits": "Efficient fact-finding"}, "summary": "Admissions assist courts by narrowing disputes while remaining open to rebuttal and contextual evaluation."}

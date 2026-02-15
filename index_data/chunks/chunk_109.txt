@@ -1,0 +1,3 @@
+Instruction: Extract principles that limit or relax strict proof requirements.
+Context: Certain facts and admissions reduce proof burdens.
+Output: {"clauses_found": ["Facts admitted by parties", "Judicially noticeable facts", "Facts proved through statutory presumptions"]}

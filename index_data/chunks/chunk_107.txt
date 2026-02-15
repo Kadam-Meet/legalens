@@ -1,0 +1,3 @@
+Instruction: Summarize the evidentiary framework governing proof of documentary content.
+Context: Documentary evidence follows structured proof rules.
+Output: {"topic_name": "Proof of Documentary Evidence", "parties_involved": ["Courts", "Parties to proceedings", "Record custodians"], "acts_and_clause_involved": ["Chapters IV and V"], "risk_obligations_perks": {"obligations": "Follow hierarchy of proof", "risks": "Improper substitution of originals", "benefits": "Consistency and reliability in adjudication"}, "summary": "The Act enforces a structured hierarchy for proving documents to preserve evidentiary integrity."}

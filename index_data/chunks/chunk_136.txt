@@ -1,0 +1,3 @@
+Instruction: Evaluate State responsibilities arising from the abolition of untouchability.
+Context: Social equality provisions prohibit discriminatory practices.
+Output: {"obligations": ["Criminalize untouchability practices", "Ensure social inclusion through enforcement"], "risks": ["Criminal liability for enforcement failures", "Perpetuation of social injustice"]}

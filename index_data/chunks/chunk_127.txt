@@ -1,0 +1,3 @@
+Instruction: Determine the risks and duties arising from the prohibition of forced labor.
+Context: The Constitution bans human trafficking and forced labor practices.
+Output: {"obligations": ["The State must criminalize forced labor", "Authorities must enforce labor protections"], "risks": ["Violators face criminal prosecution", "Failure to enforce may result in constitutional violations"]}

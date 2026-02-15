@@ -1,0 +1,3 @@
+Instruction: Assess evidentiary risks in proving existence of a criminal conspiracy.
+Context: Conspiracy often relies on circumstantial proof.
+Output: {"obligations": ["Demonstrate agreement between parties", "Link overt acts to the conspiratorial objective"], "risks": ["Reliance on weak circumstantial evidence", "Misinterpretation of lawful association"]}

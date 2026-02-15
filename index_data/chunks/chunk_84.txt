@@ -1,0 +1,3 @@
+Instruction: Analyze the rationale for admitting statements made by deceased persons as evidence.
+Context: Certain statements are admissible due to necessity and reliability.
+Output: {"answer": "Such statements are admitted because the maker cannot testify and the circumstances often carry inherent reliability linked to the event in question.", "confidence": "high"}

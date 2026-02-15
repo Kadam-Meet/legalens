@@ -1,0 +1,3 @@
+Instruction: Analyze the constitutional meaning of equal protection of laws.
+Context: Equality before law is guaranteed under Fundamental Rights.
+Output: {"answer": "Equal protection ensures that laws apply uniformly while permitting reasonable classification based on legitimate objectives.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Assess risks associated with misinterpreting intent-based definitions such as dishonesty or fraud.
+Context: Mental elements influence criminal liability.
+Output: {"obligations": ["Prove intention or knowledge where required", "Differentiate negligence from intentional conduct"], "risks": ["Over-criminalization", "Misapplication of mens rea standards"]}

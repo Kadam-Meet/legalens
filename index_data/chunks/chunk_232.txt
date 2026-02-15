@@ -1,0 +1,3 @@
+Instruction: Identify risks when residual or catch-all provisions are used to frame charges.
+Context: General attempt and abetment provisions are broad.
+Output: {"obligations": ["Ensure clear linkage to a specific offence", "Avoid vague or duplicative charging"], "risks": ["Judicial rejection for vagueness", "Overlapping or inconsistent charges"]}

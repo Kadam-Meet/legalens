@@ -1,0 +1,3 @@
+Instruction: Extract categories of presumptions available to courts under the Act.
+Context: Presumptions guide judicial reasoning.
+Output: {"clauses_found": ["Discretionary presumptions", "Mandatory presumptions", "Conclusive proof provisions"]}

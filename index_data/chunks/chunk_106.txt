@@ -1,0 +1,3 @@
+Instruction: Identify legal risks when secondary evidence is introduced without justification.
+Context: Secondary evidence is conditionally admissible.
+Output: {"obligations": ["Justify absence or inaccessibility of original", "Comply with statutory conditions"], "risks": ["Rejection of evidence", "Adverse inference by the court"]}

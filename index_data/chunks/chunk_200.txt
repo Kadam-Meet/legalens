@@ -1,0 +1,3 @@
+Instruction: Extract mental elements used to classify homicide offences.
+Context: Mental state determines severity of liability.
+Output: {"clauses_found": ["Intention to cause death", "Intention to cause bodily injury likely to cause death", "Knowledge that the act is likely to cause death"]}

@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of constitutional mechanisms ensuring executive accountability.
+Context: The Constitution establishes checks on executive authority.
+Output: {"topic_name": "Executive Accountability", "parties_involved": ["Council of Ministers", "Parliament", "Judiciary"], "acts_and_clause_involved": ["Articles 74 and 75"], "risk_obligations_perks": {"obligations": "Maintain collective responsibility", "risks": "Loss of legislative confidence", "benefits": "Democratic oversight of executive actions"}, "summary": "Executive accountability is ensured through parliamentary oversight and judicial review."}

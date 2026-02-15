@@ -1,0 +1,3 @@
+Instruction: Analyze how the Court distinguished precedents allowing quashing based on resignation.
+Context: Several Supreme Court decisions were cited by both sides.
+Output: {"answer": "The Court distinguished cases where resignation was undisputed and preceded cheque issuance, unlike the present case involving contested facts and cheque signatures.", "confidence": "high"}

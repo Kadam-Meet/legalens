@@ -1,0 +1,3 @@
+Instruction: Explain how domicile influences citizenship at the commencement of the Constitution.
+Context: Citizenship rules were defined for residents at the time of constitutional adoption.
+Output: {"answer": "Domicile determined citizenship eligibility by linking individuals permanently to Indian territory through birth, descent, or long-term residence.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Extract constitutional provisions related to the admission of new States.
+Context: Part I outlines the structure of the Union and Parliament’s powers.
+Output: {"clauses_found": ["Parliament may admit new States into the Union", "Parliament may establish States on specified conditions"]}

@@ -1,0 +1,3 @@
+Instruction: Extract principles governing acts done without criminal intent.
+Context: Mental elements influence criminal responsibility.
+Output: {"clauses_found": ["Absence of intention or knowledge", "Conduct performed under lawful authority", "Acts done in good faith"]}

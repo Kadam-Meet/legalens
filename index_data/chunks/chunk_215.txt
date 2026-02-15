@@ -1,0 +1,3 @@
+Instruction: Extract elements required to establish the offence of cheating.
+Context: Cheating involves deception at inception.
+Output: {"clauses_found": ["Deception of a person", "Inducement to deliver property or consent", "Dishonest intent at the time of inducement"]}

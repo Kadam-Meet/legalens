@@ -1,0 +1,3 @@
+Instruction: Explain the principle governing liability for acts done by multiple persons with shared intent.
+Context: The Code addresses collective criminal conduct.
+Output: {"answer": "When individuals act in furtherance of a shared intention, each is liable as if they individually committed the act, regardless of the specific role played.", "confidence": "high"}

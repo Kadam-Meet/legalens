@@ -1,0 +1,3 @@
+Instruction: Extract categories of matters where expert opinion is legally relevant.
+Context: Certain subject areas require specialized knowledge.
+Output: {"clauses_found": ["Foreign law", "Science or technical fields", "Identity of handwriting or fingerprints", "Electronic and digital evidence analysis"]}

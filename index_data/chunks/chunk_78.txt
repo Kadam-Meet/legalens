@@ -1,0 +1,3 @@
+Instruction: Analyze why facts forming part of the same transaction are treated as relevant.
+Context: Certain facts gain relevance due to their connection with the main event.
+Output: {"answer": "Such facts provide contextual continuity, helping courts understand events holistically rather than in isolation.", "confidence": "high"}

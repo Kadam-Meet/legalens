@@ -1,0 +1,3 @@
+Instruction: Extract principles governing consent in sexual offence adjudication.
+Context: The Court relied on Supreme Court precedents on consent.
+Output: {"clauses_found": ["Consent must be voluntary and informed", "Promise to marry does not automatically vitiate consent", "Each case depends on its factual context"]}

@@ -1,0 +1,3 @@
+Instruction: Analyze why cheque signatories occupy a distinct position in liability analysis.
+Context: The petitioner admitted signing the cheques.
+Output: {"answer": "Because signing the cheque directly links the individual to the incriminating act that triggers the offence, attracting presumptive liability.", "confidence": "high"}

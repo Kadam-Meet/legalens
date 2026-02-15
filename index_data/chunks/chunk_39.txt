@@ -1,0 +1,3 @@
+Instruction: Identify obligations placed on an accused when invoking a general exception.
+Context: Exceptions operate subject to evidentiary standards.
+Output: {"obligations": ["Demonstrate applicability of the exception", "Provide credible supporting evidence"], "risks": ["Failure to discharge burden", "Rejection of the defence claim"]}

@@ -1,0 +1,3 @@
+Instruction: Identify legal risks arising from the extraterritorial application of criminal law.
+Context: Certain offences committed beyond India fall within domestic jurisdiction.
+Output: {"obligations": ["Ensure jurisdictional nexus with India", "Apply domestic criminal procedure safeguards"], "risks": ["Conflict with foreign sovereignty", "Enforcement challenges across borders"]}

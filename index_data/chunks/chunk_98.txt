@@ -1,0 +1,3 @@
+Instruction: Explain why oral evidence must be direct to be legally admissible.
+Context: The Act specifies strict requirements for proving facts through oral testimony.
+Output: {"answer": "Direct oral evidence ensures reliability by requiring witnesses to testify only about what they personally perceived rather than second-hand information.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Provide a structured summary of how good faith affects criminal liability.
+Context: Good faith modifies culpability under the Sanhita.
+Output: {"topic_name": "Good Faith as a Defence", "parties_involved": ["Accused persons", "Courts"], "acts_and_clause_involved": ["General Exceptions Chapter"], "risk_obligations_perks": {"obligations": "Demonstrate due care and attention", "risks": "Negligence negates good faith", "benefits": "Protection against honest mistakes"}, "summary": "Good faith shields individuals from liability when actions are taken honestly with reasonable care, even if harm results."}

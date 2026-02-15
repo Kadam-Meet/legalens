@@ -1,0 +1,3 @@
+Instruction: Explain why courts defer to investigative findings in absence of procedural illegality.
+Context: The Court declined to substitute its view for that of investigators.
+Output: {"answer": "Deference preserves institutional roles and prevents writ jurisdiction from becoming a forum for re-evaluating evidence.", "confidence": "high"}

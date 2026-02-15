@@ -1,0 +1,3 @@
+Instruction: Summarize constitutional principles guiding India’s international relations.
+Context: The Constitution outlines foreign policy objectives.
+Output: {"topic_name": "International Peace and Cooperation", "parties_involved": ["Government of India", "Foreign States", "International organizations"], "acts_and_clause_involved": ["Article 51"], "risk_obligations_perks": {"obligations": "Respect international law and treaty commitments", "risks": "Diplomatic disputes if obligations are ignored", "benefits": "Global cooperation and peace"}, "summary": "The Constitution encourages peaceful international engagement through respect for law, diplomacy, and arbitration."}

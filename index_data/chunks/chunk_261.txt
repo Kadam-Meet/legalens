@@ -1,0 +1,3 @@
+Instruction: Analyze how a complainant’s affidavit impacts consideration of a closure report.
+Context: The prosecutrix filed an affidavit expressing inability to pursue allegations.
+Output: {"answer": "Such an affidavit may reinforce the investigative conclusion but does not, by itself, absolve the court from examining the legality of the closure.", "confidence": "high"}

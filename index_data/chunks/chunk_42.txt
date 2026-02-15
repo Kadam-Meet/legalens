@@ -1,0 +1,3 @@
+Instruction: Analyze why accidental acts performed lawfully may not attract criminal liability.
+Context: Accidental conduct is treated distinctly under criminal law.
+Output: {"answer": "Accidental acts done without intent, knowledge, or negligence during lawful activity lack culpability and therefore escape punishment.", "confidence": "high"}

@@ -1,0 +1,3 @@
+Instruction: Assess risks associated with imposing punishment without statutory authorization.
+Context: Punishments must be grounded in the Code.
+Output: {"obligations": ["Impose punishment strictly as prescribed", "Observe proportionality limits"], "risks": ["Illegal sentencing", "Violation of personal liberty"]}

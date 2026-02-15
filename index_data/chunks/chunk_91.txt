@@ -1,0 +1,3 @@
+Instruction: Identify risks when courts rely on probability to infer relevance of evidence.
+Context: Probability assessments influence admissibility decisions.
+Output: {"obligations": ["Base probability on objective indicators", "Avoid conjectural reasoning"], "risks": ["Judicial subjectivity", "Overextension of circumstantial evidence"]}

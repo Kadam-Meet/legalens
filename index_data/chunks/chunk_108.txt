@@ -1,0 +1,3 @@
+Instruction: Analyze the role of judicial discretion in evaluating documentary authenticity.
+Context: Courts assess evidentiary credibility beyond formal classification.
+Output: {"answer": "Judicial discretion allows courts to evaluate surrounding circumstances, custody, and reliability when determining evidentiary weight.", "confidence": "high"}

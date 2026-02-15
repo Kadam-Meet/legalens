@@ -1,0 +1,606 @@
+[
+  {
+  "instruction": "Explain the scope of judicial proceedings to which the Bharatiya Sakshya Adhiniyam applies.",
+  "context": "The Act specifies the types of proceedings governed by its evidentiary rules.",
+  "output": {
+    "answer": "The Act governs evidentiary rules in judicial proceedings before courts, including courts-martial, while excluding affidavits and arbitral proceedings.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract the core legal definitions that shape evidentiary interpretation under the Act.",
+  "context": "Chapter I provides foundational definitions for evidentiary analysis.",
+  "output": {
+    "clauses_found": [
+      "Definition of court and judicial authority",
+      "Meaning of documentary and electronic records",
+      "Classification of oral and documentary evidence",
+      "Concept of facts in issue and relevant facts"
+    ]
+  }
+},
+{
+  "instruction": "Identify risks faced by litigants if evidence does not satisfy relevancy standards.",
+  "context": "Only facts in issue and relevant facts may be proved.",
+  "output": {
+    "obligations": [
+      "Ensure evidence directly relates to facts in issue",
+      "Avoid introducing legally irrelevant material"
+    ],
+    "risks": [
+      "Exclusion of evidence by the court",
+      "Weakening of the party’s case"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of how the Act conceptualizes evidence and facts.",
+  "context": "The Act defines evidence, facts, and relevancy principles.",
+  "output": {
+    "topic_name": "Concept of Evidence",
+    "parties_involved": [
+      "Courts",
+      "Witnesses",
+      "Litigating parties"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter I",
+      "Chapter II"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Present legally admissible evidence",
+      "risks": "Improper classification may invalidate proof",
+      "benefits": "Clear evidentiary framework for fair trial"
+    },
+    "summary": "The Act establishes a structured framework distinguishing facts, relevance, and admissible forms of evidence to support judicial decision-making."
+  }
+},
+{
+  "instruction": "Analyze why facts forming part of the same transaction are treated as relevant.",
+  "context": "Certain facts gain relevance due to their connection with the main event.",
+  "output": {
+    "answer": "Such facts provide contextual continuity, helping courts understand events holistically rather than in isolation.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess evidentiary risks associated with post-offence conduct of an accused.",
+  "context": "Conduct before and after an event may influence evidentiary evaluation.",
+  "output": {
+    "obligations": [
+      "Courts must assess conduct objectively",
+      "Parties must contextualize conduct evidence carefully"
+    ],
+    "risks": [
+      "Misinterpretation of innocent behavior",
+      "Over-reliance on circumstantial conduct"
+    ]
+  }
+},
+{
+  "instruction": "Extract principles governing admissibility of acts and statements of co-conspirators.",
+  "context": "Conspiracy-related evidence expands admissibility beyond direct actors.",
+  "output": {
+    "clauses_found": [
+      "Acts and statements made in furtherance of common intention",
+      "Temporal connection with conspiracy objective",
+      "Applicability even without direct participation"
+    ]
+  }
+},
+{
+  "instruction": "Explain why admissions are relevant but not treated as conclusive proof.",
+  "context": "Admissions influence but do not determine judicial findings.",
+  "output": {
+    "answer": "Admissions assist courts in drawing inferences but may be rebutted, ensuring decisions are not based solely on self-incriminating or informal statements.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal risks associated with coerced confessions in criminal proceedings.",
+  "context": "Confessions influenced by inducement or coercion are restricted.",
+  "output": {
+    "obligations": [
+      "Ensure confessions are voluntary",
+      "Exclude evidence obtained through coercion"
+    ],
+    "risks": [
+      "Inadmissibility of confession",
+      "Violation of fair trial principles"
+    ]
+  }
+},
+{
+  "instruction": "Summarize constitutional safeguards governing admissibility of confessions.",
+  "context": "The Act limits use of confessions made to police authorities.",
+  "output": {
+    "topic_name": "Confession Safeguards",
+    "parties_involved": [
+      "Accused persons",
+      "Police authorities",
+      "Judicial magistrates"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter II"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure magistrate oversight",
+      "risks": "Exclusion of illegally obtained evidence",
+      "benefits": "Protection against custodial abuse"
+    },
+    "summary": "The Act prioritizes voluntariness and judicial oversight to prevent misuse of confessional evidence."
+  }
+},
+{
+  "instruction": "Analyze the rationale for admitting statements made by deceased persons as evidence.",
+  "context": "Certain statements are admissible due to necessity and reliability.",
+  "output": {
+    "answer": "Such statements are admitted because the maker cannot testify and the circumstances often carry inherent reliability linked to the event in question.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract categories of facts that courts must recognize without formal proof.",
+  "context": "Judicial notice reduces unnecessary evidentiary burden.",
+  "output": {
+    "clauses_found": [
+      "Laws in force within India",
+      "Official public acts and offices",
+      "Territorial and temporal facts",
+      "Public symbols and national facts"
+    ]
+  }
+},
+{
+  "instruction": "Explain how courts determine whether a fact is sufficiently connected to a matter under inquiry.",
+  "context": "Relevancy is assessed through logical and legal connections with facts in issue.",
+  "output": {
+    "answer": "Courts examine whether the fact logically influences the probability of a fact in issue, considering statutory relevance categories and contextual linkage.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract evidentiary principles that treat causes and consequences as relevant facts.",
+  "context": "Facts explaining how or why an event occurred may be admissible.",
+  "output": {
+    "clauses_found": [
+      "Facts showing the cause of an event",
+      "Facts explaining consequences of an event",
+      "Facts establishing circumstances enabling occurrence"
+    ]
+  }
+},
+{
+  "instruction": "Assess evidentiary risks when relying on motive or preparation to prove guilt.",
+  "context": "Motive and preparation can support inferences about conduct.",
+  "output": {
+    "obligations": [
+      "Correlate motive evidence with facts in issue",
+      "Avoid speculative inference without linkage"
+    ],
+    "risks": [
+      "Overemphasis on motive without direct proof",
+      "Prejudicial impact outweighing probative value"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of how conduct influences evidentiary relevance.",
+  "context": "Conduct before or after an event may affect inference-making.",
+  "output": {
+    "topic_name": "Conduct as Relevant Evidence",
+    "parties_involved": [
+      "Accused persons",
+      "Victims",
+      "Investigating authorities"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter II (Relevancy of Facts)"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Assess conduct in context",
+      "risks": "Misreading neutral behavior as incriminating",
+      "benefits": "Strengthening circumstantial chains"
+    },
+    "summary": "Conduct evidence assists courts in understanding behavioral responses linked to disputed facts, subject to contextual safeguards."
+  }
+},
+{
+  "instruction": "Analyze why inconsistent facts may still be admissible in evidentiary assessment.",
+  "context": "Certain facts gain relevance by contradicting or undermining other facts.",
+  "output": {
+    "answer": "Inconsistent facts help test credibility and probability by challenging competing narratives before the court.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks when courts rely on probability to infer relevance of evidence.",
+  "context": "Probability assessments influence admissibility decisions.",
+  "output": {
+    "obligations": [
+      "Base probability on objective indicators",
+      "Avoid conjectural reasoning"
+    ],
+    "risks": [
+      "Judicial subjectivity",
+      "Overextension of circumstantial evidence"
+    ]
+  }
+},
+{
+  "instruction": "Extract evidentiary rules applicable to determining damages and customary rights.",
+  "context": "Certain facts assist courts in quantification and recognition of rights.",
+  "output": {
+    "clauses_found": [
+      "Facts aiding assessment of damages",
+      "Transactions establishing custom or right",
+      "Instances demonstrating exercise of a right"
+    ]
+  }
+},
+{
+  "instruction": "Explain how evidence of mental state becomes legally relevant under the Act.",
+  "context": "Intent, knowledge, and good faith influence liability.",
+  "output": {
+    "answer": "Mental states are relevant when they directly relate to the disputed conduct, requiring fact-specific linkage rather than general disposition.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks in using patterns of similar conduct to prove intention.",
+  "context": "Series of similar acts may indicate intent or absence of accident.",
+  "output": {
+    "obligations": [
+      "Establish similarity and temporal proximity",
+      "Demonstrate relevance to the specific issue"
+    ],
+    "risks": [
+      "Character-based prejudice",
+      "Improper propensity reasoning"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the evidentiary role of admissions under the Act.",
+  "context": "Admissions influence proof without being determinative.",
+  "output": {
+    "topic_name": "Admissions in Evidence Law",
+    "parties_involved": [
+      "Litigants",
+      "Authorized agents",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter II (Admissions)"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure voluntariness and relevance",
+      "risks": "Misinterpretation of informal statements",
+      "benefits": "Efficient fact-finding"
+    },
+    "summary": "Admissions assist courts by narrowing disputes while remaining open to rebuttal and contextual evaluation."
+  }
+},
+{
+  "instruction": "Analyze the efficiency rationale behind judicial notice of certain facts.",
+  "context": "Some facts are accepted without formal proof.",
+  "output": {
+    "answer": "Judicial notice streamlines proceedings by avoiding proof of universally accepted or officially recorded facts.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract categories of facts that reduce evidentiary burden through judicial notice.",
+  "context": "Courts recognize specific public facts automatically.",
+  "output": {
+    "clauses_found": [
+      "Public laws and official acts",
+      "Geographical and territorial facts",
+      "Public offices and symbols",
+      "International agreements recognized by India"
+    ]
+  }
+},
+{
+  "instruction": "Explain why oral evidence must be direct to be legally admissible.",
+  "context": "The Act specifies strict requirements for proving facts through oral testimony.",
+  "output": {
+    "answer": "Direct oral evidence ensures reliability by requiring witnesses to testify only about what they personally perceived rather than second-hand information.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify risks associated with relying on indirect or hearsay testimony.",
+  "context": "Oral evidence rules restrict indirect narration of facts.",
+  "output": {
+    "obligations": [
+      "Ensure witnesses testify from personal knowledge",
+      "Exclude statements lacking perceptual basis"
+    ],
+    "risks": [
+      "Inadmissibility of testimony",
+      "Distortion of factual accuracy"
+    ]
+  }
+},
+{
+  "instruction": "Extract the legally recognized methods for proving the contents of documents.",
+  "context": "The Act differentiates between primary and secondary evidence.",
+  "output": {
+    "clauses_found": [
+      "Production of the original document",
+      "Use of certified or mechanically accurate copies",
+      "Oral accounts when secondary evidence is permitted"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of what qualifies as primary evidence under the Act.",
+  "context": "Primary evidence establishes authenticity through direct production.",
+  "output": {
+    "topic_name": "Primary Evidence",
+    "parties_involved": [
+      "Courts",
+      "Document custodians",
+      "Litigants"
+    ],
+    "acts_and_clause_involved": [
+      "Chapter V (Documentary Evidence)"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Produce original or authentic digital records",
+      "risks": "Challenges to authenticity if custody is disputed",
+      "benefits": "Highest evidentiary reliability"
+    },
+    "summary": "Primary evidence relies on direct production of documents or electronic records, ensuring maximum credibility in judicial evaluation."
+  }
+},
+{
+  "instruction": "Analyze how electronic records are treated as primary evidence.",
+  "context": "Digital storage and duplication affect evidentiary classification.",
+  "output": {
+    "answer": "Electronic records are treated as primary evidence when created or stored through reliable systems, even if they exist in multiple identical copies.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess evidentiary risks linked to electronic and digital records.",
+  "context": "Digital evidence introduces technical reliability concerns.",
+  "output": {
+    "obligations": [
+      "Maintain proper custody and integrity of digital records",
+      "Demonstrate system reliability when challenged"
+    ],
+    "risks": [
+      "Tampering or manipulation allegations",
+      "Exclusion due to authenticity disputes"
+    ]
+  }
+},
+{
+  "instruction": "Extract categories of evidence recognized as secondary proof.",
+  "context": "Secondary evidence supplements situations where originals are unavailable.",
+  "output": {
+    "clauses_found": [
+      "Certified copies",
+      "Mechanical reproductions",
+      "Counterparts not executed by producing party",
+      "Oral accounts of document contents"
+    ]
+  }
+},
+{
+  "instruction": "Explain why courts prioritize original documents over copies.",
+  "context": "The evidentiary hierarchy favors authenticity.",
+  "output": {
+    "answer": "Original documents reduce the risk of alteration and misrepresentation, providing courts with the most reliable proof of content.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify legal risks when secondary evidence is introduced without justification.",
+  "context": "Secondary evidence is conditionally admissible.",
+  "output": {
+    "obligations": [
+      "Justify absence or inaccessibility of original",
+      "Comply with statutory conditions"
+    ],
+    "risks": [
+      "Rejection of evidence",
+      "Adverse inference by the court"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the evidentiary framework governing proof of documentary content.",
+  "context": "Documentary evidence follows structured proof rules.",
+  "output": {
+    "topic_name": "Proof of Documentary Evidence",
+    "parties_involved": [
+      "Courts",
+      "Parties to proceedings",
+      "Record custodians"
+    ],
+    "acts_and_clause_involved": [
+      "Chapters IV and V"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Follow hierarchy of proof",
+      "risks": "Improper substitution of originals",
+      "benefits": "Consistency and reliability in adjudication"
+    },
+    "summary": "The Act enforces a structured hierarchy for proving documents to preserve evidentiary integrity."
+  }
+},
+{
+  "instruction": "Analyze the role of judicial discretion in evaluating documentary authenticity.",
+  "context": "Courts assess evidentiary credibility beyond formal classification.",
+  "output": {
+    "answer": "Judicial discretion allows courts to evaluate surrounding circumstances, custody, and reliability when determining evidentiary weight.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract principles that limit or relax strict proof requirements.",
+  "context": "Certain facts and admissions reduce proof burdens.",
+  "output": {
+    "clauses_found": [
+      "Facts admitted by parties",
+      "Judicially noticeable facts",
+      "Facts proved through statutory presumptions"
+    ]
+  }
+},
+{
+  "instruction": "Explain why courts rely on expert opinion in technically complex disputes.",
+  "context": "The Act permits opinions of specially skilled persons.",
+  "output": {
+    "answer": "Expert opinions assist courts in understanding specialized subjects beyond common knowledge, enabling informed judicial conclusions.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess legal risks associated with unverified or biased expert testimony.",
+  "context": "Expert evidence must meet relevance and credibility standards.",
+  "output": {
+    "obligations": [
+      "Verify expert qualifications",
+      "Disclose methodology and basis of opinion"
+    ],
+    "risks": [
+      "Rejection of expert opinion",
+      "Misleading the court on technical issues"
+    ]
+  }
+},
+{
+  "instruction": "Extract categories of matters where expert opinion is legally relevant.",
+  "context": "Certain subject areas require specialized knowledge.",
+  "output": {
+    "clauses_found": [
+      "Foreign law",
+      "Science or technical fields",
+      "Identity of handwriting or fingerprints",
+      "Electronic and digital evidence analysis"
+    ]
+  }
+},
+{
+  "instruction": "Provide a structured summary of the role of electronic evidence examiners.",
+  "context": "Digital evidence requires specialized evaluation.",
+  "output": {
+    "topic_name": "Electronic Evidence Examination",
+    "parties_involved": [
+      "Examiner of Electronic Evidence",
+      "Courts",
+      "Investigating agencies"
+    ],
+    "acts_and_clause_involved": [
+      "Information Technology Act linkage",
+      "Expert Evidence provisions"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Ensure forensic integrity",
+      "risks": "Technical errors affecting admissibility",
+      "benefits": "Reliable assessment of digital records"
+    },
+    "summary": "The Act recognizes certified electronic evidence examiners to ensure accurate judicial evaluation of digital material."
+  }
+},
+{
+  "instruction": "Analyze why facts supporting or contradicting expert opinion may still be relevant.",
+  "context": "Expert conclusions are evaluated alongside surrounding facts.",
+  "output": {
+    "answer": "Supporting or contradictory facts help courts assess the reliability and weight of expert opinions rather than accepting them unquestioningly.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Identify evidentiary risks in proving handwriting or electronic signatures.",
+  "context": "Identity verification relies on opinion-based evidence.",
+  "output": {
+    "obligations": [
+      "Establish familiarity or certification authority linkage",
+      "Demonstrate authenticity through reliable comparison"
+    ],
+    "risks": [
+      "Forgery allegations",
+      "Inconclusive identification"
+    ]
+  }
+},
+{
+  "instruction": "Extract opinion-based evidentiary categories recognized by the Act.",
+  "context": "Certain facts require inference through opinion.",
+  "output": {
+    "clauses_found": [
+      "Handwriting identification",
+      "Electronic signature verification",
+      "Customs and general rights",
+      "Usages and institutional practices"
+    ]
+  }
+},
+{
+  "instruction": "Explain how opinions help establish customs or general rights.",
+  "context": "Community practices influence legal determinations.",
+  "output": {
+    "answer": "Opinions of knowledgeable persons help courts assess long-standing practices when documentary proof is unavailable.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Assess risks of relying on character evidence in criminal proceedings.",
+  "context": "Character relevance is carefully restricted.",
+  "output": {
+    "obligations": [
+      "Limit character evidence to permitted circumstances",
+      "Avoid prejudice-based reasoning"
+    ],
+    "risks": [
+      "Unfair bias against the accused",
+      "Miscarriage of justice"
+    ]
+  }
+},
+{
+  "instruction": "Summarize the evidentiary treatment of character in civil and criminal cases.",
+  "context": "Character evidence is treated differently across proceedings.",
+  "output": {
+    "topic_name": "Character Evidence",
+    "parties_involved": [
+      "Accused persons",
+      "Victims",
+      "Courts"
+    ],
+    "acts_and_clause_involved": [
+      "Character Evidence provisions"
+    ],
+    "risk_obligations_perks": {
+      "obligations": "Apply stricter safeguards in criminal cases",
+      "risks": "Improper prejudice influencing verdict",
+      "benefits": "Fair evaluation of conduct where permitted"
+    },
+    "summary": "The Act restricts character evidence to prevent unfair prejudice while allowing limited relevance in defined scenarios."
+  }
+},
+{
+  "instruction": "Analyze the legal effect of statutory presumptions on burden of proof.",
+  "context": "Presumptions influence evidentiary evaluation.",
+  "output": {
+    "answer": "Presumptions shift or ease the burden of proof, requiring the opposing party to rebut assumed facts with credible evidence.",
+    "confidence": "high"
+  }
+},
+{
+  "instruction": "Extract categories of presumptions available to courts under the Act.",
+  "context": "Presumptions guide judicial reasoning.",
+  "output": {
+    "clauses_found": [
+      "Discretionary presumptions",
+      "Mandatory presumptions",
+      "Conclusive proof provisions"
+    ]
+  }
+}
+]

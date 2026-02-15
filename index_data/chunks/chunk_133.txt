@@ -1,0 +1,3 @@
+Instruction: Identify legal consequences of voluntarily acquiring foreign citizenship.
+Context: Citizenship provisions address dual nationality concerns.
+Output: {"obligations": ["Citizens must maintain exclusive allegiance to India"], "risks": ["Automatic loss of Indian citizenship", "Loss of constitutional protections reserved for citizens"]}

@@ -1,0 +1,3 @@
+Instruction: Explain why courts prioritize original documents over copies.
+Context: The evidentiary hierarchy favors authenticity.
+Output: {"answer": "Original documents reduce the risk of alteration and misrepresentation, providing courts with the most reliable proof of content.", "confidence": "high"}

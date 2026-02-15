@@ -1,0 +1,3 @@
+Instruction: Identify constitutional goals related to environmental protection.
+Context: Environmental safeguards are included in State policy directives.
+Output: {"clauses_found": ["Protection of the natural environment", "Safeguarding forests and wildlife"]}

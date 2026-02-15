@@ -1,0 +1,3 @@
+Instruction: Assess risks in using patterns of similar conduct to prove intention.
+Context: Series of similar acts may indicate intent or absence of accident.
+Output: {"obligations": ["Establish similarity and temporal proximity", "Demonstrate relevance to the specific issue"], "risks": ["Character-based prejudice", "Improper propensity reasoning"]}
