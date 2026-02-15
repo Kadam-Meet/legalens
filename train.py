@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
 import torch
 from datasets import load_dataset
 from transformers import (

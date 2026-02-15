@@ -3,6 +3,10 @@ import os, json
 from pathlib import Path
 import numpy as np
 from tqdm import tqdm
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # -------- OCR ----------
 import pdfplumber
