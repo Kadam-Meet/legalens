@@ -6,7 +6,6 @@ import numpy as np
 from tqdm import tqdm
 from dotenv import load_dotenv
 
-# -------- Load Env --------
 load_dotenv()
 HF_TOKEN = os.getenv("HF_TOKEN", "")
 
@@ -25,12 +24,13 @@ import faiss
 from rank_bm25 import BM25Okapi
 from sentence_transformers import SentenceTransformer, CrossEncoder
 
-# -------- LangChain --------
-from langchain.llms import HuggingFacePipeline
-from langchain.schema import Document
-from langchain.retrievers import BaseRetriever
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationalRetrievalChain
+# -------- LCEL --------
+from langchain_community.llms import HuggingFacePipeline
+from langchain_core.documents import Document
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.runnables import RunnablePassthrough, RunnableLambda
+from langchain_core.runnables.history import RunnableWithMessageHistory
+from langchain_core.chat_history import InMemoryChatMessageHistory
 
 # =====================================
 # CONFIG
@@ -52,16 +52,14 @@ TOP_DENSE = 20
 FINAL_TOPK = 5
 
 os.makedirs(CHUNK_DIR, exist_ok=True)
-device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # =====================================
 # LOAD MODELS
 # =====================================
-print("🔄 Loading embedding + reranker models...")
+print("🔄 Loading models...")
+
 embedder = SentenceTransformer(EMB_MODEL)
 reranker = CrossEncoder(RERANK_MODEL)
-
-print("🔄 Loading Mistral 7B...")
 
 tokenizer = AutoTokenizer.from_pretrained(
     BASE_MODEL,
@@ -83,45 +81,41 @@ model = AutoModelForCausalLM.from_pretrained(
     token=HF_TOKEN
 )
 
-# Optional LoRA
 if Path(LORA_PATH).exists():
     model = PeftModel.from_pretrained(model, LORA_PATH, token=HF_TOKEN)
     print("✅ LoRA Loaded")
 
 model.eval()
 
-# Wrap model for LangChain
 pipe = pipeline(
     "text-generation",
     model=model,
     tokenizer=tokenizer,
-    max_new_tokens=512,
-    temperature=0.2
+    max_new_tokens=200,
+    temperature=0.2,
+    return_full_text=False   # VERY IMPORTANT
 )
+
 
 llm = HuggingFacePipeline(pipeline=pipe)
 
 print("✅ Model Ready\n")
 
 # =====================================
-# CHUNKING
-# =====================================
-def chunk_text(text, page):
-    i = 0
-    while i < len(text):
-        yield {"page": page, "text": text[i:i+CHUNK_SIZE].strip()}
-        i += CHUNK_SIZE - OVERLAP
-
-# =====================================
 # INDEXING
 # =====================================
+def chunk_text(text):
+    i = 0
+    while i < len(text):
+        yield text[i:i+CHUNK_SIZE].strip()
+        i += CHUNK_SIZE - OVERLAP
+
+
 def index_documents():
     print("📚 Indexing documents...")
     files = list(Path(DATA_DIR).rglob("*"))
 
-    meta = []
-    corpus = []
-    vectors = []
+    meta, corpus, vectors = [], [], []
     cid = 0
 
     for f in tqdm(files):
@@ -130,22 +124,21 @@ def index_documents():
 
         text = f.read_text(errors="ignore")
 
-        for ch in chunk_text(text, 1):
-            if not ch["text"]:
+        for chunk in chunk_text(text):
+            if not chunk:
                 continue
 
             chunk_path = Path(CHUNK_DIR) / f"chunk_{cid}.txt"
-            chunk_path.write_text(ch["text"], encoding="utf-8")
+            chunk_path.write_text(chunk, encoding="utf-8")
 
             meta.append({
                 "id": cid,
                 "doc": f.name,
-                "page": 1,
                 "path": str(chunk_path)
             })
 
-            corpus.append(ch["text"])
-            vectors.append(ch["text"])
+            corpus.append(chunk)
+            vectors.append(chunk)
             cid += 1
 
     embeddings = embedder.encode(vectors, convert_to_numpy=True)
@@ -159,91 +152,98 @@ def index_documents():
     print(f"✅ Indexed {cid} chunks")
 
 # =====================================
-# HYBRID RETRIEVER
+# HYBRID RETRIEVER FUNCTION
 # =====================================
-class HybridRetriever(BaseRetriever):
+def hybrid_retrieve(query):
 
-    def get_relevant_documents(self, query):
-        if not Path(f"{INDEX_DIR}/faiss.index").exists():
-            index_documents()
+    if not Path(f"{INDEX_DIR}/faiss.index").exists():
+        index_documents()
 
-        index = faiss.read_index(f"{INDEX_DIR}/faiss.index")
-        corpus = json.load(open(f"{INDEX_DIR}/bm25.json"))
-        meta = json.load(open(f"{INDEX_DIR}/meta.json"))
+    index = faiss.read_index(f"{INDEX_DIR}/faiss.index")
+    corpus = json.load(open(f"{INDEX_DIR}/bm25.json"))
+    meta = json.load(open(f"{INDEX_DIR}/meta.json"))
 
-        bm25 = BM25Okapi([c.split() for c in corpus])
-        bm25_ids = np.argsort(
-            bm25.get_scores(query.split())
-        )[::-1][:TOP_BM25]
+    bm25 = BM25Okapi([c.split() for c in corpus])
+    bm25_ids = np.argsort(
+        bm25.get_scores(query.split())
+    )[::-1][:TOP_BM25]
 
-        q_emb = embedder.encode([query], convert_to_numpy=True)
-        _, dense_ids = index.search(
-            q_emb.astype(np.float32),
-            TOP_DENSE
-        )
+    q_emb = embedder.encode([query], convert_to_numpy=True)
+    _, dense_ids = index.search(q_emb.astype(np.float32), TOP_DENSE)
 
-        candidates = list(set(
-            bm25_ids.tolist() + dense_ids[0].tolist()
-        ))
+    candidates = list(set(bm25_ids.tolist() + dense_ids[0].tolist()))
 
-        texts, ids = [], []
-        for cid in candidates:
-            path = meta[cid]["path"]
-            texts.append(Path(path).read_text(errors="ignore"))
-            ids.append(cid)
+    texts, ids = [], []
+    for cid in candidates:
+        path = meta[cid]["path"]
+        texts.append(Path(path).read_text(errors="ignore"))
+        ids.append(cid)
 
-        scores = reranker.predict(
-            [[query, t[:512]] for t in texts]
-        )
+    scores = reranker.predict([[query, t[:512]] for t in texts])
 
-        ranked = sorted(
-            zip(ids, scores),
-            key=lambda x: x[1],
-            reverse=True
-        )[:FINAL_TOPK]
+    ranked = sorted(
+        zip(ids, scores),
+        key=lambda x: x[1],
+        reverse=True
+    )[:FINAL_TOPK]
 
-        documents = []
-        for cid, _ in ranked:
-            m = meta[cid]
-            content = Path(m["path"]).read_text(errors="ignore")
+    docs = []
+    for cid, _ in ranked:
+        m = meta[cid]
+        content = Path(m["path"]).read_text(errors="ignore")
+        docs.append(content)
 
-            documents.append(
-                Document(
-                    page_content=content,
-                    metadata={
-                        "source": m["doc"],
-                        "page": m["page"]
-                    }
-                )
-            )
+    return "\n\n".join(docs)
 
-        return documents
-
-# =====================================
-# MEMORY
-# =====================================
-memory = ConversationBufferMemory(
-    memory_key="chat_history",
-    return_messages=True
+# Wrap retriever as Runnable
+retriever_runnable = RunnableLambda(
+    lambda inputs: hybrid_retrieve(inputs["question"])
 )
 
 # =====================================
-# CHAIN
+# PROMPT
 # =====================================
-retriever = HybridRetriever()
+prompt = ChatPromptTemplate.from_messages([
+    ("system", "You are a legal AI assistant. If the question is not related to legal topics, respond normally without using context."),
+    MessagesPlaceholder(variable_name="chat_history"),
+    ("human", "Context:\n{context}\n\nQuestion:\n{question}")
+])
 
-qa_chain = ConversationalRetrievalChain.from_llm(
-    llm=llm,
-    retriever=retriever,
-    memory=memory,
-    return_source_documents=True
+# =====================================
+# LCEL CHAIN
+# =====================================
+rag_chain = (
+    RunnablePassthrough.assign(
+        context=lambda inputs: hybrid_retrieve(inputs["question"])
+    )
+    | prompt
+    | llm
+)
+
+# =====================================
+# MEMORY (LCEL WAY)
+# =====================================
+store = {}
+
+def get_session_history(session_id: str):
+    if session_id not in store:
+        store[session_id] = InMemoryChatMessageHistory()
+    return store[session_id]
+
+chain_with_memory = RunnableWithMessageHistory(
+    rag_chain,
+    get_session_history,
+    input_messages_key="question",
+    history_messages_key="chat_history"
 )
 
 # =====================================
 # MAIN LOOP
 # =====================================
 def main():
-    print("🧠 Conversational Legal RAG Ready\n")
+    print("🧠 Pure LCEL Legal RAG Ready\n")
+
+    session_id = "legal-session"
 
     while True:
         query = input(">> ")
@@ -251,14 +251,13 @@ def main():
         if query.lower() == "exit":
             break
 
-        result = qa_chain({"question": query})
+        response = chain_with_memory.invoke(
+            {"question": query},
+            config={"configurable": {"session_id": session_id}}
+        )
 
         print("\n📄 RESPONSE\n")
-        print(result["answer"])
-
-        print("\n📚 SOURCES\n")
-        for doc in result["source_documents"]:
-            print(f"{doc.metadata['source']} (Page {doc.metadata['page']})")
+        print(response)
 
 if __name__ == "__main__":
     main()
